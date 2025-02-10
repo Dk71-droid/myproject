@@ -492,5 +492,71 @@ textarea {
     font-weight: bold;
 }
 
+/* ===== Scroll hanya pada konten, bukan seluruh halaman ===== */
+body {
+    overflow: hidden; /* Hilangkan scroll di body */
+    height: 100vh;
+}
 
+#quiz-container {
+    overflow-y: auto; /* Scroll hanya di area soal */
+    max-height: 80vh; /* Batasi tinggi supaya gak kena header & URL browser */
+    padding-bottom: 20px; /* Kasih ruang biar gak ketutupan tombol */
+}
+
+/* ===== Tampilan Khusus untuk HP ===== */
+@media (max-width: 768px) {
+    /* Box soal lebih mentok ke kanan & kiri */
+    #quiz-container {
+        width: 100%; /* Biar mentok kanan kiri */
+        max-width: 100%; /* Hindari ada margin */
+        padding: 15px; /* Lebih kecil dari versi desktop */
+    }
+
+    /* Font lebih kecil di HP */
+    .question-text {
+        font-size: 16px; /* Dari 20px jadi 16px biar gak terlalu besar */
+        margin-bottom: 15px;
+        text-align: left; /* Biar lebih ke kiri */
+    }
+
+    /* Pilihan jawaban lebih kecil dan rapat ke kiri */
+    .option-wrapper {
+        font-size: 14px; /* Ukuran teks lebih kecil */
+        padding: 10px; /* Padding lebih kecil biar gak makan tempat */
+        text-align: left; /* Biar lebih ke kiri */
+    }
+
+    /* Tombol sebelumnya & selanjutnya lebih kecil */
+    .button-container button {
+        padding: 10px 15px; /* Lebih kecil dari versi desktop */
+        font-size: 14px;
+    }
+}
+
+/* ===== Jarak Judul dari Bar URL ===== */
+.index-header h1, h1 {
+    margin-top: 20px; /* Tambah jarak ke bawah supaya gak mepet */
+}
+
+/* ===== Timer lebih rapi & gak numpuk ke soal ===== */
+#timer {
+    position: absolute;
+    top: 10px; /* Jarak dari atas */
+    right: 15px; /* Jarak dari kanan */
+    padding: 8px 12px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== Jarak antara Timer dan Soal ===== */
+#quiz-container {
+    margin-top: 20px; /* Biar timer gak numpuk ke soal */
+}
+
+/* ===== Tambah Jarak antara Soal & Navigasi ===== */
+#quiz-container {
+    padding-bottom: 50px; /* Pastikan ada ruang cukup sebelum tombol */
+}
 
