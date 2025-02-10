@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<link rel="icon" type="image/png" href="favicon.png">
+<link rel="manifest" href="manifest.json">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Latihan Tes PPPK</title>
+  <!-- Jika kamu menggunakan file CSS khusus untuk halaman home, misalnya home.css -->
+  <link rel="stylesheet" href="home.css">
+</head>
+<body>
+  <div class="index-container">
+    <header class="index-header">
+      <h1>Latihan Tes PPPK</h1>
+    </header>
+    <main class="index-main">
+      <div class="button-container">
+        <!-- Tombol Input Soal -->
+        <button class="modern-btn" onclick="openModal()">Input Soal</button>
+        <!-- Tombol Upload Soal -->
+        <button class="modern-btn" onclick="document.getElementById('fileInput').click()">Upload Soal</button>
+        <!-- Tombol Bank Soal -->
+        <button class="modern-btn" onclick="openBankSoal()">Bank Soal</button>
+      </div>
+    </main>
+    
+    <!-- Input file tersembunyi untuk upload file JSON -->
+    <input type="file" id="fileInput" accept=".json" style="display: none;" onchange="uploadFile(event)">
+
+    <!-- Modal Input Soal -->
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <h2>Input Soal</h2>
+        <!-- Textarea ditempatkan di atas tombol -->
+        <textarea id="soalInput" placeholder="Masukkan soal dengan format:
+        
+Soal 1
+A. Pilihan 1 (nilai)
+B. Pilihan 2 (nilai)
+C. Pilihan 3 (nilai)
+D. Pilihan 4 (nilai)
+
+Soal 2? ..."></textarea>
+        <!-- Container tombol di bawah textarea, diposisikan rata tengah -->
+        <div class="modal-button-container" style="text-align: center; margin-top: 20px;">
+          <button class="modern-btn" onclick="saveToBank()">Simpan ke Bank Soal</button>
+          <button class="modern-btn" onclick="saveToLocal()">Simpan ke Lokal</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal Bank Soal -->
+    <div id="bank-soal-modal" class="modal">
+      <div class="modal-content">
+        <span class="close" onclick="closeBankSoal()">&times;</span>
+        <h2>Daftar File Soal</h2>
+        <div id="bank-soal-container"></div>
+      </div>
+    </div>
+  </div>
+
+<script>
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("sw.js").then(function (registration) {
+        console.log("Service Worker Registered!", registration);
+    }).catch(function (error) {
+        console.log("Service Worker Registration Failed:", error);
+    });
+}
+</script>
+
+
+  <script src="script.js"></script>
+
+</body>
+</html>

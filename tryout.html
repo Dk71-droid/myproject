@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tryout Tes PPPK</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Tryout Tes PPPK</h1>
+        
+        <!-- Container untuk soal dan pilihan -->
+        <div id="quiz-container" class="quiz-container"></div>
+
+        <!-- Navigasi soal -->
+        <div class="button-container">
+            <button id="prev-btn" onclick="navigate(-1)">Sebelumnya</button>
+	    <button id="doubt-btn" onclick="markDoubt()">Ragu-ragu</button>
+            <button id="next-btn" onclick="navigate(1)">Selanjutnya</button>
+        </div>
+
+        <!-- Menampilkan hasil setelah selesai -->
+        <div id="result"></div>
+
+        <!-- Timer -->
+        <div id="timer"></div>
+
+        <!-- Modal untuk pengaturan waktu -->
+        <div id="timeModal" class="modal">
+            <div class="modal-content">
+                <h2>Pengaturan Waktu</h2>
+                <label for="timerInput">Durasi Waktu (menit):</label>
+                <input type="number" id="timerInput" min="1" placeholder="Masukkan durasi waktu...">
+                <button onclick="setTimer()">Set Timer</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="tryout.js"></script>
+</body>
+</html>
+
+
