@@ -552,7 +552,7 @@ body {
 
 /* ===== Jarak antara Timer dan Soal ===== */
 #quiz-container {
-    margin-top: 0px; /* Biar timer gak numpuk ke soal */
+    margin-top: 20px; /* Biar timer gak numpuk ke soal */
 }
 
 /* ===== Tambah Jarak antara Soal & Navigasi ===== */
