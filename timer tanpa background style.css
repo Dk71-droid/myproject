@@ -623,3 +623,12 @@ body {
     padding: 12px;
 }
 
+/* ===== Timer Jadi Teks Biasa, Warna Hitam ===== */
+#timer {
+    position: relative; /* Supaya tetap fleksibel */
+    top: 5px; /* Jarak sedikit dari judul */
+    text-align: center;
+    font-size: 18px; /* Ukuran font tetap terlihat */
+    font-weight: bold;
+    color: #000; /* Warna hitam */
+}
