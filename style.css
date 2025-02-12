@@ -612,4 +612,27 @@ body {
         text-align: center;
     }
 }
+/* ===== Font Default (Desktop) ===== */
+.question-text {
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.option-wrapper {
+    font-size: 18px;
+    padding: 12px;
+}
+
+/* ===== Font Lebih Kecil di HP ===== */
+@media (max-width: 768px) {
+    .question-text {
+        font-size: 14px; /* Biar lebih kecil di HP */
+        margin-bottom: 10px;
+    }
+
+    .option-wrapper {
+        font-size: 12px; /* Pilihan lebih kecil */
+        padding: 10px; /* Kurangi padding biar gak makan tempat */
+    }
+}
 
