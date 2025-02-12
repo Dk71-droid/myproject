@@ -515,14 +515,14 @@ body {
 
     /* Font lebih kecil di HP */
     .question-text {
-        font-size: 16px; /* Dari 20px jadi 16px biar gak terlalu besar */
+        font-size: 12px; /* Dari 20px jadi 16px biar gak terlalu besar */
         margin-bottom: 15px;
         text-align: left; /* Biar lebih ke kiri */
     }
 
     /* Pilihan jawaban lebih kecil dan rapat ke kiri */
     .option-wrapper {
-        font-size: 14px; /* Ukuran teks lebih kecil */
+        font-size: 10px; /* Ukuran teks lebih kecil */
         padding: 10px; /* Padding lebih kecil biar gak makan tempat */
         text-align: left; /* Biar lebih ke kiri */
     }
@@ -621,18 +621,5 @@ body {
 .option-wrapper {
     font-size: 18px;
     padding: 12px;
-}
-
-/* ===== Font Lebih Kecil di HP ===== */
-@media (max-width: 768px) {
-    .question-text {
-        font-size: 14px; /* Biar lebih kecil di HP */
-        margin-bottom: 10px;
-    }
-
-    .option-wrapper {
-        font-size: 12px; /* Pilihan lebih kecil */
-        padding: 10px; /* Kurangi padding biar gak makan tempat */
-    }
 }
 
