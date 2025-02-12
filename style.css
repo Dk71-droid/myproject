@@ -590,4 +590,26 @@ body {
     }
 }
 
+/* ===== Timer di Pojok Kanan atas untuk Desktop ===== */
+#timer {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    padding: 8px 12px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== Timer di Bawah Judul untuk HP ===== */
+@media (max-width: 768px) {
+    #timer {
+        position: relative; /* Supaya gak absolute */
+        top: auto;
+        right: auto;
+        display: block;
+        margin: 10px auto; /* Tengahin timer di HP */
+        text-align: center;
+    }
+}
 
