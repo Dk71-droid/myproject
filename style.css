@@ -580,5 +580,14 @@ body {
         max-width: 800px; /* Pastikan lebar tetap proporsional */
     }
 }
+/* ===== Perlebar Kontainer Soal di Desktop ===== */
+@media (min-width: 1024px) {
+    #quiz-container {
+        max-width: 900px; /* Lebih lebar dari sebelumnya */
+        width: 90%; /* Supaya responsif, tetap proporsional */
+        margin: 10px auto; /* Tengahin dan kasih jarak dari judul */
+        padding: 20px; /* Tambahin padding biar nyaman */
+    }
+}
 
 
