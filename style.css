@@ -628,5 +628,16 @@ body {
     font-size: 18px;
     padding: 12px;
 }
+/* Efek getar lembut */
+@keyframes vibrate {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(2px); }
+    50% { transform: translateX(-2px); }
+    75% { transform: translateX(2px); }
+    100% { transform: translateX(0); }
+}
 
+.option-wrapper:active {
+    animation: vibrate 0.2s ease-in-out; /* Getaran halus */
+}
 
