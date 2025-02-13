@@ -627,5 +627,11 @@ body {
     font-size: 18px;
     padding: 12px;
 }
+/* ===== Sembunyikan container timer di HP ===== */
+@media (max-width: 768px) {
+    #timer-container {
+        display: none; /* Menyembunyikan container */
+    }
+}
 
 
