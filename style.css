@@ -614,6 +614,7 @@ body {
         font-weight: bold;
         color: #000; /* Warna hitam */
         background: none; /* Menghilangkan background */
+        border: none
         background-color: transparent; /* Atau menggunakan ini jika background color yang dimaksud */
     }
 }
@@ -626,12 +627,6 @@ body {
 .option-wrapper {
     font-size: 18px;
     padding: 12px;
-}
-/* ===== Sembunyikan container timer di HP ===== */
-@media (max-width: 768px) {
-    #timer {
-        display: none; /* Menyembunyikan container */
-    }
 }
 
 
