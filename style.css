@@ -629,7 +629,7 @@ body {
 }
 /* ===== Sembunyikan container timer di HP ===== */
 @media (max-width: 768px) {
-    #timer-container {
+    #timer {
         display: none; /* Menyembunyikan container */
     }
 }
