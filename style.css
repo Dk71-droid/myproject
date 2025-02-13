@@ -604,8 +604,8 @@ body {
 /* ===== Timer di Bawah Judul untuk HP ===== */
 @media (max-width: 768px) {
     #timer {
-        position: relative; /* Supaya gak absolute */
-        top: 0px;
+        position: absolute; 
+        top: 10px;
         right: auto;
         display: block;
         margin: 10px auto; /* Tengahin timer di HP */
