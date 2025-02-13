@@ -67,7 +67,6 @@ function saveToBank() {
   closeModal();
 }
 
-// Menyimpan soal secara lokal sebagai file JSON
 function saveToLocal() {
     try {
         let questions = parseInput();
@@ -98,7 +97,6 @@ function saveToLocal() {
     }
 }
 
-}
 
 // Fungsi untuk mengunggah file JSON soal
 function uploadFile(event) {
