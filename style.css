@@ -605,7 +605,7 @@ body {
 @media (max-width: 768px) {
     #timer {
         position: absolute; 
-        top: 10px;
+        top: 15px;
         right: auto;
         display: block;
         margin: 10px auto; /* Tengahin timer di HP */
