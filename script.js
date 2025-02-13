@@ -69,22 +69,35 @@ function saveToBank() {
 
 // Menyimpan soal secara lokal sebagai file JSON
 function saveToLocal() {
-  let questions = parseInput();
-  if (!questions) {
-    alert("Masukkan soal terlebih dahulu.");
-    return;
-  }
-  let jsonData = JSON.stringify({ questions }, null, 2);
-  let blob = new Blob([jsonData], { type: "application/json" });
-  let url = URL.createObjectURL(blob);
-  let a = document.createElement("a");
-  a.href = url;
-  a.download = "soal.json";
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-  alert("Soal berhasil disimpan sebagai file JSON.");
-  closeModal();
+    try {
+        let questions = parseInput();
+        
+        if (!questions || questions.length === 0) {
+            alert("Masukkan soal terlebih dahulu.");
+            return;
+        }
+
+        let fileName = prompt("Masukkan nama file (tanpa .json):");
+        if (!fileName) return; // Jika user batal, hentikan proses
+
+        let jsonData = JSON.stringify({ questions }, null, 2);
+        let blob = new Blob([jsonData], { type: "application/json" });
+        let url = URL.createObjectURL(blob);
+        let a = document.createElement("a");
+        a.href = url;
+        a.download = fileName + ".json"; // Nama file sesuai input
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+
+        alert("Soal berhasil disimpan sebagai file JSON.");
+        closeModal();
+    } catch (error) {
+        alert("Terjadi kesalahan saat menyimpan soal.");
+        console.error("Error saat menyimpan:", error);
+    }
+}
+
 }
 
 // Fungsi untuk mengunggah file JSON soal
