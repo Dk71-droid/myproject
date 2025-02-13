@@ -605,12 +605,12 @@ body {
 @media (max-width: 768px) {
     #timer {
         position: relative; /* Supaya gak absolute */
-        top: 5px;
+        top: 15px;
         right: auto;
         display: block;
         margin: 10px auto; /* Tengahin timer di HP */
         text-align: center;
-        font-size: 18px; /* Ukuran font tetap terlihat */
+        font-size: 10px; /* Ukuran font tetap terlihat */
         font-weight: bold;
         color: #000; /* Warna hitam */
     }
