@@ -610,9 +610,11 @@ body {
         display: block;
         margin: 10px auto; /* Tengahin timer di HP */
         text-align: center;
-        font-size: 10px; /* Ukuran font tetap terlihat */
+        font-size: 13px; /* Ukuran font tetap terlihat */
         font-weight: bold;
         color: #000; /* Warna hitam */
+        background: none; /* Menghilangkan background */
+        background-color: transparent; /* Atau menggunakan ini jika background color yang dimaksud */
     }
 }
 /* ===== Font Default (Desktop) ===== */
