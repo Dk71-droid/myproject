@@ -263,3 +263,10 @@ function toggleQuestionGrid() {
     updateQuestionGrid();
     overlay.style.display = (overlay.style.display === "block") ? "none" : "block";
 }
+document.querySelectorAll(".option-wrapper").forEach(option => {
+    option.addEventListener("click", function () {
+        if (navigator.vibrate) {
+            navigator.vibrate(50); // Getar 50ms (hanya di HP)
+        }
+    });
+});
