@@ -102,35 +102,111 @@ function markDoubt() {
     }
     updateQuestionGrid();
 }
+function showPembahasan() {
+    const container = document.getElementById("pembahasan-container");
+    container.innerHTML = "<h3 style='margin-bottom:20px;'>📘 Pembahasan Soal</h3>";
+
+    questions.forEach((question, index) => {
+        const userIndex = userAnswers[index];
+        const userOption = userIndex != null ? question.options[userIndex] : null;
+        const userAnswer = userOption ? userOption.key : "-";
+
+        const correctOption = question.options.reduce((a, b) => a.score > b.score ? a : b);
+        const correctAnswer = correctOption.key;
+        const isCorrect = userAnswer === correctAnswer;
+
+        container.innerHTML += `
+            <div class="question-text" style="margin-bottom: 25px;">
+                <strong>Soal ${index + 1}:</strong> ${question.text}<br>
+                Jawaban Anda: ${userAnswer} (${isCorrect ? "✅" : "❌"})<br>
+                Kunci Jawaban: ${correctAnswer} - ${correctOption.text}<br>
+                <em>Pembahasan:</em> ${question.explanation || "Tidak tersedia."}
+            </div>
+            <hr>
+        `;
+    });
+}
 
 function showFinalScore() {
     totalScore = 0;
+
+    // Hitung total skor
     questions.forEach((question, index) => {
-        let answerIndex = userAnswers[index];
+        const answerIndex = userAnswers[index];
         if (answerIndex != null) {
             totalScore += question.options[answerIndex].score;
         }
     });
 
-    let maxScore = questions.reduce((sum, question) => {
-        let highest = Math.max(...question.options.map(opt => opt.score));
+    const maxScore = questions.reduce((sum, question) => {
+        const highest = Math.max(...question.options.map(opt => opt.score));
         return sum + highest;
     }, 0);
 
-    let quizContainer = document.getElementById("quiz-container");
+    const finalPercent = Math.round((totalScore / maxScore) * 100);
+    const quizContainer = document.getElementById("quiz-container");
+
+    // SKOR UTAMA
     quizContainer.innerHTML = `
         <div class="score-card">
             <h2>Hasil Tryout</h2>
             <p class="score-label">Skor Akhir: <span class="score-value">${totalScore}</span></p>
             <p class="score-label">Skor Maksimal: <span class="score-value">${maxScore}</span></p>
+            <p class="score-label">Persentase Nilai: <span class="score-value">${finalPercent}%</span></p>
             <button onclick="location.reload()" class="restart-btn">Coba Lagi</button>
+            <button onclick="toggleLeaderboard()" class="restart-btn" style="background:#3F51B5;">Lihat Leaderboard</button>
         </div>
+        <div id="pembahasan-container" style="margin-top: 40px;"></div>
+        <div id="leaderboard-container" style="display:none; margin-top: 20px;"></div>
     `;
+
+    // SEMBUNYIKAN TOMBOL
     document.getElementById("prev-btn").style.display = "none";
     document.getElementById("next-btn").style.display = "none";
-    let doubtBtn = document.getElementById("doubt-btn");
+    const doubtBtn = document.getElementById("doubt-btn");
     if (doubtBtn) doubtBtn.style.display = "none";
+
+    // TAMPILKAN PEMBAHASAN
+    showPembahasan();
+
+    // SIMPAN SCORE
+    saveScoreToLeaderboard(finalPercent);
 }
+
+function saveScoreToLeaderboard(score) {
+    const leaderboard = JSON.parse(localStorage.getItem("leaderboard")) || [];
+    const entry = {
+        score: score,
+        date: new Date().toLocaleString()
+    };
+    leaderboard.push(entry);
+    const sorted = leaderboard.sort((a, b) => b.score - a.score).slice(0, 5);
+    localStorage.setItem("leaderboard", JSON.stringify(sorted));
+}
+
+function toggleLeaderboard() {
+    const leaderboardDiv = document.getElementById("leaderboard-container");
+    if (leaderboardDiv.style.display === "none") {
+        showLeaderboard();
+        leaderboardDiv.style.display = "block";
+    } else {
+        leaderboardDiv.style.display = "none";
+    }
+}
+
+function showLeaderboard() {
+    const leaderboard = JSON.parse(localStorage.getItem("leaderboard")) || [];
+    const leaderboardDiv = document.getElementById("leaderboard-container");
+    leaderboardDiv.innerHTML = `
+        <div class="score-card">
+            <h3>🏆 Peringkat Tertinggi</h3>
+            <ul style="text-align:left;">
+                ${leaderboard.map((entry, i) => `<li>#${i + 1} - ${entry.score}% (${entry.date})</li>`).join("")}
+            </ul>
+        </div>
+    `;
+}
+
 
 // --- Bagian Timer & Font (tetap sama) ---
 function updateFontSize(size) {
@@ -263,10 +339,28 @@ function toggleQuestionGrid() {
     updateQuestionGrid();
     overlay.style.display = (overlay.style.display === "block") ? "none" : "block";
 }
-document.querySelectorAll(".option-wrapper").forEach(option => {
-    option.addEventListener("click", function () {
-        if (navigator.vibrate) {
-            navigator.vibrate(50); // Getar 50ms (hanya di HP)
-        }
+
+function kirimKeSpreadsheet(nama, skor) {
+    fetch("https://script.google.com/macros/s/AKfycbyiZ4hG4Fcz6CjsVOeaqnbhihxScg5VU4n5Qkpfzti1FMy-aq2gxTFLoPcYhqxmtQeH/exec", {
+        method: "POST",
+        mode: "no-cors", // penting buat bypass CORS Google
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+            nama: nama,
+            skor: skor
+        })
+    }).then(() => {
+        console.log("Terkirim ke Google Sheet!");
+    }).catch(err => {
+        console.error("Gagal kirim:", err);
     });
-});
+}
+
+let nama = prompt("Masukkan nama Anda untuk leaderboard:");
+if (nama) {
+    kirimKeSpreadsheet(nama, finalPercent); // finalPercent dari skor user
+}
+
+
