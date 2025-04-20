@@ -146,35 +146,6 @@ function showFinalScore() {
     const finalPercent = Math.round((totalScore / maxScore) * 100);
     const quizContainer = document.getElementById("quiz-container");
 
-    // MINTA NAMA USER
-    let nama = prompt("Masukkan nama Anda untuk leaderboard:");
-    if (nama) {
-        kirimKeSpreadsheet(nama, finalPercent);
-    }
-
-    // TAMPILKAN SKOR
-    quizContainer.innerHTML = `
-        <div class="score-card">
-            <h2>Hasil Tryout</h2>
-            <p class="score-label">Skor Akhir: <span class="score-value">${totalScore}</span></p>
-            <p class="score-label">Skor Maksimal: <span class="score-value">${maxScore}</span></p>
-            <p class="score-label">Persentase Nilai: <span class="score-value">${finalPercent}%</span></p>
-            <button onclick="location.reload()" class="restart-btn">Coba Lagi</button>
-            <button onclick="toggleLeaderboard()" class="restart-btn" style="background:#3F51B5;">Lihat Leaderboard</button>
-        </div>
-        <div id="pembahasan-container" style="margin-top: 40px;"></div>
-        <div id="leaderboard-container" style="display:none; margin-top: 20px;"></div>
-    `;
-
-    document.getElementById("prev-btn").style.display = "none";
-    document.getElementById("next-btn").style.display = "none";
-    const doubtBtn = document.getElementById("doubt-btn");
-    if (doubtBtn) doubtBtn.style.display = "none";
-
-    showPembahasan();
-    saveScoreToLeaderboard(finalPercent);
-}
-
     // SKOR UTAMA
     quizContainer.innerHTML = `
         <div class="score-card">
@@ -387,6 +358,7 @@ function kirimKeSpreadsheet(nama, skor) {
     });
 }
 
-
-
-
+let nama = prompt("Masukkan nama Anda untuk leaderboard:");
+if (nama) {
+    kirimKeSpreadsheet(nama, finalPercent); // finalPercent dari skor user
+}
