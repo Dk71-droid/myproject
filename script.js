@@ -11,22 +11,42 @@ function closeModal() {
 }
 
 // Membuka modal Bank Soal
-function openBankSoal() {
-  let bankSoalContainer = document.getElementById("bank-soal-container");
+// Membuka modal Bank Soal (ambil dari GitHub)
+async function openBankSoal() {
+  const bankSoalContainer = document.getElementById("bank-soal-container");
   bankSoalContainer.innerHTML = "";
 
-  savedQuestions.forEach((file) => {
-    let fileButton = document.createElement("button");
-    fileButton.textContent = file.fileName;
-    fileButton.className = "modern-btn";
-    fileButton.onclick = () => {
-      localStorage.setItem("selectedFile", JSON.stringify(file));
-      window.location.href = "tryout.html";
-    };
-    bankSoalContainer.appendChild(fileButton);
-  });
+  try {
+    const response = await fetch("https://api.github.com/repos/Dk71-droid/myproject/contents/data");
+    const files = await response.json();
 
-  document.getElementById("bank-soal-modal").style.display = "flex";
+    files.forEach(file => {
+      if (file.name.endsWith(".json")) {
+        const button = document.createElement("button");
+
+        // Format nama file, contoh: soal1.json => Soal 1
+        const label = file.name
+          .replace(".json", "")
+          .replace(/soal/i, "Soal ")
+          .replace(/(\d+)/, match => `${match}`);
+
+        button.textContent = label;
+        button.className = "modern-btn";
+        button.onclick = async () => {
+          const soalResponse = await fetch(file.download_url);
+          const soalData = await soalResponse.json();
+          localStorage.setItem("selectedFile", JSON.stringify(soalData));
+          window.location.href = "tryout.html";
+        };
+        bankSoalContainer.appendChild(button);
+      }
+    });
+
+    document.getElementById("bank-soal-modal").style.display = "flex";
+  } catch (err) {
+    alert("Gagal memuat daftar soal dari GitHub.");
+    console.error(err);
+  }
 }
 
 // Menutup modal Bank Soal
