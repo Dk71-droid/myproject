@@ -178,7 +178,7 @@ function toggleLeaderboard() {
 
 function showLeaderboard() {
     const soalId = selectedFile.fileName || "umum";
-    const url = `https://script.google.com/macros/s/AKfycbyiZ4hG4Fcz6CjsVOeaqnbhihxScg5VU4n5Qkpfzti1FMy-aq2gxTFLoPcYhqxmtQeH/exec?soal=${soalId}`;
+    const url = 'https://script.google.com/macros/s/AKfycbzSt44LZUNjv3C9b1IyrxoD2YNU07W_VKjWbc1guq-HXlOp0jq66HbqGpFQAlWbKgjL/exec?soal=${soalId}`;
 
     fetch(url)
         .then(res => res.json())
