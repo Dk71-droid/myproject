@@ -112,7 +112,7 @@ function showFinalScore() {
             <p class="score-label">Skor Maksimal: <span class="score-value">${maxScore}</span></p>
             <p class="score-label">Persentase Nilai: <span class="score-value">${finalPercent}%</span></p>
             <button onclick="location.reload()" class="restart-btn">Coba Lagi</button>
-            <button onclick="toggleLeaderboard()" class="restart-btn" style="background:#3F51B5;">Lihat Leaderboard</button>
+            <button onclick="openLeaderboardModal()" class="restart-btn" style="background:#3F51B5;">Lihat Leaderboard</button>
         </div>
         <div id="pembahasan-container" style="margin-top: 40px;"></div>
         <div id="leaderboard-container" style="display:none; margin-top: 20px;"></div>
