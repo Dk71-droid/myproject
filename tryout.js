@@ -260,3 +260,32 @@ function toggleQuestionGrid() {
     updateQuestionGrid();
     document.getElementById("question-grid-overlay").style.display = "block";
 }
+function openLeaderboardModal() {
+    const modal = document.getElementById("leaderboard-modal");
+    const content = document.getElementById("leaderboard-content");
+
+    const soalId = selectedFile.fileName || "umum"; // misal 'soal1', 'soal2'
+    const url = `https://script.google.com/macros/s/AKfycbyiZ4hG4Fcz6CjsVOeaqnbhihxScg5VU4n5Qkpfzti1FMy-aq2gxTFLoPcYhqxmtQeH/exec?id=${soalId}`;
+
+    fetch(url)
+        .then(res => res.json())
+        .then(data => {
+            const top10 = data.sort((a, b) => b.skor - a.skor).slice(0, 10);
+            content.innerHTML = `
+                <ul style="text-align:left;">
+                    ${top10.map((e, i) => `
+                        <li>#${i + 1} - ${e.nama}: ${e.skor}% (${e.tanggal})</li>
+                    `).join("")}
+                </ul>
+            `;
+        })
+        .catch(() => {
+            content.innerHTML = `<p>Gagal memuat leaderboard.</p>`;
+        });
+
+    modal.style.display = "flex";
+}
+
+function closeLeaderboardModal() {
+    document.getElementById("leaderboard-modal").style.display = "none";
+}
