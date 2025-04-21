@@ -1,60 +1,610 @@
 {
-  "fileName": "soal1",
+  "fileName": "soal3",
   "questions": [
     {
       "id": 1,
-      "text": "Saya merupakan seorang anak yang masuk ke dalam kategori anak dengan orang tua yang strict parents. Orang tua saya selalu meminta agar sepulang sekolah saya langsung pulang ke rumah...",
+      "text": "Saya merupakan seorang anak yang masuk ke dalam kategori anak dengan orang tua yang strict parents. Orang tua saya selalu meminta agar sepulang sekolah saya langsung pulang ke rumah. Mereka meminta saya untuk berjanji dan saya menurutinya. Suatu ketika, saya diajak teman untuk pergi karoke bersama tujuan refreshing dari aktivitas tersebut saya pun pulang dengan terlambat, lalu ibu bertanya kepada saya mengenai alasan saya pulang terlambat. Bagaimanakah sikap saya seharusnya?",
       "options": [
         { "key": "A", "text": "Memohon maaf karena pulang terlambat dan berkata jujur akan aktivitasnya bersama teman-temannya.", "score": 4 },
-        { "key": "B", "text": "Tidak menjawab dan langsung pergi ke kamar", "score": 3 },
+        { "key": "B", "text": "Tidak menjawab dan langsung pergi ke kamar", "score": 1 },
         { "key": "C", "text": "Berbohong dengan mengatakan ada ekstrakulikuler tambahan.", "score": 2 },
-        { "key": "D", "text": "Mengalihkan topik pembicaraan agar ibu lupa", "score": 1 }
+        { "key": "D", "text": "Mengalihkan topik pembicaraan agar ibu lupa", "score": 3 }
       ],
-      "explanation": "Integritas yang baik selalu tercermin kepada orang-orang yang menunjukkan perilaku yang selaras dengan nilai. Opsi A paling tepat."
+      "explanation": "Aspek yang dinilai pada soal di atas adalah integritas. Integritas yang baik selalu tercermin kepada orang-orang yang menunjukkan perilaku yang selaras dengan nilai, atau etika. Begitupun pada soal di atas, Orang yang berintegritas baik akan selalu berusaha untuk jujur bagaimanapun kondisinya dan kepada siapapun dia harus bertindak. Opsi A paling tepat."
     },
     {
       "id": 2,
-      "text": "Suatu ketika saya tidak sengaja mendengar percakapan 2 rekan kerja yang sedang merencanakan pembagian hasil dari korupsi uang karyawan...",
+      "text": "Suatu ketika saya tidak sengaja mendengar percakapan 2 rekan kerja yang sedang merencanakan pembagian hasil dari korupsi uang karyawan. Mengetahui hal tersebut bagaimanakah sikap saya seharusnya?",
       "options": [
-        { "key": "A", "text": "Berpura-pura tidak mendengar percakapan tersebut", "score": 2 },
+        { "key": "A", "text": "Berpura-pura tidak mendengar percakapan tersebut", "score": 1 },
         { "key": "B", "text": "Mengingatkan rekan kerja untuk tidak melakukan korupsi", "score": 4 },
-        { "key": "C", "text": "Meminta kepada rekan kerja agar saya bergabung pada pembagian bisnis tersebut", "score": 1 },
+        { "key": "C", "text": "Meminta kepada rekan kerja agar saya bergabung pada pembagian bisnis tersebut", "score": 2 },
         { "key": "D", "text": "Melaporkan hal tersebut kepada pimpinan", "score": 3 }
       ],
-      "explanation": "Orang yang berintegritas akan mengingatkan rekan kerja untuk bertindak sesuai nilai dan etika organisasi."
+      "explanation": "Aspek yang dinilai pada soal di atas adalah integritas. Salah satu ciri dari orang yang memiliki integritas yang baik adalah memiliki kejujuran yang tinggi. Ketika menghadapi situasi dimana Anda mengetahui bahwa rekan kerja Anda berbuat curang, maka tindakan yang bisa Anda lakukan adalah dengan memberikan peringatan terhadap rekan kerja untuk bertindigger sesuai dengan nilai, norma dan etika organisasi dalam segala situasi dan kondisi."
     },
     {
       "id": 3,
-      "text": "Ketika saya mendapati karyawan yang tidak menyelesaikan tugasnya dengan baik, maka sikap saya sebagai pimpinan adalah ....",
+      "text": "Ketika saya mendapati karyawan yang tidak menyelesaikan tugasnya dengan baik, maka sikap saya sebagai pimpinan adalah ….",
       "options": [
         { "key": "A", "text": "Memarahinya di depan karyawan lain", "score": 1 },
         { "key": "B", "text": "Mencari tahu, terkait kendala yang dihadapi oleh karyawan saya tersebut", "score": 4 },
-        { "key": "C", "text": "Memberinya sanksi berupa surat peringatan", "score": 3 },
-        { "key": "D", "text": "Mengevaluasi kinerjanya beberapa bulan terakhir", "score": 2 }
+        { "key": "C", "text": "Memberinya sanksi berupa surat peringatan", "score": 2 },
+        { "key": "D", "text": "Mengevaluasi kinerjanya beberapa bulan terakhir", "score": 3 }
       ],
-      "explanation": "Pemimpin yang baik akan mencari tahu masalah terlebih dahulu sebelum mengambil tindakan."
+      "explanation": "Aspek yang dinilai pada soal di atas adalah integritas. Salah satu indikator dari aspek tersebut adalah kemampuan untuk memastikan anggota yang dipimpin bertindak sesuai dengan nilai, norma dan etika organisasi dalam segala situasi dan kondisi."
     },
     {
       "id": 4,
-      "text": "Saya merupakan seorang pimpinan yang dikenal tegas. Bagaimana sikap saya kala mengetahui ada karyawan berprestasi?",
+      "text": "Saya merupakan seorang pimpinan yang dikenal tegas oleh karyawan saya. Bagaimanakah sikap saya seharusnya kala mengetahui bahwa terdapat karyawan yang memiliki prestasi yang bagus selama bekerja di perusahaan?",
       "options": [
         { "key": "A", "text": "Memberikannya reward sebagai bentuk apresiasi terhadap kinerjanya tersebut", "score": 4 },
-        { "key": "B", "text": "Bersikap biasa saja karena memang sudah kewajibannya memberikan performance terbaik", "score": 2 },
-        { "key": "C", "text": "Mengamati kinerja 1-2 bulan ke depan lalu memberikannya reward", "score": 3 },
-        { "key": "D", "text": "Mencari tahu kepribadian dari karyawan tersebut di kalangan karyawan lainnya", "score": 1 }
+        { "key": "B", "text": "Bersikap biasa saja karena memang sudah kewajibannya memberikan performance yang terbaik", "score": 1 },
+        { "key": "C", "text": "Mengamati kinerja 1-2 bulan kedepan lalu memberikannya reward.", "score": 2 },
+        { "key": "D", "text": "Mencari tahu kepribadian dari karyawan tersebut di kalangan karyawan lainnya", "score": 3 }
       ],
-      "explanation": "Pemimpin perlu memberi apresiasi agar semangat karyawan tetap tinggi."
+      "explanation": "Aspek yang dinilai pada soal di atas adalah integritas. Salah satu indikator dari aspek ini adalah kemampuan untuk memberi apresiasi dan teguran bagi anggota yang dipimpin agar bertindak selaras dengan nilai, norma, dan etika organisasi dalam segala situasi dan kondisi."
     },
     {
       "id": 5,
-      "text": "Kegiatan penyuluhan adalah projek dosen. Saat teman saya kesulitan membuat 40 box sendirian, apa sikap saya?",
+      "text": "Suatu ketika terdapat kegiatan penyuluhan yang merupakan projek dari dosen. Kegiatan penyuluhan ini melibatkan mahasiswa dalam per-tim. Pada saat persiapan penyuluhan tim saya, ketua kelompok sudah membagikan tugas dengan rata atau secara adil. Saya pun selesai menyiapkan bagian saya. Ketika akan bersantai sejenak, saya melihat teman saya nampak kesulitan dan kewalahan dalam membuat 40 kotak box sendirian. Bagaimanakah sikap saya seharusnya?",
       "options": [
         { "key": "A", "text": "Memilih bersantai saja karena saya juga merasa kelelahan", "score": 1 },
-        { "key": "B", "text": "Menawarkan bantuan terlebih dahulu dan mendampingi saat revisi", "score": 3 },
-        { "key": "C", "text": "Segera membantu teman saya dalam menyelesaikan 40 box itu", "score": 4 },
-        { "key": "D", "text": "Memberikan semangat kepada rekan kerja saya yang akan revisi", "score": 2 }
+        { "key": "B", "text": "Menawarkan bantuan kepada rekan kerja saya terlebih dahulu. Segera Mendampingi rekan kerja saya kala melakukan revisi sesuai dengan tugas yang pernah saya kerjakan", "score": 4 },
+        { "key": "C", "text": "Segera membantu teman saya dalam menyelesaikan 40 box itu", "score": 2 },
+        { "key": "D", "text": "Memberikan semangat kepada rekan kerja saya yang akan revisi.", "score": 3 }
       ],
-      "explanation": "Kerja sama ditunjukkan dengan kesediaan untuk langsung membantu rekan yang kewalahan."
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kerja sama. Salah satu indikator dari aspek tersebut adalah kemampuan untuk membantu orang lain dalam menyelesaikan tugas-tugas mereka untuk mendukung sasaran tim kerja."
+    },
+    {
+      "id": 6,
+      "text": "Saya merupakan mahasiswa dari keluarga sederhana, hal tersebut membuat saya berusaha untuk menjadi mahasiswa yang ambisius. Suatu ketika, akan dilaksanakan ujian akhir semester. Saya melihat beberapa teman sedang berkumpul bekerjasama untuk memahami materi yang akan masuk. Bagaimanakah sikap saya pada situasi tersebut?",
+      "options": [
+        { "key": "A", "text": "Belajar seorang diri.", "score": 1 },
+        { "key": "B", "text": "Menghampiri teman-teman lalu saling belajar bersama", "score": 4 },
+        { "key": "C", "text": "Hanya memanggil 2-3 orang teman untuk belajar bersama saya", "score": 2 },
+        { "key": "D", "text": "Memilih keluar kelas dan mencari tempat tenang untuk belajar.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kerjasama. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mau bekerjasama dengan orang lain untuk mencapai tujuan bersama."
+    },
+    {
+      "id": 7,
+      "text": "Saya bekerja di sebuah rumah sakit yang sistem pelayanannya adalah sistem shift. Suatu ketika, saya merasa sedang sakit dan tidak bisa untuk masuk pagi. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Menelpon rekan kerja agar mau membantu saya", "score": 2 },
+        { "key": "B", "text": "Memaksakan diri untuk tetap pergi ke kantor", "score": 1 },
+        { "key": "C", "text": "Beristirahat sejenak, lalu bersiap menuju ke kantor", "score": 3 },
+        { "key": "D", "text": "Menghubungi pimpinan dan menyampaikan permasalahan shift yang saya miliki", "score": 4 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kerjasama. Salah satu indikator dari aspek ini adalah kemampuan untuk menjalin interaksi sosial guna penyelesaian tugas. Pada soal di atas di ketahui bahwa Anda tengah sakit sehingga untuk mengatasi hal tersebut Anda perlu menjalin hubungan dengan baik bersama lingkungan kerja Anda."
+    },
+    {
+      "id": 8,
+      "text": "Saya merupakan seorang pimpinan, suatu ketika terdapat karyawan yang meminta izin kepada saya untuk menyampaikan beberapa ide-idenya yang menurutnya sangat berguna bagi kemajuan perusahaan di masa mendatang. Bagaimana sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mempersilahkan karyawan tersebut masuk ke ruangan dan mendengarkan informasi yang ingin disampaikan", "score": 4 },
+        { "key": "B", "text": "Menyuruh karyawan saya datang lain waktu saja", "score": 1 },
+        { "key": "C", "text": "Mengamati cara penyampaian informasi yang diberikan", "score": 2 },
+        { "key": "D", "text": "Meragukan informasi yang akan diberikan", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah komunikasi. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mendengarkan pihak lain secara aktif, menangkap dan menginterpretasikan pesan-pesan dari orang lain, serta memberikan respon yang sesuai."
+    },
+    {
+      "id": 9,
+      "text": "Saya merupakan seorang guru. Suatu ketika, saya tengah memeriksa hasil jawaban dari ujian siswa-siswa saya. Di tengah pemeriksaan lembar jawaban, saya kaget karena salah satu murid kesayangan saya mendapatkan nilai rendah. Ini adalah kali pertamanya, siswa tersebut mendapatkan nilai rendahnya. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Membiarkan hal tersebut terjadi karena nilai rendah adalah hal yang biasa", "score": 1 },
+        { "key": "B", "text": "Memanggil siswa tersebut dan bertanya terkait masalah apa yang dimilikinya", "score": 4 },
+        { "key": "C", "text": "Membawa siswa saya tersebut ke Bimbingan konseling", "score": 2 },
+        { "key": "D", "text": "Bersikap cuek saja", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah komunikasi. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mendengarkan pihak lain secara aktif menangkap dan menginterpretasikan pesan-pesan dari orang lain, serta memberikan respon yang sesuai."
+    },
+    {
+      "id": 10,
+      "text": "Beberapa hari yang lalu, saya memiliki janji temu dengan sahabat saya. Saya pun menyetujuinya. Namun, pada hari yang sama ternyata ada kegiatan kantor yang mewajibkan saya dalam menghadirinya. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Meminta izin kepada pimpinan untuk tidak berpartisipasi pada kegiatan kantor karena ada janji temu bersama sahabat.", "score": 1 },
+        { "key": "B", "text": "Menyelesaikan kegiatan kantor dulu, lalu pergi bersama sahabat saya.", "score": 2 },
+        { "key": "C", "text": "Menelpon sahabat saya, bahwa saya memiliki agenda dadakan dan wajib mengikuti kegiatan kantor, baru bertemu dengannya", "score": 3 },
+        { "key": "D", "text": "Membuat jadwal ulang terkait pertemuan bersama sahabat.", "score": 4 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah komunikasi. Salah satu indikator dari aspek tersebut adalah kemampuan untuk menyampaikan sesuatu hal yang tidak sesuai dengan realitas yang ada. Memberikan informasi dengan tujuan bisa mengambil keputusan untuk kebaikan bersama."
+    },
+    {
+      "id": 11,
+      "text": "Pada masa pandemi saya beberapa kali mengalami kesulitan dalam memperoleh jaringan. Hal itu, sudah saya sadari sejak awal pelaksanaan kegiatan pembelajaran secara online. Kondisi tersebut juga menjadikan saya sangat sulit untuk bisa aktif berpartisipasi dalam kegiatan pembelajaran. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Berpasrah diri dengan keadaan", "score": 1 },
+        { "key": "B", "text": "Berusaha mencari jaringan di beberapa titik yang memungkinkan berpotensi memberikan signal yang bagus", "score": 4 },
+        { "key": "C", "text": "Mengeluhkan masalah saya kepada guru", "score": 2 },
+        { "key": "D", "text": "Menitip absensi kepada teman", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah orientasi pada hasil. Salah satu indikator dari aspek tersebut adalah kemampuan dalam mempertahankan komitmen pribadi yang tinggi untuk mencapai sesuatu hal yang ingin dituju. Pada soal di atas diketahui bahwa Anda merupakan sosok yang senang aktif berpartisipasi dikelas, sehingga Anda seharusnya mencoba memecahkan masalah tersebut dengan melakukan tindakan seperti pada opsi B."
+    },
+    {
+      "id": 12,
+      "text": "Saya merupakan seorang assistant dosen, suatu ketika saya diminta untuk menyelesaikan translate jurnal. Padahal saya juga perlu untuk mempersiapkan ujian pada esok hari. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Menunda pengerjaan translate jurnal sampai saya selesai ujian", "score": 1 },
+        { "key": "B", "text": "Mempertanyakan deadline penyelesaian dari tugas dosen", "score": 3 },
+        { "key": "C", "text": "Segera menyelesaikan translate jurnal tersebut, lalu fokus belajar persiapan ujian", "score": 4 },
+        { "key": "D", "text": "Meminta kebijaksanaan dosen untuk menunda penyelesaian translate jurnal dalam waktu yang dekat", "score": 2 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah orientasi pada hasil. Salah satu indikator dari aspek tersebut adalah kemampuan untuk Menyelesaikan tugas dengan tuntas dan dapat diandalkan."
+    },
+    {
+      "id": 13,
+      "text": "Ketika metode kerja yang saya gunakan dalam penyelesaian tugas di kantor tidak bekerja dengan baik, dan mempengaruhi performance saya. Maka hal yang akan saya lakukan adalah ….",
+      "options": [
+        { "key": "A", "text": "Bersedia menerima masukan dari rekan kerja lainnya", "score": 4 },
+        { "key": "B", "text": "Memaksakan metode yang sudah saya kuasai", "score": 1 },
+        { "key": "C", "text": "Saya akan mogok kerja hingga metode yang biasa saya gunakan kembali efektif lagi", "score": 2 },
+        { "key": "D", "text": "Mengidentifikasi permasalahan yang ada pada metode kerja saya.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah orientasi pada hasil. Salah satu indikator dari aspek tersebut adalah kemampuan untuk Bersedia menerima masukan, mengikuti contoh cara bekerja yang lebih efektif, efisien di lingkungan kerjanya. Pada soal di atas telah diketahui bahwa metode yang biasa Anda gunakan bermasalah, sehingga di perlukan kebaharuan dalam meningkatkan metode."
+    },
+    {
+      "id": 14,
+      "text": "Tenri merupakan seorang petugas apotik. Pada saat jam pelayanan, Tenri melihat seorang nenek dalam antrian yang panjang. Dari raut wajahnya nenek tersebut sudah tampak kelelahan karena telah mengantri lama. Bagaimanakah sikap tenri seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengacuhkan kondisi nenek tersebut.", "score": 1 },
+        { "key": "B", "text": "Memberikan pengertian kepada pasien lain yang mengantri dan memberikan pelayanan kepada nenek tua tersebut terlebih dahulu.", "score": 4 },
+        { "key": "C", "text": "Membiarkan nenek tersebut tetap mengantri menunggu obatnya sesuai aturan antrian", "score": 2 },
+        { "key": "D", "text": "Berdiskusi dengan rekan kerja agar mendahulukan pelayanan kepada nenek tersebut", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah pelayanan publik. Salah satu indikator dari aspek tersebut adalah kemampuan melaksanakan pelayanan yang baik, sesuai SOP dan tentunya berdasar pada situasi dan kondisi."
+    },
+    {
+      "id": 15,
+      "text": "Ridwan merupakan seorang customer service di sebuah perusahaan asuransi. Ketika sedang melakukan pelayanan terhadap customer yang lainnya tiba-tiba terdapat seorang kakek tua yang merupakan customer di perusahaan kami datang dengan emosi memberikan complaint hal tersebut memecah konsentrasi pelayanan dan banyak menarik perhatian orang yang sedang berada di kantor. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Segera memanggil security agar mengamankan customer tersebut.", "score": 1 },
+        { "key": "B", "text": "Bersikap tidak peduli karena sibuk memberikan pelayanan kepada customer yang ada di hadapan saya", "score": 2 },
+        { "key": "C", "text": "Meminta kakek tersebut untuk tenang dan menjelaskan prosedur pengaduan serta membantu menyelesaikan masalahnya.", "score": 4 },
+        { "key": "D", "text": "Meminta kakek tersebut untuk menunggu hingga pelayanan kepada customer lain selesai.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal tersebut adalah pelayanan publik. Salah satu ciri khas dari aspek ini adalah terdapat aktivitas pelayanan di dalamnya. Indikator dari aspek pelayanan yang seharusnya tercermin pada soal di atas adalah kemampuan dalam melayani kebutuhan, permintaan, dan keluhan pemangku kepentingan. Sebagai seorang customer service yang bertanggung jawab dalam menangani pelanggan atau customer maka sudah semestinya menunjukkan sikap yang ramah dan selalu berusaha untuk menyelesaikan permasalahan yang dihadapi oleh customer. Sehingga opsi yang paling tepat adalah C."
+    },
+    {
+      "id": 16,
+      "text": "Saya adalah seorang perawat di sebuah rumah sakit, suatu ketika pasien yang saya tangani mengeluh karena pelayanan yang diberikan perawat sebelumnya sangat buruk. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Meminta pasien untuk membuat laporan resmi terkait keluhan tersebut.", "score": 2 },
+        { "key": "B", "text": "Mendengarkan keluhan pasien dan meminta maaf atas ketidaknyamanan yang dialami serta berusaha memberikan pelayanan terbaik.", "score": 4 },
+        { "key": "C", "text": "Mengabaikan keluhan pasien karena bukan saya yang melakukan pelayanan sebelumnya.", "score": 1 },
+        { "key": "D", "text": "Menjelaskan bahwa pelayanan sebelumnya bukan tanggung jawab saya.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah pelayanan publik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk merespons kebutuhan dan keluhan dari pemangku kepentingan."
+    },
+    {
+      "id": 17,
+      "text": "Saya bekerja sebagai staff administrasi. Suatu ketika, terdapat masyarakat yang mengeluhkan lamanya proses pengurusan dokumen. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Menjelaskan prosedur yang harus dilalui sesuai aturan.", "score": 2 },
+        { "key": "B", "text": "Mendengarkan keluhan, meminta maaf atas ketidaknyamanan, dan menjelaskan prosedur serta membantu mempercepat proses jika memungkinkan.", "score": 4 },
+        { "key": "C", "text": "Mengabaikan keluhan karena proses sudah sesuai aturan.", "score": 1 },
+        { "key": "D", "text": "Menyarankan masyarakat untuk kembali di lain waktu.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah pelayanan publik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk merespons kebutuhan dan keluhan dari pemangku kepentingan."
+    },
+    {
+      "id": 18,
+      "text": "Saya bekerja sebagai customer service di sebuah bank. Suatu ketika, ada nasabah yang marah karena transaksinya bermasalah. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Meminta nasabah untuk tenang dan menjelaskan prosedur penyelesaian masalah serta membantu menyelesaikannya.", "score": 4 },
+        { "key": "B", "text": "Mengabaikan nasabah karena marah-marah.", "score": 1 },
+        { "key": "C", "text": "Menjelaskan bahwa masalah tersebut bukan kesalahan saya.", "score": 2 },
+        { "key": "D", "text": "Meminta nasabah untuk membuat laporan resmi.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah pelayanan publik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk merespons kebutuhan dan keluhan dari pemangku kepentingan."
+    },
+    {
+      "id": 19,
+      "text": "Saya sedang mengerjakan sebuah proyek dengan tim saya. Suatu ketika, salah satu anggota tim tidak dapat menyelesaikan tugasnya tepat waktu karena masalah pribadi. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Memarahi anggota tim tersebut karena keterlambatannya.", "score": 1 },
+        { "key": "B", "text": "Menawarkan bantuan untuk menyelesaikan tugasnya dan mendiskusikan solusi bersama tim.", "score": 4 },
+        { "key": "C", "text": "Melaporkan anggota tim tersebut kepada pimpinan.", "score": 2 },
+        { "key": "D", "text": "Mengabaikan keterlambatan tersebut karena bukan tanggung jawab saya.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kerja sama. Salah satu indikator dari aspek tersebut adalah kemampuan untuk membantu anggota tim dalam menyelesaikan tugas untuk mencapai tujuan bersama."
+    },
+    {
+      "id": 20,
+      "text": "Saya menjadi bagian dari tim organisasi kegiatan kampus. Namun, salah satu anggota tim sering tidak hadir dalam rapat tanpa alasan yang jelas. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan ketidakhadiran anggota tersebut.", "score": 1 },
+        { "key": "B", "text": "Menghubungi anggota tersebut untuk menanyakan alasannya dan mengajaknya berpartisipasi aktif.", "score": 4 },
+        { "key": "C", "text": "Melaporkan anggota tersebut kepada ketua tim.", "score": 2 },
+        { "key": "D", "text": "Menggantikan tugas anggota tersebut tanpa konfirmasi.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kerja sama. Salah satu indikator dari aspek tersebut adalah kemampuan untuk menjalin komunikasi yang baik dengan anggota tim untuk mencapai tujuan bersama."
+    },
+    {
+      "id": 21,
+      "text": "Saya bekerja sebagai bagian dari tim proyek. Suatu ketika, ide yang saya ajukan ditolak oleh mayoritas anggota tim. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Merasa kesal dan menolak berpartisipasi lebih lanjut.", "score": 1 },
+        { "key": "B", "text": "Menerima keputusan tim dan tetap berkontribusi dengan ide lain atau mendukung ide yang dipilih.", "score": 4 },
+        { "key": "C", "text": "Berdiam diri dan tidak memberikan pendapat lagi.", "score": 2 },
+        { "key": "D", "text": "Mencoba memaksakan ide saya kepada tim.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kerja sama. Salah satu indikator dari aspek tersebut adalah kemampuan untuk menghormati keputusan tim dan tetap berkontribusi untuk mencapai tujuan bersama."
+    },
+    {
+      "id": 22,
+      "text": "Saya menjadi penutup dalam sebuah presentasi kelompok. Namun, waktu yang diberikan sudah hampir habis sebelum saya memulai bagian saya. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Meminta waktu tambahan untuk menyampaikan bagian saya.", "score": 2 },
+        { "key": "B", "text": "Menyampaikan poin-poin penting secara singkat dan efektif sesuai waktu yang tersisa.", "score": 4 },
+        { "key": "C", "text": "Tidak menyampaikan bagian saya karena waktu sudah habis.", "score": 1 },
+        { "key": "D", "text": "Menyela presentasi anggota lain agar saya mendapat waktu.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kerja sama. Salah satu indikator dari aspek tersebut adalah kemampuan untuk menyesuaikan diri dengan situasi demi keberhasilan tim."
+    },
+    {
+      "id": 23,
+      "text": "Saya sedang berdiskusi dengan rekan kerja mengenai sebuah proyek. Namun, pendapat kami berbeda dan diskusi menjadi panas. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Meninggalkan diskusi karena merasa tidak dihargai.", "score": 1 },
+        { "key": "B", "text": "Mendengarkan pendapat rekan kerja dengan tenang, menjelaskan pandangan saya, dan mencari solusi bersama.", "score": 4 },
+        { "key": "C", "text": "Memaksakan pendapat saya karena saya yakin itu yang terbaik.", "score": 2 },
+        { "key": "D", "text": "Mengalah agar diskusi tidak berlarut-larut.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah komunikasi. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mendengarkan secara aktif dan mencari solusi bersama dalam situasi yang menantang."
+    },
+    {
+      "id": 24,
+      "text": "Saya menerima email dari atasan yang berisi kritik terhadap pekerjaan saya. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan email tersebut karena merasa kritikan tidak adil.", "score": 1 },
+        { "key": "B", "text": "Membaca kritik dengan cermat, merefleksikan pekerjaan saya, dan meminta klarifikasi jika perlu.", "score": 4 },
+        { "key": "C", "text": "Membalas email dengan membela diri tanpa mempertimbangkan kritik.", "score": 2 },
+        { "key": "D", "text": "Merasa tersinggung dan mengeluh kepada rekan kerja.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah komunikasi. Salah satu indikator dari aspek tersebut adalah kemampuan untuk menerima umpan balik dengan terbuka dan merespons secara konstruktif."
+    },
+    {
+      "id": 25,
+      "text": "Saya diminta untuk menyampaikan presentasi di depan klien, tetapi saya merasa kurang percaya diri. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Menolak tugas tersebut karena merasa tidak mampu.", "score": 1 },
+        { "key": "B", "text": "Mempersiapkan materi dengan baik, berlatih, dan meminta masukan dari rekan kerja.", "score": 4 },
+        { "key": "C", "text": "Menyampaikan presentasi tanpa persiapan karena merasa tidak akan berhasil.", "score": 2 },
+        { "key": "D", "text": "Meminta orang lain untuk menggantikan saya.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah komunikasi. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mempersiapkan dan menyampaikan informasi dengan baik meskipun menghadapi tantangan pribadi."
+    },
+    {
+      "id": 26,
+      "text": "Saya mendapatkan tugas yang sangat sulit dan saya tidak yakin bisa menyelesaikannya tepat waktu. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Menyerah karena tugas terlalu sulit.", "score": 1 },
+        { "key": "B", "text": "Menganalisis tugas, membuat rencana kerja, dan meminta bantuan jika diperlukan.", "score": 4 },
+        { "key": "C", "text": "Mengerjakan tugas seadanya agar cepat selesai.", "score": 2 },
+        { "key": "D", "text": "Mengabaikan tugas karena merasa tidak mampu.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah orientasi pada hasil. Salah satu indikator dari aspek tersebut adalah kemampuan untuk merencanakan dan mencari solusi untuk menyelesaikan tugas dengan baik."
+    },
+    {
+      "id": 27,
+      "text": "Saya memiliki target kerja yang harus diselesaikan dalam waktu singkat, tetapi banyak gangguan di lingkungan kerja. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan gangguan dan terus bekerja seadanya.", "score": 2 },
+        { "key": "B", "text": "Mengeluh kepada atasan tentang gangguan tersebut.", "score": 1 },
+        { "key": "C", "text": "Mencari cara untuk meminimalkan gangguan, seperti mengatur waktu atau tempat kerja, dan fokus pada target.", "score": 4 },
+        { "key": "D", "text": "Menunda pekerjaan sampai lingkungan kerja lebih kondusif.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah orientasi pada hasil. Salah satu indikator dari aspek tersebut adalah kemampuan untuk tetap fokus pada tujuan meskipun menghadapi tantangan."
+    },
+    {
+      "id": 28,
+      "text": "Saya gagal mencapai target penjualan bulan ini. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Menerima kegagalan dan tidak melakukan apa-apa.", "score": 1 },
+        { "key": "B", "text": "Menganalisis penyebab kegagalan, membuat strategi baru, dan berusaha lebih keras di bulan berikutnya.", "score": 4 },
+        { "key": "C", "text": "Menyalahkan tim karena tidak mendukung saya.", "score": 2 },
+        { "key": "D", "text": "Mengabaikan target karena merasa tidak realistis.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah orientasi pada hasil. Salah satu indikator dari aspek tersebut adalah kemampuan untuk belajar dari kegagalan dan membuat perbaikan untuk mencapai tujuan."
+    },
+    {
+      "id": 29,
+      "text": "Saya diminta untuk memimpin proyek baru, tetapi saya merasa belum memiliki pengalaman yang cukup. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Menolak tugas karena merasa tidak mampu.", "score": 1 },
+        { "key": "B", "text": "Menerima tugas, belajar dari sumber yang tersedia, dan meminta bimbingan dari atasan atau rekan kerja.", "score": 4 },
+        { "key": "C", "text": "Menerima tugas tetapi tidak mempersiapkan diri dengan baik.", "score": 2 },
+        { "key": "D", "text": "Meminta orang lain untuk mengambil alih proyek.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah orientasi pada hasil. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mengambil tanggung jawab dan belajar untuk mencapai tujuan."
+    },
+    {
+      "id": 30,
+      "text": "Saya bekerja di sebuah organisasi masyarakat. Suatu ketika, ada warga yang meminta bantuan untuk menyelesaikan konflik dengan tetangganya. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan permintaan karena bukan tugas saya.", "score": 1 },
+        { "key": "B", "text": "Mendengarkan kedua belah pihak, memfasilitasi mediasi, dan mencari solusi yang adil.", "score": 4 },
+        { "key": "C", "text": "Menyarankan warga untuk menyelesaikan sendiri konfliknya.", "score": 2 },
+        { "key": "D", "text": "Melaporkan konflik tersebut kepada pihak berwenang.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kepekaan terhadap konflik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk memfasilitasi penyelesaian konflik dengan adil dan objektif."
+    },
+    {
+      "id": 31,
+      "text": "Saya menjadi mediator dalam sebuah diskusi kelompok yang mulai memanas karena perbedaan pendapat. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Membiarkan diskusi berlangsung tanpa intervensi.", "score": 1 },
+        { "key": "B", "text": "Mengatur diskusi agar tetap kondusif, memberikan kesempatan kepada semua pihak untuk berbicara, dan mencari titik temu.", "score": 4 },
+        { "key": "C", "text": "Memihak pada salah satu pendapat untuk menyelesaikan diskusi.", "score": 2 },
+        { "key": "D", "text": "Menghentikan diskusi karena tidak produktif.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kepekaan terhadap konflik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mengelola konflik secara konstruktif dan memfasilitasi diskusi yang produktif."
+    },
+    {
+      "id": 32,
+      "text": "Saya mendengar dua rekan kerja berselisih karena salah satu merasa tugasnya lebih berat. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan perselisihan karena bukan urusan saya.", "score": 1 },
+        { "key": "B", "text": "Mengajak keduanya berdiskusi untuk memahami masalah dan mencari solusi bersama.", "score": 4 },
+        { "key": "C", "text": "Melaporkan perselisihan kepada atasan.", "score": 2 },
+        { "key": "D", "text": "Menyarankan mereka untuk menyelesaikan sendiri masalahnya.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kepekaan terhadap konflik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk membantu menyelesaikan konflik secara konstruktif."
+    },
+    {
+      "id": 33,
+      "text": "Saya menjadi bagian dari tim yang memiliki konflik internal karena pembagian tugas yang tidak adil. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan konflik karena tidak ingin terlibat.", "score": 1 },
+        { "key": "B", "text": "Mengusulkan diskusi tim untuk mengevaluasi pembagian tugas dan mencari solusi yang adil.", "score": 4 },
+        { "key": "C", "text": "Menerima pembagian tugas meskipun tidak adil.", "score": 2 },
+        { "key": "D", "text": "Mengadu kepada pimpinan tentang ketidakadilan tersebut.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kepekaan terhadap konflik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mengusulkan solusi yang adil dan konstruktif dalam situasi konflik."
+    },
+    {
+      "id": 34,
+      "text": "Saya melihat seorang rekan kerja yang selalu datang terlambat dan mengganggu produktivitas tim. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan perilaku tersebut karena bukan tanggung jawab saya.", "score": 1 },
+        { "key": "B", "text": "Mengajak rekan kerja tersebut berbicara secara pribadi dan menyarankan untuk lebih disiplin.", "score": 4 },
+        { "key": "C", "text": "Melaporkan perilaku tersebut kepada atasan.", "score": 2 },
+        { "key": "D", "text": "Mengomunikasikan kekesalan saya di depan tim.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kepekaan terhadap konflik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk menangani perilaku yang mengganggu produktivitas tim secara konstruktif."
+    },
+    {
+      "id": 35,
+      "text": "Saya sedang bekerja dalam sebuah tim dan menyadari bahwa salah satu anggota tim tidak berkontribusi sama sekali. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan anggota tersebut dan melanjutkan pekerjaan.", "score": 1 },
+        { "key": "B", "text": "Mengajak anggota tersebut untuk berdiskusi dan memotivasi untuk berkontribusi.", "score": 4 },
+        { "key": "C", "text": "Melaporkan anggota tersebut kepada pimpinan.", "score": 2 },
+        { "key": "D", "text": "Mengambil alih tugas anggota tersebut tanpa diskusi.", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kepekaan terhadap konflik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mendorong kontribusi anggota tim secara konstruktif."
+    },
+    {
+      "id": 36,
+      "text": "Saya memiliki jadwal yang sangat padat karena harus mengikuti lomba antar sekolah, padahal saya juga harus mempersiapkan diri untuk ujian tengah semester. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Berkomunikasi dengan pelatih terkait kondisi saya yang tidak memungkinkan untuk berpartisipasi", "score": 4 },
+        { "key": "B", "text": "Menyarankan pelatih mencari peserta baru", "score": 2 },
+        { "key": "C", "text": "Merasa stress dengan kondisi saya", "score": 1 },
+        { "key": "D", "text": "Meminta kebijakan pelatih agar saya diringankan dalam ujian jika mengikuti lomba", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kepekaan terhadap konflik. Salah satu indikator dari aspek tersebut adalah kemampuan untuk mengelola konflik antara tanggung jawab yang berbeda dengan komunikasi yang baik."
+    },
+    {
+      "id": 37,
+      "text": "Anda memiliki rekan satu divisi anda yang senang sekali menyelesaikan pekerjaannya ketika sudah memasuki batas waktu yang sudah ditentukan, hal tersebut membuat hasil pekerjaannya menjadi kurang maksimal. Menanggapi hal tersebut maka yang akan Anda lakukan ....",
+      "options": [
+        { "key": "A", "text": "Membiarkan saja karena setiap anggota divisi sudah memiliki tugas dan tanggung jawab masing-masing", "score": 1 },
+        { "key": "B", "text": "Menegur dan menasehatinya agar segera menyelesaikan tugas yang diberikan setelah mendapatnya", "score": 4 },
+        { "key": "C", "text": "Memberikan saran untuk meminta bantuan rekan lain jika tidak mampu menyelesaikan pekerjaannya sendiri", "score": 2 },
+        { "key": "D", "text": "Memberikan semangat agar dapat segera menyelesaikan tugasnya", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah kepekaan terhadap konflik. Salah satu bagian dari aspek tersebut adalah kemampuan untuk mengatasi permasalahan yang ada. Sebagai seorang makhluk sosial yang beradab sangat penting untuk memperhatikan tindakan-tindakan apa saja yang dilakukan terhadap orang lain."
+    },
+    {
+      "id": 38,
+      "text": "Teman satu kelas saya sedang asik membicarakan salah satu teman yang usai dipanggil ke ruang Kepala Sekolah karena sudah menunggak pembayaran uang buku dan berpotensi tidak dapat mengikuti Penilaian Akhir Semester karena hal tersebut. Ia merupakan anak yatim dan ibunya hanya bekerja sebagai buruh cuci saja. Menanggapi permasalahan tersebut maka sikap yang saya lakukan ....",
+      "options": [
+        { "key": "A", "text": "Mengajukan usulan alternatif tindakan yang tepat", "score": 4 },
+        { "key": "B", "text": "Mengajak teman sekelas untuk memberikan semangat kepada teman yang kesusahan tersebut", "score": 2 },
+        { "key": "C", "text": "Menasehati teman tersebut agar segera melunasi pembayaran agar dapat mengikuti Penilaian Akhir Semester nantinya", "score": 1 },
+        { "key": "D", "text": "Tidak peduli dengan keadaannya karena pembayaran buku merupakan tanggung jawab seorang siswa", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah empati. Salah satu indikator dari aspek tersebut adalah kemampuan untuk merasakan perasaan orang lain atau menempatkan diri di posisi tersebut."
+    },
+    {
+      "id": 39,
+      "text": "Ketika melihat nenek-nenek pengemis bertebaran di lampu merah, maka tindakan saya ....",
+      "options": [
+        { "key": "A", "text": "Mencaci maki karena tidak diperbolehkan mengemis di lampu merah", "score": 1 },
+        { "key": "B", "text": "Membuang muka kala salah satu dari mereka menghampiri saya", "score": 2 },
+        { "key": "C", "text": "Memberikan sejumlah uang jika salah satu dari mereka menghampiri saya", "score": 4 },
+        { "key": "D", "text": "Berinisiatif untuk memberikan uang kepada pengemis yang ada", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah empati. Seperti yang diketahui bahwa konsep dasar dari empati adalah kemampuan untuk memahami kondisi orang lain."
+    },
+    {
+      "id": 40,
+      "text": "Ketika teman anda meminjam uang kepada anda untuk kedua kalinya dan ia sangat membutuhkan uang tersebut, padahal pinjaman uang sebelumnya belum dikembalikan maka sikap anda ....",
+      "options": [
+        { "key": "A", "text": "Kesal dan mencaci maki karena uang tersebut merupakan hak anda", "score": 1 },
+        { "key": "B", "text": "Tidak memperdulikan karena sudah pernah membantu meminjami uang", "score": 2 },
+        { "key": "C", "text": "Meminjami kembali untuk kedua kalinya dan memberikan saran untuk segera menyicil pinjaman sebelumnya agar tidak berat dalam mengembalikannya", "score": 4 },
+        { "key": "D", "text": "Meminjami uang lagi namun melihat terlebih dahulu seberapa penting kebutuhannya", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah empati. Salah satu indikator dari aspek tersebut adalah kemampuan untuk memahami situasi orang lain dan merasa perlu untuk memberikan bantuan. Ketika orang lain membutuhkan bantuan sudah menjadi kewajiban kita untuk menolongnya."
+    },
+    {
+      "id": 41,
+      "text": "Ketika teman saya sedang menceritakan tentang kisah kehidupannya yang menderita maka saya ....",
+      "options": [
+        { "key": "A", "text": "Memotong pembicaraan teman saya karena tidak penting", "score": 1 },
+        { "key": "B", "text": "Mendengarkannya sambil bermain handphone karena bosan mendengarkan ceritanya", "score": 2 },
+        { "key": "C", "text": "Menyuruhnya untuk bersabar", "score": 3 },
+        { "key": "D", "text": "Mendengarkan dengan penuh antusias dan mencoba menenangkannya serta menanggapi jika dimintai saran olehnya", "score": 4 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah empati. Salah satu indikator dari aspek tersebut adalah kemampuan untuk memahami situasi orang lain, salah satu cara yang dapat dilakukan adalah dengan mendengarkannya baik-baik. Tidak menyela apa yang sedang disampaikannya dan berusaha menenangkannya apabila dibutuhkan."
+    },
+    {
+      "id": 42,
+      "text": "Hari ini tim satu divisi saya akan menjenguk salah satu rekan kerja yang sakit. Namun, saya masih memiliki pekerjaan kantor yang harus saya selesaikan namun tidak terburu-buru. Maka sikap saya ....",
+      "options": [
+        { "key": "A", "text": "Saya lebih memilih menyelesaikan pekerjaan saya di kantor karena pekerjaan kantor harus lebih diutamakan daripada apapun", "score": 1 },
+        { "key": "B", "text": "Saya akan ikut menjenguk rekan saya jika pekerjaan saya sudah selesai", "score": 2 },
+        { "key": "C", "text": "Saya akan mengerjakan pekerjaan saya secepat mungkin agar tidak memiliki beban ketika menjenguk rekan yang sakit", "score": 3 },
+        { "key": "D", "text": "Saya akan ikut menjenguk karena ingin mengetahui keadaan rekan kerja saya setelah itu baru melanjutkan menyelesaikan pekerjaan kantor saya", "score": 4 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah empati. Salah satu indikator dari aspek tersebut adalah sikap kepedulian yang harusnya ditunjukkan kala teman Anda mengalami musibah, memilih menyelesaikan pekerjaan dibandingkan menjenguk teman yang sakit terlebih dahulu menunjukkan sikap yang kurang berempati dan minim perasaan kepedulian."
+    },
+    {
+      "id": 43,
+      "text": "Suatu ketika, salah satu staff saya melakukan pelanggaran yang menyebabkan kerugian bagi perusahaan. Staff tersebut memiliki kekerabatan dengan saya. Berdasarkan SOP Perusahaan tindakannya tersebut bisa membuatnya mendapatkan sanksi yang berat. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Memberikan sanksi yang tegas sesuai dengan peraturan perusahaan", "score": 4 },
+        { "key": "B", "text": "Memberikan keringanan kepada staff tersebut karena merupakan kerabat saya", "score": 1 },
+        { "key": "C", "text": "Memberikan kesempatan untuk staff tersebut memperbaiki dirinya", "score": 2 },
+        { "key": "D", "text": "Melakukan mediasi kepada staff tersebut untuk menemukan solusi dari kesalahan yang telah diperbuatnya", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah integritas. Sebagai seorang pimpinan maka sangat penting untuk bersikap dengan tegas terhadap perilaku pelanggaran yang berpotensi merugikan perusahaan Anda. Tanpa memperhatikan status ada/tidaknya hubungan keluarga dengan Anda. Karena hal ini, tidak mencerminkan sikap integritas yang baik."
+    },
+    {
+      "id": 44,
+      "text": "Ketika membuat laporan kerja bulanan, rekan kerja satu divisi saya banyak yang memanipulasi data karena banyak target yang tidak tercapai. Mereka mengajak saya untuk mengikuti cara kerjanya dan mengancam akan menjauhi saya jika tidak mengikuti cara kerja mereka. Menanggapi hal tersebut maka sikap saya ....",
+      "options": [
+        { "key": "A", "text": "Saya akan menegur kecurangan yang mereka lakukan", "score": 3 },
+        { "key": "B", "text": "Saya akan berusaha mempertahankan prinsip kejujuran di dalam diri saya dalam kondisi apapun", "score": 4 },
+        { "key": "C", "text": "Saya akan menuruti kemauan rekan saya demi sebuah solidaritas", "score": 1 },
+        { "key": "D", "text": "Saya akan mengikuti cara kerja mereka karena memanipulasi data adalah hal yang wajar", "score": 2 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah integritas. Salah satu indikator penting dari aspek tersebut adalah kejujuran. Berdusta berbanding terbalik dengan kejujuran. Sehingga orang yang berintegritas yang baik akan selalu berusaha untuk jujur. Meskipun konsekuensinya adalah Anda tidak terlalu disukai oleh rekan kerja Anda, hal tersebut jauh lebih mulia dibandingkan disukai karena berdusta."
+    },
+    {
+      "id": 45,
+      "text": "Untuk mendapatkan kenaikan posisi di perusahaan maka saya akan ....",
+      "options": [
+        { "key": "A", "text": "Berusaha keras dengan cara yang baik dan jujur", "score": 4 },
+        { "key": "B", "text": "Meminta masukan kepada senior", "score": 3 },
+        { "key": "C", "text": "Bekerja dengan santai karena semua karyawan pasti akan naik jabatan", "score": 1 },
+        { "key": "D", "text": "Memberikan sejumlah uang kepada atasan agar segera naik jabatan", "score": 2 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah integritas. Berupaya semaksimal mungkin merupakan sesuatu hal yang baik untuk meraih jenjang karir terbaik. Meskipun harus bersusah payah, hasil yang akan Anda peroleh nantinya akan jauh lebih berkah."
+    },
+    {
+      "id": 46,
+      "text": "Saya merupakan karyawan yang sudah bekerja cukup lama diperusahaan. Ketika saya datang terlambat ke kantor maka saya akan ....",
+      "options": [
+        { "key": "A", "text": "Saya merasa biasa saja karena saya merupakan senior di perusahaan", "score": 1 },
+        { "key": "B", "text": "Saya akan masuk kantor secara diam-diam agar rekan kerja lain tidak melihat jika saya terlambat", "score": 2 },
+        { "key": "C", "text": "Saya merasa malu dan meminta maaf atas keterlambatan serta berusaha untuk tidak mengulanginya lagi", "score": 4 },
+        { "key": "D", "text": "Meminta maaf ke atasan karena keterlambatan yang telah dilakukan", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah integritas. Orang yang memiliki integritas yang baik cenderung akan bertindak sesuai dengan aturan yang ada di tempat kerja, terlepas dari status Anda yang sudah lama bekerja atau baru sebentar."
+    },
+    {
+      "id": 47,
+      "text": "Saya memilih untuk stay ditempat kerja yang saat ini menjadi tempat saya mengadu nasib, meskipun penawaran bekerja di tempat lain selalu berdatangan. Tempat kerja Anda saat ini merupakan tempat Anda mengadu nasib dari 10 tahun yang lalu, ketika Anda mendapatkan penawaran bekerja di tempat lain tindakan yang Anda lakukan yaitu ....",
+      "options": [
+        { "key": "A", "text": "Saya akan memilih tetap bertahan pada perusahaan ini dengan terus memberikan kontribusi terbaik", "score": 4 },
+        { "key": "B", "text": "Saya akan menghabiskan masa kerja saya sampai pensiun di perusahaan ini", "score": 3 },
+        { "key": "C", "text": "Saya akan mempertimbangkannya terlebih dahulu", "score": 2 },
+        { "key": "D", "text": "Saya akan meninggalkan perusahaan ini demi gaji yang lebih tinggi", "score": 1 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah integritas. Orang yang memiliki integritas yang baik akan menunjukkan sikap loyalitas dan totalitas terhadap pekerjaannya, bahkan memiliki dedikasi yang tinggi dan tidak mudah tergiur dengan keinginan berpindah karena alasan yang bersifat pribadi."
+    },
+    {
+      "id": 48,
+      "text": "Suatu ketika akan diadakan tes seleksi cpns. Saya sebenarnya tidak terlalu berambisi untuk menjadi seorang ASN. Namun, orang tua saya mengharapkan saya menjadi ASN agar bisa menjadi sukses. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Menentang keinginan kedua orang tua saya, karena saya tidak menginginkannya", "score": 1 },
+        { "key": "B", "text": "Berusaha mengikuti keinginan kedua orang tua saya agar mereka bahagia", "score": 3 },
+        { "key": "C", "text": "Saya berusaha bersungguh-sungguh mengikuti tes seleksi cpns agar bisa membanggakan kedua orang tua", "score": 4 },
+        { "key": "D", "text": "Saya memberitahu kedua orang tua terkait impian saya yang tidak ingin menjadi seorang ASN.", "score": 2 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah moralitas. Sebagai seorang anak sudah sepatutnya berusaha untuk membahagiakan orang tua dengan cara mengikuti perkataannya. Selama hal yang diarahkan tersebut mengarah ke hal hal baik."
+    },
+    {
+      "id": 49,
+      "text": "Ketika bertemu guru dimanapun baik itu di sekolah ataupun di luar sekolah maka saya akan ....",
+      "options": [
+        { "key": "A", "text": "Bersalaman dan menanyakan kabar", "score": 4 },
+        { "key": "B", "text": "Menyapa dan melambaikan tangan dari kejauhan", "score": 3 },
+        { "key": "C", "text": "Menyapa guru yang dikenal saja", "score": 2 },
+        { "key": "D", "text": "Menghindarinya karena malu untuk menyapa", "score": 1 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah moralitas. Moralitas berkaitan dengan nilai-nilai yang berlaku di kehidupan sosial. Salah satu sikap yang seharusnya dilestarikan adalah dengan bersikap sopan kepada guru ketika bertemu seperti berjabat tangan atau bersalaman."
+    },
+    {
+      "id": 50,
+      "text": "Saya tidak sengaja melihat seorang anak mencuri uang di tas saya, maka saya ....",
+      "options": [
+        { "key": "A", "text": "Menasehatinya secara empat mata bahwa tindakan yang dilakukan tersebut tidak baik", "score": 4 },
+        { "key": "B", "text": "Melaporkan pada pihak yang berwenang", "score": 2 },
+        { "key": "C", "text": "Memarahinya didepan umum", "score": 1 },
+        { "key": "D", "text": "Berteriak maling agar orang-orang membantu menghakimi anak tersebut", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah moralitas. Mencuri merupakan suatu tindakan yang kurang baik, sehingga harus diantisipasi dengan cara memberikan edukasi atau nasihat agar di kemudian hari anak tersebut tidak mengulanginya lagi."
+    },
+    {
+      "id": 51,
+      "text": "Ketika saya sedang asik menonton drama korea favorit saya dikamar, lalu ibu berteriak untuk membantunya maka sikap saya ....",
+      "options": [
+        { "key": "A", "text": "Bertanya dari dalam kamar bantuan apa yang diperlukan ibu", "score": 2 },
+        { "key": "B", "text": "Segera menghampiri ibu dan bertanya apa yang bisa dibantu", "score": 4 },
+        { "key": "C", "text": "Membantunya ketika sudah selesai menonton drama korea", "score": 3 },
+        { "key": "D", "text": "Berpura-pura tidak mendengar karena tidak ingin tertinggal drama korea favorit saya", "score": 1 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah moralitas. Moralitas berkaitan dengan nilai-nilai yang berlaku di kehidupan sosial. Sebagai seorang anak sudah semestinya untuk selalu bisa membantu orang tua terutama ibu, hal tersebut menunjukkan sikap bakti Anda sebagai seorang anak."
+    },
+    {
+      "id": 52,
+      "text": "Ketika saya berada di suatu tempat ada orang asing yang tersenyum kepada saya, maka yang saya lakukan ....",
+      "options": [
+        { "key": "A", "text": "Memarahinya karena merasa terganggu", "score": 1 },
+        { "key": "B", "text": "Menatap dengan sinis karena merasa risih dan tidak nyaman", "score": 2 },
+        { "key": "C", "text": "Mengalihkan pandangan dan berpura-pura tidak mengetahui", "score": 3 },
+        { "key": "D", "text": "Membalas senyum tersebut sambil menganggukkan kepala", "score": 4 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah moralitas. Moralitas berkaitan dengan nilai-nilai yang berlaku di kehidupan sosial. Tersenyum merupakan salah satu sikap keramahan yang sudah ditanamkan oleh orang tua kepada diri kita sejak kecil. Sehingga untuk menghargai orang yang tersenyum ke arah kita maka sudah semestinya kita juga membalasnya dengan senyuman untuk menghargai bukan justru menunjukkan tatapan yang sinis."
+    },
+    {
+      "id": 53,
+      "text": "Saya melihat seorang teman sekelas mencontek saat ujian berlangsung. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Melaporkan tindakan tersebut kepada pengawas ujian", "score": 2 },
+        { "key": "B", "text": "Mengabaikan karena itu bukan urusan saya", "score": 1 },
+        { "key": "C", "text": "Mengingatkan teman tersebut secara diam-diam agar tidak mencontek", "score": 4 },
+        { "key": "D", "text": "Memberikan contekan agar teman tersebut tidak ketahuan", "score": 3 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah moralitas. Mencontek adalah tindakan yang tidak jujur dan bertentangan dengan nilai moral. Sikap yang paling tepat adalah mengingatkan teman tersebut secara diam-diam untuk menghentikan tindakan tersebut, karena ini menunjukkan kepedulian terhadap kejujuran tanpa mempermalukan teman di depan umum."
+    },
+    {
+      "id": 54,
+      "text": "Saya sedang berada di angkutan umum dan melihat seorang ibu hamil kesulitan berdiri karena tidak mendapatkan tempat duduk. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan karena saya juga lelah", "score": 1 },
+        { "key": "B", "text": "Menawarkan tempat duduk saya kepada ibu hamil tersebut", "score": 4 },
+        { "key": "C", "text": "Meminta orang lain untuk memberikan tempat duduknya", "score": 3 },
+        { "key": "D", "text": "Menunggu sampai ada orang lain yang menawarkan tempat duduk", "score": 2 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah empati. Salah satu indikator dari aspek tersebut adalah kemampuan untuk memahami kebutuhan orang lain dan memberikan bantuan. Menawarkan tempat duduk kepada ibu hamil menunjukkan sikap empati dan kepedulian terhadap kondisi orang lain."
+    },
+    {
+      "id": 55,
+      "text": "Saya diminta oleh atasan untuk bekerja lembur, tetapi saya sudah memiliki rencana pribadi malam ini. Bagaimanakah sikap saya seharusnya?",
+      "options": [
+        { "key": "A", "text": "Menolak lembur karena rencana pribadi lebih penting", "score": 1 },
+        { "key": "B", "text": "Menerima lembur dan membatalkan rencana pribadi saya", "score": 3 },
+        { "key": "C", "text": "Mendiskusikan dengan atasan untuk mencari solusi, seperti menyelesaikan sebagian pekerjaan atau menjadwalkan ulang", "score": 4 },
+        { "key": "D", "text": "Menerima lembur tetapi mengeluh kepada rekan kerja", "score": 2 }
+      ],
+      "explanation": "Aspek yang dinilai pada soal di atas adalah komunikasi dan orientasi pada hasil. Salah satu indikator dari aspek tersebut adalah kemampuan untuk berkomunikasi secara konstruktif dengan atasan untuk mencari solusi yang menguntungkan kedua belah pihak, sambil tetap menunjukkan komitmen terhadap pekerjaan."
     }
   ]
 }
