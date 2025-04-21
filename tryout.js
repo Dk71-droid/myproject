@@ -1,9 +1,10 @@
+// Tryout App - Final Version with Google Sheet Integration
+
 let selectedFile = JSON.parse(localStorage.getItem("selectedFile"));
 let questions = selectedFile ? selectedFile.questions : [];
 let currentQuestionIndex = 0;
 let totalScore = 0;
 
-// Array untuk menyimpan jawaban dan status ragu-ragu per soal
 let userAnswers = new Array(questions.length).fill(null);
 let doubtQuestions = new Array(questions.length).fill(false);
 
@@ -13,15 +14,14 @@ document.addEventListener("DOMContentLoaded", () => {
         return;
     }
     loadQuestion();
+    setTimer();
 });
 
 function loadQuestion() {
     let question = questions[currentQuestionIndex];
     let quizContainer = document.getElementById("quiz-container");
-    // Pastikan quizContainer memiliki posisi relatif agar tombol "Lihat Soal" bisa diposisikan secara absolut
     quizContainer.style.position = "relative";
-    
-    // Ambil jawaban yang tersimpan untuk soal ini (jika ada)
+
     let selectedAnswer = userAnswers[currentQuestionIndex];
 
     quizContainer.innerHTML = `
@@ -52,35 +52,24 @@ function loadQuestion() {
         </div>
     `;
 
-    // Tangani pemilihan opsi
     document.querySelectorAll(".option-wrapper").forEach(option => {
         option.addEventListener("click", function () {
             let radio = this.querySelector("input[type='radio']");
-            if (radio) {
-                radio.checked = true;
-            }
+            if (radio) radio.checked = true;
             document.querySelectorAll(".option-wrapper").forEach(opt => opt.classList.remove("selected"));
             this.classList.add("selected");
-
             let index = parseInt(this.getAttribute("data-index"));
             userAnswers[currentQuestionIndex] = index;
             updateQuestionGrid();
         });
     });
 
-    // Update tampilan tombol "Ragu-ragu" sesuai status soal ini
     let doubtBtn = document.getElementById("doubt-btn");
-    if (doubtBtn) {
-        doubtBtn.style.backgroundColor = doubtQuestions[currentQuestionIndex] ? "#f1c40f" : "";
-    }
+    if (doubtBtn) doubtBtn.style.backgroundColor = doubtQuestions[currentQuestionIndex] ? "#f1c40f" : "";
 
-    // Nonaktifkan tombol "Sebelumnya" jika sudah di soal pertama
     document.getElementById("prev-btn").disabled = currentQuestionIndex === 0;
+    document.getElementById("next-btn").innerHTML = currentQuestionIndex === questions.length - 1 ? "Selesai" : "Selanjutnya";
 
-    let nextButton = document.getElementById("next-btn");
-    nextButton.innerHTML = currentQuestionIndex === questions.length - 1 ? "Selesai" : "Selanjutnya";
-
-    // Pasang event listener untuk tombol "Lihat Soal" yang baru saja dimasukkan
     document.getElementById("view-questions-btn").addEventListener("click", toggleQuestionGrid);
 }
 
@@ -93,60 +82,29 @@ function navigate(direction) {
     }
 }
 
-// Fungsi untuk menandai atau menghapus tanda ragu pada soal aktif
 function markDoubt() {
     doubtQuestions[currentQuestionIndex] = !doubtQuestions[currentQuestionIndex];
     let doubtBtn = document.getElementById("doubt-btn");
-    if (doubtBtn) {
-        doubtBtn.style.backgroundColor = doubtQuestions[currentQuestionIndex] ? "#f1c40f" : "";
-    }
+    if (doubtBtn) doubtBtn.style.backgroundColor = doubtQuestions[currentQuestionIndex] ? "#f1c40f" : "";
     updateQuestionGrid();
-}
-function showPembahasan() {
-    const container = document.getElementById("pembahasan-container");
-    container.innerHTML = "<h3 style='margin-bottom:20px;'>📘 Pembahasan Soal</h3>";
-
-    questions.forEach((question, index) => {
-        const userIndex = userAnswers[index];
-        const userOption = userIndex != null ? question.options[userIndex] : null;
-        const userAnswer = userOption ? userOption.key : "-";
-
-        const correctOption = question.options.reduce((a, b) => a.score > b.score ? a : b);
-        const correctAnswer = correctOption.key;
-        const isCorrect = userAnswer === correctAnswer;
-
-        container.innerHTML += `
-            <div class="question-text" style="margin-bottom: 25px;">
-                <strong>Soal ${index + 1}:</strong> ${question.text}<br>
-                Jawaban Anda: ${userAnswer} (${isCorrect ? "✅" : "❌"})<br>
-                Kunci Jawaban: ${correctAnswer} - ${correctOption.text}<br>
-                <em>Pembahasan:</em> ${question.explanation || "Tidak tersedia."}
-            </div>
-            <hr>
-        `;
-    });
 }
 
 function showFinalScore() {
     totalScore = 0;
-
-    // Hitung total skor
     questions.forEach((question, index) => {
-        const answerIndex = userAnswers[index];
+        let answerIndex = userAnswers[index];
         if (answerIndex != null) {
             totalScore += question.options[answerIndex].score;
         }
     });
 
-    const maxScore = questions.reduce((sum, question) => {
-        const highest = Math.max(...question.options.map(opt => opt.score));
-        return sum + highest;
-    }, 0);
-
+    const maxScore = questions.reduce((sum, q) => sum + Math.max(...q.options.map(opt => opt.score)), 0);
     const finalPercent = Math.round((totalScore / maxScore) * 100);
     const quizContainer = document.getElementById("quiz-container");
 
-    // SKOR UTAMA
+    let nama = prompt("Masukkan nama Anda untuk leaderboard:");
+    if (nama) kirimKeSpreadsheet(nama, finalPercent);
+
     quizContainer.innerHTML = `
         <div class="score-card">
             <h2>Hasil Tryout</h2>
@@ -160,148 +118,116 @@ function showFinalScore() {
         <div id="leaderboard-container" style="display:none; margin-top: 20px;"></div>
     `;
 
-    // SEMBUNYIKAN TOMBOL
     document.getElementById("prev-btn").style.display = "none";
     document.getElementById("next-btn").style.display = "none";
-    const doubtBtn = document.getElementById("doubt-btn");
-    if (doubtBtn) doubtBtn.style.display = "none";
+    if (document.getElementById("doubt-btn")) document.getElementById("doubt-btn").style.display = "none";
 
-    // TAMPILKAN PEMBAHASAN
     showPembahasan();
-
-    // SIMPAN SCORE
     saveScoreToLeaderboard(finalPercent);
+}
+
+function showPembahasan() {
+    const container = document.getElementById("pembahasan-container");
+    container.innerHTML = "<h3 style='margin-bottom:20px;'>📘 Pembahasan Soal</h3>";
+
+    questions.forEach((q, i) => {
+        const userIndex = userAnswers[i];
+        const userOpt = userIndex != null ? q.options[userIndex] : null;
+        const userAnswer = userOpt ? userOpt.key : "-";
+        const correctOpt = q.options.reduce((a, b) => a.score > b.score ? a : b);
+        const correctAnswer = correctOpt.key;
+        const isCorrect = userAnswer === correctAnswer;
+
+        container.innerHTML += `
+            <div class="question-text" style="margin-bottom: 25px;">
+                <strong>Soal ${i + 1}:</strong> ${q.text}<br>
+                Jawaban Anda: ${userAnswer} (${isCorrect ? "✅" : "❌"})<br>
+                Kunci Jawaban: ${correctAnswer} - ${correctOpt.text}<br>
+                <em>Pembahasan:</em> ${q.explanation || "Tidak tersedia."}
+            </div>
+            <hr>
+        `;
+    });
 }
 
 function saveScoreToLeaderboard(score) {
     const leaderboard = JSON.parse(localStorage.getItem("leaderboard")) || [];
-    const entry = {
-        score: score,
-        date: new Date().toLocaleString()
-    };
-    leaderboard.push(entry);
-    const sorted = leaderboard.sort((a, b) => b.score - a.score).slice(0, 5);
-    localStorage.setItem("leaderboard", JSON.stringify(sorted));
+    leaderboard.push({ score: score, date: new Date().toLocaleString() });
+    leaderboard.sort((a, b) => b.score - a.score);
+    localStorage.setItem("leaderboard", JSON.stringify(leaderboard.slice(0, 5)));
 }
 
 function toggleLeaderboard() {
-    const leaderboardDiv = document.getElementById("leaderboard-container");
-    if (leaderboardDiv.style.display === "none") {
+    const el = document.getElementById("leaderboard-container");
+    if (el.style.display === "none") {
         showLeaderboard();
-        leaderboardDiv.style.display = "block";
+        el.style.display = "block";
     } else {
-        leaderboardDiv.style.display = "none";
+        el.style.display = "none";
     }
 }
 
 function showLeaderboard() {
-    const leaderboard = JSON.parse(localStorage.getItem("leaderboard")) || [];
-    const leaderboardDiv = document.getElementById("leaderboard-container");
-    leaderboardDiv.innerHTML = `
-        <div class="score-card">
-            <h3>🏆 Peringkat Tertinggi</h3>
-            <ul style="text-align:left;">
-                ${leaderboard.map((entry, i) => `<li>#${i + 1} - ${entry.score}% (${entry.date})</li>`).join("")}
-            </ul>
-        </div>
-    `;
+    const data = JSON.parse(localStorage.getItem("leaderboard")) || [];
+    const div = document.getElementById("leaderboard-container");
+    div.innerHTML = `<div class="score-card"><h3>🏆 Peringkat Tertinggi</h3><ul style="text-align:left;">
+        ${data.map((e, i) => `<li>#${i + 1} - ${e.score}% (${e.date})</li>`).join("")}
+    </ul></div>`;
 }
 
+function kirimKeSpreadsheet(nama, skor) {
+    fetch("https://script.google.com/macros/s/AKfycbyiZ4hG4Fcz6CjsVOeaqnbhihxScg5VU4n5Qkpfzti1FMy-aq2gxTFLoPcYhqxmtQeH/exec", {
+        method: "POST",
+        mode: "no-cors",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ nama, skor })
+    }).then(() => {
+        console.log("Terkirim ke Google Sheet!");
+    }).catch(err => console.error("Gagal kirim:", err));
+}
 
-// --- Bagian Timer & Font (tetap sama) ---
-function updateFontSize(size) {
-    document.getElementById("font-size-value").textContent = size + "px";
-    document.querySelector(".question-text").style.fontSize = size + "px";
-}
-const increaseFontButton = document.getElementById('increase-font');
-const decreaseFontButton = document.getElementById('decrease-font');
-const quizContainer = document.getElementById('quiz-container');
-const choiceElements = document.querySelectorAll('.choice');
-let fontSize = 18;
-function adjustFontSize(increase) {
-    if (increase) {
-        fontSize += 2;
-    } else {
-        fontSize -= 2;
-    }
-    quizContainer.style.fontSize = fontSize + 'px';
-    choiceElements.forEach(choice => {
-        choice.style.fontSize = fontSize + 'px';
-    });
-}
-document.addEventListener("DOMContentLoaded", function() {
-    let timerDisplay = document.getElementById("timer");
-    let timerInterval;
-    let initialTime = 0;
-    function startTimer(minutes) {
-        initialTime = minutes * 60;
-        let totalTime = initialTime;
-        timerInterval = setInterval(function() {
-            let minutesLeft = Math.floor(totalTime / 60);
-            let secondsLeft = totalTime % 60;
-            timerDisplay.textContent = `${minutesLeft}:${secondsLeft < 10 ? '0' + secondsLeft : secondsLeft}`;
-            totalTime--;
-            if (totalTime <= 10 * 60 && totalTime > 9 * 60) {
-                timerDisplay.classList.add("timer-warning");
-                timerDisplay.classList.remove("timer-normal");
-            } else if (totalTime <= initialTime && totalTime > 10 * 60) {
-                timerDisplay.classList.add("timer-normal");
-                timerDisplay.classList.remove("timer-warning");
-            }
-            if (totalTime < 0) {
-                clearInterval(timerInterval);
-                alert("Waktu habis!");
-                setTimeout(function() {
-                    showFinalScore();
-                }, 1000);
-            }
-        }, 1000);
-    }
-    function setTimer() {
-        const timerInput = prompt("Masukkan durasi waktu (dalam menit):");
-        if (timerInput && timerInput > 0) {
-            alert(`Timer diatur selama ${timerInput} menit!`);
-            startTimer(parseInt(timerInput));
-        } else {
-            alert('Masukkan durasi waktu yang valid!');
+// Timer
+function setTimer() {
+    const timerDisplay = document.getElementById("timer");
+    const timerInput = prompt("Masukkan durasi waktu (dalam menit):");
+    if (!timerInput || timerInput <= 0) return alert("Durasi tidak valid!");
+
+    let totalTime = parseInt(timerInput) * 60;
+    const timerInterval = setInterval(() => {
+        let m = Math.floor(totalTime / 60);
+        let s = totalTime % 60;
+        timerDisplay.textContent = `${m}:${s < 10 ? "0" + s : s}`;
+        totalTime--;
+
+        if (totalTime === 600) timerDisplay.classList.add("timer-warning");
+        if (totalTime < 0) {
+            clearInterval(timerInterval);
+            alert("Waktu habis!");
+            showFinalScore();
         }
-    }
-    setTimer();
-});
+    }, 1000);
+}
 
-// --- Bagian untuk Question Grid Overlay ---
+// Question Grid
 function createQuestionGrid() {
-    // Jika overlay sudah ada, tidak perlu dibuat ulang
     if (document.getElementById("question-grid-overlay")) return;
-    
-    // Buat overlay container
     let overlay = document.createElement("div");
     overlay.id = "question-grid-overlay";
     overlay.className = "question-grid-overlay";
-    // Klik di luar grid (overlay) akan menutup grid
-    overlay.addEventListener("click", function(e) {
-        if (e.target === overlay) {
-            overlay.style.display = "none";
-        }
-    });
+    overlay.addEventListener("click", e => { if (e.target === overlay) overlay.style.display = "none"; });
 
-    // Buat box grid untuk nomor soal
     let gridContainer = document.createElement("div");
     gridContainer.id = "question-grid";
     gridContainer.className = "question-grid";
-    // Tambahkan ikon silang untuk menutup
+
     let closeIcon = document.createElement("span");
-    closeIcon.id = "close-question-grid";
     closeIcon.className = "close-question-grid";
     closeIcon.innerHTML = "&times;";
-    closeIcon.addEventListener("click", function() {
-        overlay.style.display = "none";
-    });
+    closeIcon.onclick = () => overlay.style.display = "none";
     gridContainer.appendChild(closeIcon);
 
     let numbersContainer = document.createElement("div");
     numbersContainer.id = "numbers-container";
-    numbersContainer.className = "numbers-container";
     gridContainer.appendChild(numbersContainer);
 
     overlay.appendChild(gridContainer);
@@ -309,56 +235,28 @@ function createQuestionGrid() {
 }
 
 function updateQuestionGrid() {
-    let numbersContainer = document.getElementById("numbers-container");
-    if (!numbersContainer) return;
-    numbersContainer.innerHTML = "";
+    let container = document.getElementById("numbers-container");
+    if (!container) return;
+    container.innerHTML = "";
     questions.forEach((q, i) => {
         let btn = document.createElement("button");
         btn.innerText = i + 1;
         btn.className = "grid-number-btn";
-        // Warna status: ragu-ragu (kuning), sudah dikerjakan (hijau), belum dikerjakan (abu-abu)
-        if (doubtQuestions[i]) {
-            btn.style.backgroundColor = "#f1c40f";
-        } else if (userAnswers[i] != null) {
-            btn.style.backgroundColor = "#2ecc71";
-        } else {
-            btn.style.backgroundColor = "#bdc3c7";
-        }
-        btn.addEventListener("click", function() {
+        if (doubtQuestions[i]) btn.style.backgroundColor = "#f1c40f";
+        else if (userAnswers[i] != null) btn.style.backgroundColor = "#2ecc71";
+        else btn.style.backgroundColor = "#bdc3c7";
+
+        btn.onclick = () => {
             currentQuestionIndex = i;
             loadQuestion();
             document.getElementById("question-grid-overlay").style.display = "none";
-        });
-        numbersContainer.appendChild(btn);
+        };
+        container.appendChild(btn);
     });
 }
 
 function toggleQuestionGrid() {
     createQuestionGrid();
-    let overlay = document.getElementById("question-grid-overlay");
     updateQuestionGrid();
-    overlay.style.display = (overlay.style.display === "block") ? "none" : "block";
-}
-
-function kirimKeSpreadsheet(nama, skor) {
-    fetch("https://script.google.com/macros/s/AKfycbyiZ4hG4Fcz6CjsVOeaqnbhihxScg5VU4n5Qkpfzti1FMy-aq2gxTFLoPcYhqxmtQeH/exec", {
-        method: "POST",
-        mode: "no-cors", // penting buat bypass CORS Google
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-            nama: nama,
-            skor: skor
-        })
-    }).then(() => {
-        console.log("Terkirim ke Google Sheet!");
-    }).catch(err => {
-        console.error("Gagal kirim:", err);
-    });
-}
-
-let nama = prompt("Masukkan nama Anda untuk leaderboard:");
-if (nama) {
-    kirimKeSpreadsheet(nama, finalPercent); // finalPercent dari skor user
+    document.getElementById("question-grid-overlay").style.display = "block";
 }
