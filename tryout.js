@@ -201,15 +201,17 @@ function showLeaderboard() {
 }
 
 
+// Kirim skor
 function kirimKeSpreadsheet(nama, skor) {
     const soalId = selectedFile.fileName || "umum";
     fetch("https://script.google.com/macros/s/AKfycbzSt44LZUNjv3C9b1IyrxoD2YNU07W_VKjWbc1guq-HXlOp0jq66HbqGpFQAlWbKgjL/exec", {
         method: "POST",
         mode: "no-cors",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ nama, skor, id: soalId })
+        body: JSON.stringify({ nama, skor, soal: soalId })
     });
 }
+
 
 
 // Timer
@@ -291,7 +293,8 @@ function openLeaderboardModal() {
     const content = document.getElementById("leaderboard-content");
 
     const soalId = selectedFile.fileName || "umum"; // misal 'soal1', 'soal2'
-    const url = `https://script.google.com/macros/s/AKfycbyiZ4hG4Fcz6CjsVOeaqnbhihxScg5VU4n5Qkpfzti1FMy-aq2gxTFLoPcYhqxmtQeH/exec?id=${soalId}`;
+    const url = `const url = `https://script.google.com/macros/s/AKfycbzSt44LZUNjv3C9b1IyrxoD2YNU07W_VKjWbc1guq-HXlOp0jq66HbqGpFQAlWbKgjL/exec?soal=${soalId}`;
+/exec?id=${soalId}`;
 
     fetch(url)
         .then(res => res.json())
