@@ -176,15 +176,15 @@ function showLeaderboard() {
 }
 
 function kirimKeSpreadsheet(nama, skor) {
+    const soalId = selectedFile.fileName || "umum";
     fetch("https://script.google.com/macros/s/AKfycbzSt44LZUNjv3C9b1IyrxoD2YNU07W_VKjWbc1guq-HXlOp0jq66HbqGpFQAlWbKgjL/exec", {
         method: "POST",
         mode: "no-cors",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ nama, skor })
-    }).then(() => {
-        console.log("Terkirim ke Google Sheet!");
-    }).catch(err => console.error("Gagal kirim:", err));
+        body: JSON.stringify({ nama, skor, id: soalId })
+    });
 }
+
 
 // Timer
 function setTimer() {
