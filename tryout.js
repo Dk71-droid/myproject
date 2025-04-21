@@ -130,25 +130,34 @@ function showPembahasan() {
     const container = document.getElementById("pembahasan-container");
     container.innerHTML = "<h3 style='margin-bottom:20px;'>📘 Pembahasan Soal</h3>";
 
-    questions.forEach((q, i) => {
-        const userIndex = userAnswers[i];
-        const userOpt = userIndex != null ? q.options[userIndex] : null;
-        const userAnswer = userOpt ? userOpt.key : "-";
-        const correctOpt = q.options.reduce((a, b) => a.score > b.score ? a : b);
-        const correctAnswer = correctOpt.key;
+    questions.forEach((question, index) => {
+        const userIndex = userAnswers[index];
+        const userOption = userIndex != null ? question.options[userIndex] : null;
+        const userAnswer = userOption ? userOption.key : "-";
+
+        const correctOption = question.options.reduce((a, b) => a.score > b.score ? a : b);
+        const correctAnswer = correctOption.key;
+
         const isCorrect = userAnswer === correctAnswer;
 
+        const optionList = question.options.map(opt => {
+            const color = opt.key === correctAnswer ? "#4CAF50" : "#e74c3c";
+            return `<div style="margin-left: 15px; color:${color}">${opt.key}. ${opt.text} - ${opt.score} poin</div>`;
+        }).join("");
+
         container.innerHTML += `
-            <div class="question-text" style="margin-bottom: 25px;">
-                <strong>Soal ${i + 1}:</strong> ${q.text}<br>
-                Jawaban Anda: ${userAnswer} (${isCorrect ? "✅" : "❌"})<br>
-                Kunci Jawaban: ${correctAnswer} - ${correctOpt.text}<br>
-                <em>Pembahasan:</em> ${q.explanation || "Tidak tersedia."}
+            <div style="margin-bottom: 30px; padding:15px; border: 1px solid #ddd; border-radius:8px; background:#fafafa;">
+                <p><strong>Soal ${index + 1}</strong></p>
+                <p style="margin-bottom:8px;">${question.text}</p>
+                <p><strong style="color:#2196F3;">Jawaban Anda:</strong> ${userAnswer} (${isCorrect ? "✅" : "❌"})</p>
+                <p><strong style="color:#2ecc71;">Kunci Jawaban:</strong></p>
+                ${optionList}
+                <p style="margin-top:10px;"><strong>Penjelasan:</strong><br>${question.explanation || "Tidak tersedia."}</p>
             </div>
-            <hr>
         `;
     });
 }
+
 
 function saveScoreToLeaderboard(score) {
     const leaderboard = JSON.parse(localStorage.getItem("leaderboard")) || [];
@@ -168,12 +177,29 @@ function toggleLeaderboard() {
 }
 
 function showLeaderboard() {
-    const data = JSON.parse(localStorage.getItem("leaderboard")) || [];
-    const div = document.getElementById("leaderboard-container");
-    div.innerHTML = `<div class="score-card"><h3>🏆 Peringkat Tertinggi</h3><ul style="text-align:left;">
-        ${data.map((e, i) => `<li>#${i + 1} - ${e.score}% (${e.date})</li>`).join("")}
-    </ul></div>`;
+    const soalId = selectedFile.fileName || "umum";
+    const url = `https://script.google.com/macros/s/AKfycbyiZ4hG4Fcz6CjsVOeaqnbhihxScg5VU4n5Qkpfzti1FMy-aq2gxTFLoPcYhqxmtQeH/exec?soal=${soalId}`;
+
+    fetch(url)
+        .then(res => res.json())
+        .then(data => {
+            const top10 = data.sort((a, b) => b.skor - a.skor).slice(0, 10);
+            const content = document.getElementById("leaderboard-content");
+            content.innerHTML = `
+                <ul style="text-align:left; font-size:16px;">
+                    ${top10.map((e, i) => `
+                        <li><strong>#${i + 1}</strong> - ${e.nama}: ${e.skor}</li>
+                    `).join("")}
+                </ul>
+            `;
+        })
+        .catch(() => {
+            document.getElementById("leaderboard-content").innerHTML = "<p>Gagal memuat leaderboard.</p>";
+        });
+
+    document.getElementById("leaderboard-modal").style.display = "flex";
 }
+
 
 function kirimKeSpreadsheet(nama, skor) {
     const soalId = selectedFile.fileName || "umum";
