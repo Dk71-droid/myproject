@@ -1,1623 +1,665 @@
 {
-  "fileName": "soal4",
+  "fileName": "osn_ipa_sd",
   "questions": [
-  {
-    "id": 1,
-    "text": "Lani sedang melihat beberapa hewan: burung, kelelawar, dan lebah. Ia mencatat bahwa semuanya bisa terbang. Lani lalu menyimpulkan bahwa semua hewan yang bisa terbang adalah burung. Apa kesalahan yang dilakukan Lani?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Ia tidak mengamati dengan baik",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Ia terlalu cepat menyimpulkan tanpa cukup data",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Ia mengelompokkan hewan dengan benar",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Ia menggunakan alat ukur yang salah",
-        "score": 0
-      }
-    ],
-    "explanation": "Kesalahan Lani adalah menyimpulkan terlalu cepat (kesimpulan umum dari data terbatas), padahal kelelawar adalah mamalia dan lebah adalah serangga."
-  },
-  {
-    "id": 2,
-    "text": "Andi ingin tahu apakah tanaman tumbuh lebih cepat dengan air biasa atau air teh. Ia menanam dua tanaman yang sama, satu disiram air biasa dan satu lagi disiram air teh setiap hari selama 1 minggu. Manakah yang merupakan variabel bebas dalam percobaan Andi?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Jenis tanaman",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Jumlah air",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Jenis air yang digunakan",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Waktu penyiraman",
-        "score": 0
-      }
-    ],
-    "explanation": "Variabel bebas adalah hal yang diubah—dalam hal ini jenis air (air biasa dan air teh)."
-  },
-  {
-    "id": 3,
-    "text": "Jika suhu tubuh manusia normal adalah sekitar 36–37°C, maka seseorang dengan suhu 34°C kemungkinan...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Sedang demam",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Normal",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Mengalami hipotermia",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Terinfeksi virus",
-        "score": 0
-      }
-    ],
-    "explanation": "Suhu tubuh di bawah normal menunjukkan hipotermia, bukan demam."
-  },
-  {
-    "id": 4,
-    "text": "Dari gambar yang menunjukkan seekor kucing, burung, dan kelinci, keterampilan ilmiah apa yang digunakan untuk membedakan ketiga hewan?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Mengukur",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Mengklasifikasikan",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Menyimpulkan",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Memprediksi",
-        "score": 0
-      }
-    ],
-    "explanation": "Mengelompokkan hewan berdasarkan ciri fisiknya adalah keterampilan klasifikasi."
-  },
-  {
-    "id": 5,
-    "text": "Alat yang paling tepat digunakan untuk mengukur volume batu yang bentuknya tidak beraturan adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Gelas ukur",
-        "score": 1
-      },
-      {
-        "key": "B",
-        "text": "Termometer",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Penggaris",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Stopwatch",
-        "score": 0
-      }
-    ],
-    "explanation": "Gelas ukur digunakan dengan metode perpindahan air untuk mengukur volume benda tidak beraturan."
-  },
-  {
-    "id": 6,
-    "text": "Tumbuhan berikut termasuk kelompok tumbuhan berbiji tertutup:",
-    "options": [
-      {
-        "key": "A",
-        "text": "Lumut",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Paku",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Mangga",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Pinus",
-        "score": 0
-      }
-    ],
-    "explanation": "Mangga tergolong angiospermae (berbiji tertutup), sedangkan pinus adalah gymnospermae, lumut dan paku tidak menghasilkan biji."
-  },
-  {
-    "id": 7,
-    "text": "Mengapa burung hantu memiliki mata besar dan pandangan tajam?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Untuk terbang lebih cepat",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Untuk mencari mangsa di malam hari",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Untuk menjaga keseimbangan tubuh",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Untuk membangun sarang di ketinggian",
-        "score": 0
-      }
-    ],
-    "explanation": "Adaptasi khusus burung hantu adalah penglihatan malam (nocturnal) agar efektif berburu di gelap."
-  },
-  {
-    "id": 8,
-    "text": "Gambar menunjukkan dua jenis tulang daun. Tulang daun kiri sejajar dan kanan menyirip. Tumbuhan dengan daun seperti kiri umumnya termasuk...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Dikotil",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Monokotil",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Gymnospermae",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Paku",
-        "score": 0
-      }
-    ],
-    "explanation": "Tulang daun sejajar adalah ciri khas monokotil (misalnya jagung, padi)."
-  },
-  {
-    "id": 9,
-    "text": "Urutan jalannya udara saat bernapas adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Hidung → paru-paru → tenggorokan",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Paru-paru → hidung → bronkus",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Hidung → tenggorokan → bronkus → paru-paru",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Bronkus → hidung → paru-paru",
-        "score": 0
-      }
-    ],
-    "explanation": "Udara masuk dari hidung → trakea (tenggorokan) → bronkus → paru-paru."
-  },
-  {
-    "id": 10,
-    "text": "Jika kamu mengunyah nasi dalam waktu lama, maka nasi akan terasa manis. Hal ini membuktikan bahwa...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Air liur mengandung asam",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Air liur mengubah karbohidrat menjadi gula",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Air liur mengandung lemak",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Air liur mengubah protein menjadi glukosa",
-        "score": 0
-      }
-    ],
-    "explanation": "Enzim amilase dalam air liur memecah pati (nasi) menjadi maltosa (gula sederhana)."
-  },
-  {
-    "id": 11,
-    "text": "Panah berwarna biru menunjukkan darah dari tubuh menuju jantung, sedangkan panah merah menuju seluruh tubuh. Maka, panah biru berasal dari...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Arteri pulmonalis",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Vena cava",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Aorta",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Vena pulmonalis",
-        "score": 0
-      }
-    ],
-    "explanation": "Vena cava membawa darah kotor dari tubuh ke jantung (atrium kanan)."
-  },
-  {
-    "id": 12,
-    "text": "Dalam suatu ekosistem, urutan rantai makanan yang benar adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Rumput → Ular → Katak → Elang",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Rumput → Belalang → Katak → Ular",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Elang → Ular → Belalang → Rumput",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Ular → Katak → Belalang → Rumput",
-        "score": 0
-      }
-    ],
-    "explanation": "Produsen (rumput) → konsumen I (belalang) → konsumen II (katak) → konsumen III (ular)."
-  },
-  {
-    "id": 13,
-    "text": "Unta mampu bertahan hidup di gurun karena memiliki...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Gigi tajam",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Kulit tipis",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Punuk menyimpan air",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Kemampuan menyimpan cadangan makanan",
-        "score": 1
-      }
-    ],
-    "explanation": "Punuk menyimpan lemak (bukan air), yang dapat digunakan sebagai sumber energi dan air."
-  },
-  {
-    "id": 14,
-    "text": "Dampak negatif dari kegiatan penebangan hutan adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Menurunkan pencemaran udara",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Menambah kesuburan tanah",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Mengurangi keanekaragaman hayati",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Meningkatkan populasi hewan liar",
-        "score": 0
-      }
-    ],
-    "explanation": "Penebangan liar menyebabkan habitat hilang → spesies punah."
-  },
-  {
-    "id": 15,
-    "text": "Contoh bioteknologi tradisional adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Membuat tempe",
-        "score": 1
-      },
-      {
-        "key": "B",
-        "text": "Menyambung kabel listrik",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Menanam padi",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Membuat plastik",
-        "score": 0
-      }
-    ],
-    "explanation": "Pembuatan tempe menggunakan jamur Rhizopus (fermentasi) → contoh bioteknologi."
-  },
-  {
-    "id": 16,
-    "text": "Mengapa kita dianjurkan mencuci tangan sebelum makan?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Menurunkan suhu tubuh",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Menghindari makanan basi",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Mencegah kuman masuk ke tubuh",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Agar makanan terasa lebih enak",
-        "score": 0
-      }
-    ],
-    "explanation": "Tangan kotor bisa membawa bakteri atau virus yang menyebabkan penyakit."
-  },
-  {
-    "id": 17,
-    "text": "Kegiatan seperti bank sampah dan pengomposan bertujuan untuk...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Meningkatkan pendapatan rumah tangga",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Menambah polusi lingkungan",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Mengurangi limbah dan menciptakan lingkungan bersih",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Menghindari pemakaian pupuk",
-        "score": 0
-      }
-    ],
-    "explanation": "Bank sampah dan pengomposan adalah bagian dari pengelolaan lingkungan berkelanjutan."
-  },
-  {
-    "id": 18,
-    "text": "Gaya gesek berguna dalam kegiatan berikut, kecuali...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Menginjak rem sepeda",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Menyalakan korek api",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Meluncur di atas es",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Berjalan di lantai kasar",
-        "score": 0
-      }
-    ],
-    "explanation": "Gaya gesek sangat kecil di permukaan es, sehingga kurang berguna untuk memperlambat gerak."
-  },
-  {
-    "id": 19,
-    "text": "Bola digantung pada ketinggian tertentu. Jika dilepas, bola akan bergerak karena...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Tekanan",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Gaya otot",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Energi kinetik",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Energi potensial berubah jadi energi gerak",
-        "score": 1
-      }
-    ],
-    "explanation": "Ketinggian → energi potensial. Saat jatuh → berubah jadi energi kinetik."
-  },
-  {
-    "id": 20,
-    "text": "Mengapa paku lebih mudah menembus kayu dibanding ujung balok kayu?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Karena paku lebih berat",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Karena paku memiliki gaya gesek tinggi",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Karena tekanan paku lebih besar",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Karena kayu lebih lunak",
-        "score": 0
-      }
-    ],
-    "explanation": "Tekanan = Gaya / Luas. Luas ujung paku kecil → tekanan besar → mudah menembus."
-  },
-  {
-    "id": 21,
-    "text": "Perhatikan pernyataan berikut: (1) Es mencair menjadi air. (2) Air menguap menjadi uap. (3) Air berubah jadi es. (4) Uap berubah jadi air. Perubahan fisika terjadi pada...",
-    "options": [
-      {
-        "key": "A",
-        "text": "(1), (2), dan (3)",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "(1), (2), dan (4)",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "(2), (3), dan (4)",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Semua benar",
-        "score": 1
-      }
-    ],
-    "explanation": "Semua perubahan tersebut tidak mengubah zat penyusun → termasuk perubahan fisika."
-  },
-  {
-    "id": 22,
-    "text": "Jika air dan minyak dicampurkan lalu dibiarkan, akan terbentuk dua lapisan. Hal ini menunjukkan bahwa...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Air dan minyak saling larut",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Air lebih ringan dari minyak",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Air dan minyak tidak dapat bercampur sempurna",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Air akan berubah menjadi minyak",
-        "score": 0
-      }
-    ],
-    "explanation": "Air polar, minyak non-polar → tidak bisa larut → membentuk lapisan."
-  },
-  {
-    "id": 23,
-    "text": "Campuran seperti air sirup jernih disebut...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Campuran heterogen",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Campuran kasar",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Campuran suspensi",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Campuran homogen",
-        "score": 1
-      }
-    ],
-    "explanation": "Larutan sirup tampak menyatu dan tidak terlihat partikel penyusunnya → larutan homogen."
-  },
-  {
-    "id": 24,
-    "text": "Alat berikut termasuk konduktor listrik, kecuali...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Sendok logam",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Kawat tembaga",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Penggaris plastik",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Baut besi",
-        "score": 0
-      }
-    ],
-    "explanation": "Plastik termasuk isolator → tidak menghantarkan listrik."
-  },
-  {
-    "id": 25,
-    "text": "Mengapa magnet dapat menarik benda dari logam tertentu, tetapi tidak menarik kertas?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Karena kertas terlalu ringan",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Karena magnet hanya menarik benda bermuatan",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Karena hanya benda logam tertentu bersifat feromagnetik",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Karena kertas bersifat konduktor",
-        "score": 0
-      }
-    ],
-    "explanation": "Besi, baja, nikel adalah logam feromagnetik → bisa ditarik magnet."
-  },
-  {
-    "id": 26,
-    "text": "Dari dua gambar rangkaian seri dan paralel, rangkaian mana yang akan mati semua jika satu lampu dilepas?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Gambar kiri",
-        "score": 1
-      },
-      {
-        "key": "B",
-        "text": "Gambar kanan",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Keduanya",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Tidak satupun",
-        "score": 0
-      }
-    ],
-    "explanation": "Gambar kiri adalah rangkaian seri → jika satu lampu dilepas, arus terputus semua."
-  },
-  {
-    "id": 27,
-    "text": "Bunyi tidak dapat merambat melalui...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Logam",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Udara",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Air",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Ruang hampa",
-        "score": 1
-      }
-    ],
-    "explanation": "Bunyi memerlukan medium (padat, cair, gas) → tidak merambat di ruang hampa."
-  },
-  {
-    "id": 28,
-    "text": "Bayangan yang terbentuk oleh cermin datar adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Tegak dan nyata",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Terbalik dan maya",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Tegak dan maya",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Terbalik dan nyata",
-        "score": 0
-      }
-    ],
-    "explanation": "Cermin datar menghasilkan bayangan tegak, seolah-olah ada di balik cermin → maya."
-  },
-  {
-    "id": 29,
-    "text": "Fenomena pensil dalam gelas air terlihat bengkok disebut...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Pemantulan cahaya",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Pembiasan cahaya",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Difraksi cahaya",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Dispersi cahaya",
-        "score": 0
-      }
-    ],
-    "explanation": "Cahaya berubah arah saat melewati medium berbeda kerapatan → pensil tampak bengkok."
-  },
-  {
-    "id": 30,
-    "text": "Bagian dari termometer yang berisi cairan dan naik saat panas adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Pipa kapiler",
-        "score": 1
-      },
-      {
-        "key": "B",
-        "text": "Reservoir",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Skala",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Tabung logam",
-        "score": 0
-      }
-    ],
-    "explanation": "Pipa kecil tempat cairan termometer naik saat suhu naik."
-  },
-  {
-    "id": 31,
-    "text": "Mengapa gagang panci biasanya terbuat dari plastik atau kayu?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Agar panci lebih kuat",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Karena mudah dipanaskan",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Agar tidak cepat leleh",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Karena plastik/kayu penghantar panas buruk",
-        "score": 1
-      }
-    ],
-    "explanation": "Isolator panas → tangan tidak kepanasan saat memegang gagang."
-  },
-  {
-    "id": 32,
-    "text": "Perubahan seperti pada gambar es mencair menjadi air disebut...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Membeku",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Mengembun",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Mencair",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Menguap",
-        "score": 0
-      }
-    ],
-    "explanation": "Es (padat) → air (cair) saat menyerap kalor."
-  },
-  {
-    "id": 33,
-    "text": "Setrika listrik mengubah energi...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Listrik → gerak",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Listrik → bunyi",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Listrik → panas",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Panas → listrik",
-        "score": 0
-      }
-    ],
-    "explanation": "Energi listrik diubah menjadi energi panas untuk memanaskan pelat setrika."
-  },
-  {
-    "id": 34,
-    "text": "Mengapa penggunaan energi surya lebih ramah lingkungan dibanding batu bara?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Karena cahaya matahari lebih mahal",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Karena batu bara sulit ditemukan",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Karena matahari tidak menghasilkan limbah",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Karena batu bara menghasilkan suara",
-        "score": 0
-      }
-    ],
-    "explanation": "Energi surya tidak menghasilkan emisi CO₂ → ramah lingkungan."
-  },
-  {
-    "id": 35,
-    "text": "Kedua gambar kincir angin dan panel surya termasuk contoh...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Energi fosil",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Energi mekanik",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Energi alternatif",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Energi listrik",
-        "score": 0
-      }
-    ],
-    "explanation": "Angin dan matahari adalah sumber energi terbarukan → alternatif pengganti bahan bakar fosil."
-  },
-  {
-    "id": 36,
-    "text": "Planet yang memiliki cincin paling mencolok dan terbesar adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Uranus",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Mars",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Saturnus",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Jupiter",
-        "score": 0
-      }
-    ],
-    "explanation": "Saturnus dikenal dengan cincin besar dan terang yang mengelilinginya."
-  },
-  {
-    "id": 37,
-    "text": "Peristiwa siang dan malam terjadi karena...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Revolusi Bumi mengelilingi Matahari",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Bumi berputar pada porosnya",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Bumi mengelilingi Bulan",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Matahari bergerak mengelilingi Bumi",
-        "score": 0
-      }
-    ],
-    "explanation": "Rotasi menyebabkan sebagian permukaan Bumi bergantian menghadap dan membelakangi Matahari."
-  },
-  {
-    "id": 38,
-    "text": "Gambar posisi Matahari–Bumi–Bulan sejajar menunjukkan peristiwa...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Gerhana Matahari Total",
-        "score": 0
-iary, {
-        "key": "B",
-        "text": "Gerhana Bulan",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Fase Bulan Baru",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Revolusi Bulan",
-        "score": 0
-      }
-    ],
-    "explanation": "Bumi di tengah antara Matahari dan Bulan → bayangan Bumi menutupi Bulan."
-  },
-  {
-    "id": 39,
-    "text": "Lapisan atmosfer yang melindungi Bumi dari sinar ultraviolet adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Troposfer",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Ozonosfer",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Termosfer",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Eksosfer",
-        "score": 0
-      }
-    ],
-    "explanation": "Lapisan ozon menyerap radiasi UV dari Matahari."
-  },
-  {
-    "id": 40,
-    "text": "Negara yang mengalami empat musim dalam setahun terjadi akibat...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Gerak Bulan",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Revolusi Bumi dan kemiringan sumbu Bumi",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Pengaruh Matahari",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Perubahan bentuk orbit Bumi",
-        "score": 0
-      }
-    ],
-    "explanation": "Revolusi + kemiringan sumbu → sudut cahaya matahari ke Bumi berbeda-beda sepanjang tahun."
-  },
-  {
-    "id": 41,
-    "text": "Matahari berada dalam galaksi...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Andromeda",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Centaurus",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Bima Sakti",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Galaksi Katai",
-        "score": 0
-      }
-    ],
-    "explanation": "Matahari merupakan bagian dari sistem Tata Surya di galaksi Bima Sakti."
-  },
-  {
-    "id": 42,
-    "text": "Partikel yang bermuatan negatif dan mengelilingi inti atom disebut...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Proton",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Neutron",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Elektron",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Ion",
-        "score": 0
-      }
-    ],
-    "explanation": "Elektron bermuatan negatif dan berada di luar inti atom."
-  },
-  {
-    "id": 43,
-    "text": "Air murni adalah zat tunggal karena...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Berasal dari satu sumber",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Memiliki dua zat yang larut",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Terdiri dari satu jenis materi",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Tidak memiliki partikel",
-        "score": 0
-      }
-    ],
-    "explanation": "Air murni = H₂O → satu jenis senyawa → zat tunggal."
-  },
-  {
-    "id": 44,
-    "text": "Atom dengan 2 elektron dan 2 proton paling mungkin merupakan...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Helium",
-        "score": 1
-      },
-      {
-        "key": "B",
-        "text": "Hidrogen",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Oksigen",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Karbon",
-        "score": 0
-      }
-    ],
-    "explanation": "Atom dengan 2 proton dan 2 elektron → atom Helium."
-  },
-  {
-    "id": 45,
-    "text": "Andi menanam dua tanaman yang sama di pot berbeda. Pot A diletakkan di tempat terang dan disiram setiap hari, sedangkan pot B diletakkan di tempat gelap dan tidak disiram. Setelah 7 hari, tanaman di pot A tumbuh subur, sementara pot B layu. Apa kesimpulan ilmiah dari percobaan ini?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Tanaman tumbuh baik tanpa air",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Tanaman membutuhkan air dan cahaya untuk tumbuh",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Tanaman hanya membutuhkan air",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Tanaman tumbuh lebih baik tanpa cahaya",
-        "score": 0
-      }
-    ],
-    "explanation": "Ini eksperimen sederhana yang menunjukkan dua faktor penting bagi pertumbuhan tanaman."
-  },
-  {
-    "id": 46,
-    "text": "Dari gambar katak, ikan, buaya, paus, hewan yang tergolong mamalia air adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Ikan",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Paus",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Katak",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Buaya",
-        "score": 0
-      }
-    ],
-    "explanation": "Paus bernapas dengan paru-paru, melahirkan, dan menyusui anaknya."
-  },
-  {
-    "id": 47,
-    "text": "Makanan yang kita makan akan dicerna mulai dari mulut hingga ke usus halus. Jika seseorang mengalami gangguan pada pankreas, maka kemungkinan besar...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Makanan tidak bisa dikunyah",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Tidak dapat menghasilkan enzim pencernaan tertentu",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Darah tidak dapat mengalir",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Paru-paru tidak bekerja",
-        "score": 0
-      }
-    ],
-    "explanation": "Pankreas menghasilkan enzim untuk mencerna makanan di usus."
-  },
-  {
-    "id": 48,
-    "text": "Dari gambar jaring-jaring makanan: rumput → kelinci → ular → elang, apa yang terjadi jika populasi kelinci menurun drastis?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Rumput akan habis",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Populasi ular dan elang menurun",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Ular dan elang bertambah",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Elang menjadi pemakan rumput",
-        "score": 0
-      }
-    ],
-    "explanation": "Kelinci adalah sumber makanan utama bagi ular, yang selanjutnya dimakan elang."
-  },
-  {
-    "id": 49,
-    "text": "Pembuatan tempe dan yoghurt menggunakan bantuan...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Cacing",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Mikroorganisme",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Enzim dari tanaman",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Tanah dan pasir",
-        "score": 0
-      }
-    ],
-    "explanation": "Proses fermentasi pada tempe dan yoghurt melibatkan mikroba seperti bakteri dan jamur."
-  },
-  {
-    "id": 50,
-    "text": "Dua anak mendorong meja ke arah berlawanan. Satu anak mendorong ke kanan dengan gaya 20 N, satu lagi ke kiri dengan gaya 15 N. Arah gerak meja adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Ke kiri",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Tidak bergerak",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Ke kanan",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Lompat ke atas",
-        "score": 0
-      }
-    ],
-    "explanation": "Gaya total = 20 N – 15 N = 5 N ke kanan."
-  },
-  {
-    "id": 51,
-    "text": "Proses yang terjadi dari gambar es mencair dan air menguap disebut...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Pengembunan dan pembekuan",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Peleburan dan penguapan",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Penguapan dan pengembunan",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Pembekuan dan sublimasi",
-        "score": 0
-      }
-    ],
-    "explanation": "Es → cair (peleburan), cair → uap (penguapan)."
-  },
-  {
-    "id": 52,
-    "text": "Pada rangkaian paralel, jika satu lampu dilepas maka lampu lainnya akan...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Mati juga",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Menyala lebih redup",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Tetap menyala",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Meledak",
-        "score": 0
-      }
-    ],
-    "explanation": "Rangkaian paralel membuat arus tetap mengalir ke setiap lampu."
-  },
-  {
-    "id": 53,
-    "text": "Saat kamu berdiri di depan cermin datar, kamu bisa melihat bayanganmu karena...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Cahaya diserap",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Cahaya dibelokkan",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Cahaya dipantulkan",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Cermin memancarkan cahaya",
-        "score": 0
-      }
-    ],
-    "explanation": "Cermin bekerja dengan memantulkan cahaya yang mengenai permukaannya."
-  },
-  {
-    "id": 54,
-    "text": "Tangan terasa hangat saat menyentuh gelas berisi air panas. Hal ini menunjukkan perpindahan kalor secara...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Radiasi",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Konduksi",
-        "score": 1
-      },
-      {
-        "key": "C",
-        "text": "Konveksi",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Evaporasi",
-        "score": 0
-      }
-    ],
-    "explanation": "Kalor berpindah langsung melalui sentuhan (konduksi) dari gelas ke tangan."
-  },
-  {
-    "id": 55,
-    "text": "Kincir angin mengubah energi angin menjadi...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Energi kalor",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Energi potensial",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Energi listrik",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Energi kimia",
-        "score": 0
-      }
-    ],
-    "explanation": "Kincir angin digunakan untuk membangkitkan listrik dari energi gerak angin."
-  },
-  {
-    "id": 56,
-    "text": "Gambar menunjukkan peristiwa revolusi Bumi. Salah satu akibat dari peristiwa ini adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "Terjadinya siang dan malam",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Pasang surut air laut",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Perbedaan musim di berbagai belahan Bumi",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Terjadinya gempa bumi",
-        "score": 0
-      }
-    ],
-    "explanation": "Revolusi Bumi menyebabkan perubahan posisi Matahari terhadap Bumi, memengaruhi musim."
-  },
-  {
-    "id": 57,
-    "text": "Jika suatu atom memiliki 6 proton, maka jumlah elektronnya adalah...",
-    "options": [
-      {
-        "key": "A",
-        "text": "6",
-        "score": 1
-      },
-      {
-        "key": "B",
-        "text": "12",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "0",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Tidak bisa ditentukan",
-        "score": 0
-      }
-    ],
-    "explanation": "Dalam keadaan netral, jumlah elektron = jumlah proton."
-  },
-  {
-    "id": 58,
-    "text": "Dari gambar kaktus, beruang kutub, bebek, manakah adaptasi yang membantu hewan tetap hidup di lingkungan dingin?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Kaktus dengan duri",
-        "score": 0
-      },
-      {
-        "key": "B",
-        "text": "Bebek dengan paruh lebar",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Beruang kutub dengan bulu tebal",
-        "score": 1
-      },
-      {
-        "key": "D",
-        "text": "Bebek dengan kaki berselaput",
-        "score": 0
-      }
-    ],
-    "explanation": "Bulu tebal menjaga panas tubuh di lingkungan bersalju."
-  },
-  {
-    "id": 59,
-    "text": "Dua anak memegang paku. Andi menekan paku dengan ujung tajam ke papan, sedangkan Budi dengan ujung tumpul. Siapa yang lebih mudah menancapkan paku dan mengapa?",
-    "options": [
-      {
-        "key": "A",
-        "text": "Andi, karena tekanan lebih besar",
-        "score": 1
-      },
-      {
-        "key": "B",
-        "text": "Budi, karena tekanan lebih kecil",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "Andi, karena tekanan lebih kecil",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "Budi, karena luas permukaan kecil",
-        "score": 0
-      }
-    ],
-    "explanation": "Tekanan = Gaya ÷ Luas. Ujung tajam punya luas kecil → tekanan besar."
-  },
-  {
-    "id": 60,
-    "text": "Jika termometer A menunjukkan 0°C dan termometer B menunjukkan 32°F, maka dapat disimpulkan bahwa...",
-    "options": [
-      {
-        "key": "A",
-        "text": "0°C = 32°F",
-        "score": 1
-      },
-      {
-        "key": "B",
-        "text": "0°C = 0°F",
-        "score": 0
-      },
-      {
-        "key": "C",
-        "text": "32°C = 0°F",
-        "score": 0
-      },
-      {
-        "key": "D",
-        "text": "0°C = 100°F",
-        "score": 0
-      }
-    ],
-    "explanation": "Titik beku air adalah 0°C atau 32°F."
-  }
-]
+    {
+      "id": 1,
+      "text": "Lani sedang melihat beberapa hewan: burung, kelelawar, dan lebah. Ia mencatat bahwa semuanya bisa terbang. Lani lalu menyimpulkan bahwa semua hewan yang bisa terbang adalah burung. Apa kesalahan yang dilakukan Lani?",
+      "options": [
+        { "key": "A", "text": "Ia tidak mengamati dengan baik", "score": 0 },
+        { "key": "B", "text": "Ia terlalu cepat menyimpulkan tanpa cukup data", "score": 1 },
+        { "key": "C", "text": "Ia mengelompokkan hewan dengan benar", "score": 0 },
+        { "key": "D", "text": "Ia menggunakan alat ukur yang salah", "score": 0 }
+      ],
+      "explanation": "Kesalahan Lani adalah menyimpulkan terlalu cepat (generalisasi dari data terbatas), padahal kelelawar adalah mamalia dan lebah adalah serangga."
+    },
+    {
+      "id": 2,
+      "text": "Andi ingin tahu apakah tanaman tumbuh lebih cepat dengan air biasa atau air teh. Ia menanam dua tanaman yang sama, satu disiram air biasa dan satu lagi disiram air teh setiap hari selama 1 minggu. Manakah yang merupakan variabel bebas dalam percobaan Andi?",
+      "options": [
+        { "key": "A", "text": "Jenis tanaman", "score": 0 },
+        { "key": "B", "text": "Jumlah air", "score": 0 },
+        { "key": "C", "text": "Jenis air yang digunakan", "score": 1 },
+        { "key": "D", "text": "Waktu penyiraman", "score": 0 }
+      ],
+      "explanation": "Variabel bebas adalah faktor yang sengaja diubah dalam percobaan, yaitu jenis air (air biasa atau air teh)."
+    },
+    {
+      "id": 3,
+      "text": "Jika suhu tubuh manusia normal adalah sekitar 36–37°C, maka seseorang dengan suhu 34°C kemungkinan...",
+      "options": [
+        { "key": "A", "text": "Sedang demam", "score": 0 },
+        { "key": "B", "text": "Normal", "score": 0 },
+        { "key": "C", "text": "Mengalami hipotermia", "score": 1 },
+        { "key": "D", "text": "Terinfeksi virus", "score": 0 }
+      ],
+      "explanation": "Suhu tubuh di bawah normal (34°C) menunjukkan hipotermia, bukan demam."
+    },
+    {
+      "id": 4,
+      "text": "Dari gambar yang menunjukkan seekor kucing, burung, dan kelinci, keterampilan ilmiah apa yang digunakan untuk membedakan ketiga hewan?",
+      "options": [
+        { "key": "A", "text": "Mengukur", "score": 0 },
+        { "key": "B", "text": "Mengklasifikasikan", "score": 1 },
+        { "key": "C", "text": "Menyimpulkan", "score": 0 },
+        { "key": "D", "text": "Memprediksi", "score": 0 }
+      ],
+      "explanation": "Mengelompokkan hewan berdasarkan ciri fisiknya adalah keterampilan klasifikasi."
+    },
+    {
+      "id": 5,
+      "text": "Alat yang paling tepat digunakan untuk mengukur volume batu yang bentuknya tidak beraturan adalah...",
+      "options": [
+        { "key": "A", "text": "Gelas ukur", "score": 1 },
+        { "key": "B", "text": "Termometer", "score": 0 },
+        { "key": "C", "text": "Penggaris", "score": 0 },
+        { "key": "D", "text": "Stopwatch", "score": 0 }
+      ],
+      "explanation": "Gelas ukur digunakan dengan metode perpindahan air untuk mengukur volume benda tidak beraturan."
+    },
+    {
+      "id": 6,
+      "text": "Tumbuhan berikut termasuk kelompok tumbuhan berbiji tertutup:",
+      "options": [
+        { "key": "A", "text": "Lumut", "score": 0 },
+        { "key": "B", "text": "Paku", "score": 0 },
+        { "key": "C", "text": "Mangga", "score": 1 },
+        { "key": "D", "text": "Pinus", "score": 0 }
+      ],
+      "explanation": "Mangga tergolong angiospermae (berbiji tertutup), sedangkan pinus adalah gymnospermae, lumut dan paku tidak menghasilkan biji."
+    },
+    {
+      "id": 7,
+      "text": "Mengapa burung hantu memiliki mata besar dan pandangan tajam?",
+      "options": [
+        { "key": "A", "text": "Untuk terbang lebih cepat", "score": 0 },
+        { "key": "B", "text": "Untuk mencari mangsa di malam hari", "score": 1 },
+        { "key": "C", "text": "Untuk menjaga keseimbangan tubuh", "score": 0 },
+        { "key": "D", "text": "Untuk membangun sarang di ketinggian", "score": 0 }
+      ],
+      "explanation": "Adaptasi khusus burung hantu adalah penglihatan malam (nocturnal) agar efektif berburu di gelap."
+    },
+    {
+      "id": 8,
+      "text": "Gambar menunjukkan dua jenis tulang daun. Tulang daun kiri sejajar dan kanan menyirip. Tumbuhan dengan daun seperti kiri umumnya termasuk...",
+      "options": [
+        { "key": "A", "text": "Dikotil", "score": 0 },
+        { "key": "B", "text": "Monokotil", "score": 1 },
+        { "key": "C", "text": "Gymnospermae", "score": 0 },
+        { "key": "D", "text": "Paku", "score": 0 }
+      ],
+      "explanation": "Tulang daun sejajar adalah ciri khas monokotil (misalnya jagung, padi)."
+    },
+    {
+      "id": 9,
+      "text": "Urutan jalannya udara saat bernapas adalah...",
+      "options": [
+        { "key": "A", "text": "Hidung → paru-paru → tenggorokan", "score": 0 },
+        { "key": "B", "text": "Paru-paru → hidung → bronkus", "score": 0 },
+        { "key": "C", "text": "Hidung → tenggorokan → bronkus → paru-paru", "score": 1 },
+        { "key": "D", "text": "Bronkus → hidung → paru-paru", "score": 0 }
+      ],
+      "explanation": "Udara masuk dari hidung → trakea (tenggorokan) → bronkus → paru-paru."
+    },
+    {
+      "id": 10,
+      "text": "Jika kamu mengunyah nasi dalam waktu lama, maka nasi akan terasa manis. Hal ini membuktikan bahwa...",
+      "options": [
+        { "key": "A", "text": "Air liur mengandung asam", "score": 0 },
+        { "key": "B", "text": "Air liur mengubah karbohidrat menjadi gula", "score": 1 },
+        { "key": "C", "text": "Air liur mengandung lemak", "score": 0 },
+        { "key": "D", "text": "Air liur mengubah protein menjadi glukosa", "score": 0 }
+      ],
+      "explanation": "Enzim amilase dalam air liur memecah pati (nasi) menjadi maltosa (gula sederhana)."
+    },
+    {
+      "id": 11,
+      "text": "Panah berwarna biru menunjukkan darah dari tubuh menuju jantung, sedangkan panah merah menuju seluruh tubuh. Maka, panah biru berasal dari...",
+      "options": [
+        { "key": "A", "text": "Arteri pulmonalis", "score": 0 },
+        { "key": "B", "text": "Vena cava", "score": 1 },
+        { "key": "C", "text": "Aorta", "score": 0 },
+        { "key": "D", "text": "Vena pulmonalis", "score": 0 }
+      ],
+      "explanation": "Vena cava membawa darah kotor dari tubuh ke jantung (atrium kanan)."
+    },
+    {
+      "id": 12,
+      "text": "Dalam suatu ekosistem, urutan rantai makanan yang benar adalah...",
+      "options": [
+        { "key": "A", "text": "Rumput → Ular → Katak → Elang", "score": 0 },
+        { "key": "B", "text": "Rumput → Belalang → Katak → Ular", "score": 1 },
+        { "key": "C", "text": "Elang → Ular → Belalang → Rumput", "score": 0 },
+        { "key": "D", "text": "Ular → Katak → Belalang → Rumput", "score": 0 }
+      ],
+      "explanation": "Produsen (rumput) → konsumen I (belalang) → konsumen II (katak) → konsumen III (ular)."
+    },
+    {
+      "id": 13,
+      "text": "Unta mampu bertahan hidup di gurun karena memiliki...",
+      "options": [
+        { "key": "A", "text": "Gigi tajam", "score": 0 },
+        { "key": "B", "text": "Kulit tipis", "score": 0 },
+        { "key": "C", "text": "Punuk menyimpan air", "score": 0 },
+        { "key": "D", "text": "Kemampuan menyimpan cadangan makanan", "score": 1 }
+      ],
+      "explanation": "Punuk menyimpan lemak (bukan air), yang dapat digunakan sebagai sumber energi dan air."
+    },
+    {
+      "id": 14,
+      "text": "Dampak negatif dari kegiatan penebangan hutan adalah...",
+      "options": [
+        { "key": "A", "text": "Menurunkan pencemaran udara", "score": 0 },
+        { "key": "B", "text": "Menambah kesuburan tanah", "score": 0 },
+        { "key": "C", "text": "Mengurangi keanekaragaman hayati", "score": 1 },
+        { "key": "D", "text": "Meningkatkan populasi hewan liar", "score": 0 }
+      ],
+      "explanation": "Penebangan liar menyebabkan habitat hilang → spesies punah."
+    },
+    {
+      "id": 15,
+      "text": "Contoh bioteknologi tradisional adalah...",
+      "options": [
+        { "key": "A", "text": "Membuat tempe", "score": 1 },
+        { "key": "B", "text": "Menyambung kabel listrik", "score": 0 },
+        { "key": "C", "text": "Menanam padi", "score": 0 },
+        { "key": "D", "text": "Membuat plastik", "score": 0 }
+      ],
+      "explanation": "Pembuatan tempe menggunakan jamur Rhizopus (fermentasi) → contoh bioteknologi."
+    },
+    {
+      "id": 16,
+      "text": "Mengapa kita dianjurkan mencuci tangan sebelum makan?",
+      "options": [
+        { "key": "A", "text": "Menurunkan suhu tubuh", "score": 0 },
+        { "key": "B", "text": "Menghindari makanan basi", "score": 0 },
+        { "key": "C", "text": "Mencegah kuman masuk ke tubuh", "score": 1 },
+        { "key": "D", "text": "Agar makanan terasa lebih enak", "score": 0 }
+      ],
+      "explanation": "Tangan kotor bisa membawa bakteri atau virus yang menyebabkan penyakit."
+    },
+    {
+      "id": 17,
+      "text": "Kegiatan seperti bank sampah dan pengomposan bertujuan untuk...",
+      "options": [
+        { "key": "A", "text": "Meningkatkan pendapatan rumah tangga", "score": 0 },
+        { "key": "B", "text": "Menambah polusi lingkungan", "score": 0 },
+        { "key": "C", "text": "Mengurangi limbah dan menciptakan lingkungan bersih", "score": 1 },
+        { "key": "D", "text": "Menghindari pemakaian pupuk", "score": 0 }
+      ],
+      "explanation": "Bank sampah dan pengomposan adalah bagian dari pengelolaan lingkungan berkelanjutan."
+    },
+    {
+      "id": 18,
+      "text": "Gaya gesek berguna dalam kegiatan berikut, kecuali...",
+      "options": [
+        { "key": "A", "text": "Menginjak rem sepeda", "score": 0 },
+        { "key": "B", "text": "Menyalakan korek api", "score": 0 },
+        { "key": "C", "text": "Meluncur di atas es", "score": 1 },
+        { "key": "D", "text": "Berjalan di lantai kasar", "score": 0 }
+      ],
+      "explanation": "Gaya gesek sangat kecil di permukaan es, sehingga kurang berguna untuk memperlambat gerak."
+    },
+    {
+      "id": 19,
+      "text": "Bola digantung pada ketinggian tertentu. Jika dilepas, bola akan bergerak karena...",
+      "options": [
+        { "key": "A", "text": "Tekanan", "score": 0 },
+        { "key": "B", "text": "Gaya otot", "score": 0 },
+        { "key": "C", "text": "Energi kinetik", "score": 0 },
+        { "key": "D", "text": "Energi potensial berubah jadi energi gerak", "score": 1 }
+      ],
+      "explanation": "Ketinggian → energi potensial. Saat jatuh → berubah jadi energi kinetik."
+    },
+    {
+      "id": 20,
+      "text": "Mengapa paku lebih mudah menembus kayu dibanding ujung balok kayu?",
+      "options": [
+        { "key": "A", "text": "Karena paku lebih berat", "score": 0 },
+        { "key": "B", "text": "Karena paku memiliki gaya gesek tinggi", "score": 0 },
+        { "key": "C", "text": "Karena tekanan paku lebih besar", "score": 1 },
+        { "key": "D", "text": "Karena kayu lebih lunak", "score": 0 }
+      ],
+      "explanation": "Tekanan = Gaya / Luas. Luas ujung paku kecil → tekanan besar → mudah menembus."
+    },
+    {
+      "id": 21,
+      "text": "Perhatikan pernyataan berikut: (1) Es mencair menjadi air. (2) Air menguap menjadi uap. (3) Air berubah jadi es. (4) Uap berubah jadi air. Perubahan fisika terjadi pada...",
+      "options": [
+        { "key": "A", "text": "(1), (2), dan (3)", "score": 0 },
+        { "key": "B", "text": "(1), (2), dan (4)", "score": 0 },
+        { "key": "C", "text": "(2), (3), dan (4)", "score": 0 },
+        { "key": "D", "text": "Semua benar", "score": 1 }
+      ],
+      "explanation": "Semua perubahan tersebut tidak mengubah zat penyusun → termasuk perubahan fisika."
+    },
+    {
+      "id": 22,
+      "text": "Jika air dan minyak dicampurkan lalu dibiarkan, akan terbentuk dua lapisan. Hal ini menunjukkan bahwa...",
+      "options": [
+        { "key": "A", "text": "Air dan minyak saling larut", "score": 0 },
+        { "key": "B", "text": "Air lebih ringan dari minyak", "score": 0 },
+        { "key": "C", "text": "Air dan minyak tidak dapat bercampur sempurna", "score": 1 },
+        { "key": "D", "text": "Air akan berubah menjadi minyak", "score": 0 }
+      ],
+      "explanation": "Air polar, minyak non-polar → tidak bisa larut → membentuk lapisan."
+    },
+    {
+      "id": 23,
+      "text": "Campuran seperti air sirup jernih disebut...",
+      "options": [
+        { "key": "A", "text": "Campuran heterogen", "score": 0 },
+        { "key": "B", "text": "Campuran kasar", "score": 0 },
+        { "key": "C", "text": "Campuran suspensi", "score": 0 },
+        { "key": "D", "text": "Campuran homogen", "score": 1 }
+      ],
+      "explanation": "Larutan sirup tampak menyatu dan tidak terlihat partikel penyusunnya → larutan homogen."
+    },
+    {
+      "id": 24,
+      "text": "Alat berikut termasuk konduktor listrik, kecuali...",
+      "options": [
+        { "key": "A", "text": "Sendok logam", "score": 0 },
+        { "key": "B", "text": "Kawat tembaga", "score": 0 },
+        { "key": "C", "text": "Penggaris plastik", "score": 1 },
+        { "key": "D", "text": "Baut besi", "score": 0 }
+      ],
+      "explanation": "Plastik termasuk isolator → tidak menghantarkan listrik."
+    },
+    {
+      "id": 25,
+      "text": "Mengapa magnet dapat menarik benda dari logam tertentu, tetapi tidak menarik kertas?",
+      "options": [
+        { "key": "A", "text": "Karena kertas terlalu ringan", "score": 0 },
+        { "key": "B", "text": "Karena magnet hanya menarik benda bermuatan", "score": 0 },
+        { "key": "C", "text": "Karena hanya benda logam tertentu bersifat feromagnetik", "score": 1 },
+        { "key": "D", "text": "Karena kertas bersifat konduktor", "score": 0 }
+      ],
+      "explanation": "Besi, baja, nikel adalah logam feromagnetik → bisa ditarik magnet."
+    },
+    {
+      "id": 26,
+      "text": "Dari dua gambar rangkaian seri dan paralel, rangkaian mana yang akan mati semua jika satu lampu dilepas?",
+      "options": [
+        { "key": "A", "text": "Gambar kiri", "score": 1 },
+        { "key": "B", "text": "Gambar kanan", "score": 0 },
+        { "key": "C", "text": "Keduanya", "score": 0 },
+        { "key": "D", "text": "Tidak satupun", "score": 0 }
+      ],
+      "explanation": "Gambar kiri adalah rangkaian seri → jika satu lampu dilepas, arus terputus semua."
+    },
+    {
+      "id": 27,
+      "text": "Bunyi tidak dapat merambat melalui...",
+      "options": [
+        { "key": "A", "text": "Logam", "score": 0 },
+        { "key": "B", "text": "Udara", "score": 0 },
+        { "key": "C", "text": "Air", "score": 0 },
+        { "key": "D", "text": "Ruang hampa", "score": 1 }
+      ],
+      "explanation": "Bunyi memerlukan medium (padat, cair, gas) → tidak merambat di ruang hampa."
+    },
+    {
+      "id": 28,
+      "text": "Bayangan yang terbentuk oleh cermin datar adalah...",
+      "options": [
+        { "key": "A", "text": "Tegak dan nyata", "score": 0 },
+        { "key": "B", "text": "Terbalik dan maya", "score": 0 },
+        { "key": "C", "text": "Tegak dan maya", "score": 1 },
+        { "key": "D", "text": "Terbalik dan nyata", "score": 0 }
+      ],
+      "explanation": "Cermin datar menghasilkan bayangan tegak, seolah-olah ada di balik cermin → maya."
+    },
+    {
+      "id": 29,
+      "text": "Fenomena pensil dalam gelas air terlihat bengkok disebut...",
+      "options": [
+        { "key": "A", "text": "Pemantulan cahaya", "score": 0 },
+        { "key": "B", "text": "Pembiasan cahaya", "score": 1 },
+        { "key": "C", "text": "Difraksi cahaya", "score": 0 },
+        { "key": "D", "text": "Dispersi cahaya", "score": 0 }
+      ],
+      "explanation": "Cahaya berubah arah saat melewati medium berbeda kerapatan → pensil tampak bengkok."
+    },
+    {
+      "id": 30,
+      "text": "Bagian dari termometer yang berisi cairan dan naik saat panas adalah...",
+      "options": [
+        { "key": "A", "text": "Pipa kapiler", "score": 1 },
+        { "key": "B", "text": "Reservoir", "score": 0 },
+        { "key": "C", "text": "Skala", "score": 0 },
+        { "key": "D", "text": "Tabung logam", "score": 0 }
+      ],
+      "explanation": "Pipa kecil tempat cairan termometer naik saat suhu naik."
+    },
+    {
+      "id": 31,
+      "text": "Mengapa gagang panci biasanya terbuat dari plastik atau kayu?",
+      "options": [
+        { "key": "A", "text": "Agar panci lebih kuat", "score": 0 },
+        { "key": "B", "text": "Karena mudah dipanaskan", "score": 0 },
+        { "key": "C", "text": "Agar tidak cepat leleh", "score": 0 },
+        { "key": "D", "text": "Karena plastik/kayu penghantar panas buruk", "score": 1 }
+      ],
+      "explanation": "Isolator panas → tangan tidak kepanasan saat memegang gagang."
+    },
+    {
+      "id": 32,
+      "text": "Perubahan seperti pada gambar es mencair menjadi air disebut...",
+      "options": [
+        { "key": "A", "text": "Membeku", "score": 0 },
+        { "key": "B", "text": "Mengembun", "score": 0 },
+        { "key": "C", "text": "Mencair", "score": 1 },
+        { "key": "D", "text": "Menguap", "score": 0 }
+      ],
+      "explanation": "Es (padat) → air (cair) saat menyerap kalor."
+    },
+    {
+      "id": 33,
+      "text": "Setrika listrik mengubah energi...",
+      "options": [
+        { "key": "A", "text": "Listrik → gerak", "score": 0 },
+        { "key": "B", "text": "Listrik → bunyi", "score": 0 },
+        { "key": "C", "text": "Listrik → panas", "score": 1 },
+        { "key": "D", "text": "Panas → listrik", "score": 0 }
+      ],
+      "explanation": "Energi listrik diubah menjadi energi panas untuk memanaskan pelat setrika."
+    },
+    {
+      "id": 34,
+      "text": "Mengapa penggunaan energi surya lebih ramah lingkungan dibanding batu bara?",
+      "options": [
+        { "key": "A", "text": "Karena cahaya matahari lebih mahal", "score": 0 },
+        { "key": "B", "text": "Karena batu bara sulit ditemukan", "score": 0 },
+        { "key": "C", "text": "Karena matahari tidak menghasilkan limbah", "score": 1 },
+        { "key": "D", "text": "Karena batu bara menghasilkan suara", "score": 0 }
+      ],
+      "explanation": "Energi surya tidak menghasilkan emisi CO₂ → ramah lingkungan."
+    },
+    {
+      "id": 35,
+      "text": "Kedua gambar kincir angin dan panel surya termasuk contoh...",
+      "options": [
+        { "key": "A", "text": "Energi fosil", "score": 0 },
+        { "key": "B", "text": "Energi mekanik", "score": 0 },
+        { "key": "C", "text": "Energi alternatif", "score": 1 },
+        { "key": "D", "text": "Energi listrik", "score": 0 }
+      ],
+      "explanation": "Angin dan matahari adalah sumber energi terbarukan → alternatif pengganti bahan bakar fosil."
+    },
+    {
+      "id": 36,
+      "text": "Planet yang memiliki cincin paling mencolok dan terbesar adalah...",
+      "options": [
+        { "key": "A", "text": "Uranus", "score": 0 },
+        { "key": "B", "text": "Mars", "score": 0 },
+        { "key": "C", "text": "Saturnus", "score": 1 },
+        { "key": "D", "text": "Jupiter", "score": 0 }
+      ],
+      "explanation": "Saturnus dikenal dengan cincin besar dan terang yang mengelilinginya."
+    },
+    {
+      "id": 37,
+      "text": "Peristiwa siang dan malam terjadi karena...",
+      "options": [
+        { "key": "A", "text": "Revolusi Bumi mengelilingi Matahari", "score": 0 },
+        { "key": "B", "text": "Bumi berputar pada porosnya", "score": 1 },
+        { "key": "C", "text": "Bumi mengelilingi Bulan", "score": 0 },
+        { "key": "D", "text": "Matahari bergerak mengelilingi Bumi", "score": 0 }
+      ],
+      "explanation": "Rotasi menyebabkan sebagian permukaan Bumi bergantian menghadap dan membelakangi Matahari."
+    },
+    {
+      "id": 38,
+      "text": "Gambar posisi Matahari–Bumi–Bulan sejajar menunjukkan peristiwa...",
+      "options": [
+        { "key": "A", "text": "Gerhana Matahari Total", "score": 0 },
+        { "key": "B", "text": "Gerhana Bulan", "score": 1 },
+        { "key": "C", "text": "Fase Bulan Baru", "score": 0 },
+        { "key": "D", "text": "Revolusi Bulan", "score": 0 }
+      ],
+      "explanation": "Bumi di tengah antara Matahari dan Bulan → bayangan Bumi menutupi Bulan."
+    },
+    {
+      "id": 39,
+      "text": "Lapisan atmosfer yang melindungi Bumi dari sinar ultraviolet adalah...",
+      "options": [
+        { "key": "A", "text": "Troposfer", "score": 0 },
+        { "key": "B", "text": "Ozonosfer", "score": 1 },
+        { "key": "C", "text": "Termosfer", "score": 0 },
+        { "key": "D", "text": "Eksosfer", "score": 0 }
+      ],
+      "explanation": "Lapisan ozon menyerap radiasi UV dari Matahari."
+    },
+    {
+      "id": 40,
+      "text": "Negara yang mengalami empat musim dalam setahun terjadi akibat...",
+      "options": [
+        { "key": "A", "text": "Gerak Bulan", "score": 0 },
+        { "key": "B", "text": "Revolusi Bumi dan kemiringan sumbu Bumi", "score": 1 },
+        { "key": "C", "text": "Pengaruh Matahari", "score": 0 },
+        { "key": "D", "text": "Perubahan bentuk orbit Bumi", "score": 0 }
+      ],
+      "explanation": "Revolusi + kemiringan sumbu → sudut cahaya matahari ke Bumi berbeda-beda sepanjang tahun."
+    },
+    {
+      "id": 41,
+      "text": "Matahari berada dalam galaksi...",
+      "options": [
+        { "key": "A", "text": "Andromeda", "score": 0 },
+        { "key": "B", "text": "Centaurus", "score": 0 },
+        { "key": "C", "text": "Bima Sakti", "score": 1 },
+        { "key": "D", "text": "Galaksi Katai", "score": 0 }
+      ],
+      "explanation": "Matahari merupakan bagian dari sistem Tata Surya di galaksi Bima Sakti."
+    },
+    {
+      "id": 42,
+      "text": "Partikel yang bermuatan negatif dan mengelilingi inti atom disebut...",
+      "options": [
+        { "key": "A", "text": "Proton", "score": 0 },
+        { "key": "B", "text": "Neutron", "score": 0 },
+        { "key": "C", "text": "Elektron", "score": 1 },
+        { "key": "D", "text": "Ion", "score": 0 }
+      ],
+      "explanation": "Elektron bermuatan negatif dan berada di luar inti atom."
+    },
+    {
+      "id": 43,
+      "text": "Air murni adalah zat tunggal karena...",
+      "options": [
+        { "key": "A", "text": "Berasal dari satu sumber", "score": 0 },
+        { "key": "B", "text": "Memiliki dua zat yang larut", "score": 0 },
+        { "key": "C", "text": "Terdiri dari satu jenis materi", "score": 1 },
+        { "key": "D", "text": "Tidak memiliki partikel", "score": 0 }
+      ],
+      "explanation": "Air murni = H₂O → satu jenis senyawa → zat tunggal."
+    },
+    {
+      "id": 44,
+      "text": "Atom dengan 2 elektron dan 2 proton paling mungkin merupakan...",
+      "options": [
+        { "key": "A", "text": "Helium", "score": 1 },
+        { "key": "B", "text": "Hidrogen", "score": 0 },
+        { "key": "C", "text": "Oksigen", "score": 0 },
+        { "key": "D", "text": "Karbon", "score": 0 }
+      ],
+      "explanation": "Atom dengan 2 proton dan 2 elektron → atom Helium."
+    },
+    {
+      "id": 45,
+      "text": "Andi menanam dua tanaman yang sama di pot berbeda. Pot A diletakkan di tempat terang dan disiram setiap hari, sedangkan pot B diletakkan di tempat gelap dan tidak disiram. Setelah 7 hari, tanaman di pot A tumbuh subur, sementara pot B layu. Apa kesimpulan ilmiah dari percobaan ini?",
+      "options": [
+        { "key": "A", "text": "Tanaman tumbuh baik tanpa air", "score": 0 },
+        { "key": "B", "text": "Tanaman membutuhkan air dan cahaya untuk tumbuh", "score": 1 },
+        { "key": "C", "text": "Tanaman hanya membutuhkan air", "score": 0 },
+        { "key": "D", "text": "Tanaman tumbuh lebih baik tanpa cahaya", "score": 0 }
+      ],
+      "explanation": "Percobaan menunjukkan tanaman memerlukan air dan cahaya untuk tumbuh subur."
+    },
+    {
+      "id": 46,
+      "text": "Dari gambar katak, ikan, buaya, paus, hewan yang tergolong mamalia air adalah...",
+      "options": [
+        { "key": "A", "text": "Ikan", "score": 0 },
+        { "key": "B", "text": "Paus", "score": 1 },
+        { "key": "C", "text": "Katak", "score": 0 },
+        { "key": "D", "text": "Buaya", "score": 0 }
+      ],
+      "explanation": "Paus bernapas dengan paru-paru, melahirkan, dan menyusui anaknya."
+    },
+    {
+      "id": 47,
+      "text": "Makanan yang kita makan akan dicerna mulai dari mulut hingga ke usus halus. Jika seseorang mengalami gangguan pada pankreas, maka kemungkinan besar...",
+      "options": [
+        { "key": "A", "text": "Makanan tidak bisa dikunyah", "score": 0 },
+        { "key": "B", "text": "Tidak dapat menghasilkan enzim pencernaan tertentu", "score": 1 },
+        { "key": "C", "text": "Darah tidak dapat mengalir", "score": 0 },
+        { "key": "D", "text": "Paru-paru tidak bekerja", "score": 0 }
+      ],
+      "explanation": "Pankreas menghasilkan enzim untuk mencerna makanan di usus."
+    },
+    {
+      "id": 48,
+      "text": "Dari gambar jaring-jaring makanan: rumput → kelinci → ular → elang, apa yang terjadi jika populasi kelinci menurun drastis?",
+      "options": [
+        { "key": "A", "text": "Rumput akan habis", "score": 0 },
+        { "key": "B", "text": "Populasi ular dan elang menurun", "score": 1 },
+        { "key": "C", "text": "Ular dan elang bertambah", "score": 0 },
+        { "key": "D", "text": "Elang menjadi pemakan rumput", "score": 0 }
+      ],
+      "explanation": "Kelinci adalah sumber makanan utama bagi ular, yang selanjutnya dimakan elang."
+    },
+    {
+      "id": 49,
+      "text": "Pembuatan tempe dan yoghurt menggunakan bantuan...",
+      "options": [
+        { "key": "A", "text": "Cacing", "score": 0 },
+        { "key": "B", "text": "Mikroorganisme", "score": 1 },
+        { "key": "C", "text": "Enzim dari tanaman", "score": 0 },
+        { "key": "D", "text": "Tanah dan pasir", "score": 0 }
+      ],
+      "explanation": "Proses fermentasi pada tempe dan yoghurt melibatkan mikroba seperti bakteri dan jamur."
+    },
+    {
+      "id": 50,
+      "text": "Dua anak mendorong meja ke arah berlawanan. Satu anak mendorong ke kanan dengan gaya 20 N, satu lagi ke kiri dengan gaya 15 N. Arah gerak meja adalah...",
+      "options": [
+        { "key": "A", "text": "Ke kiri", "score": 0 },
+        { "key": "B", "text": "Tidak bergerak", "score": 0 },
+        { "key": "C", "text": "Ke kanan", "score": 1 },
+        { "key": "D", "text": "Lompat ke atas", "score": 0 }
+      ],
+      "explanation": "Gaya total = 20 N – 15 N = 5 N ke kanan."
+    },
+    {
+      "id": 51,
+      "text": "Proses yang terjadi dari gambar es mencair dan air menguap disebut...",
+      "options": [
+        { "key": "A", "text": "Pengembunan dan pembekuan", "score": 0 },
+        { "key": "B", "text": "Peleburan dan penguapan", "score": 1 },
+        { "key": "C", "text": "Penguapan dan pengembunan", "score": 0 },
+        { "key": "D", "text": "Pembekuan dan sublimasi", "score": 0 }
+      ],
+      "explanation": "Es → cair (peleburan), cair → uap (penguapan)."
+    },
+    {
+      "id": 52,
+      "text": "Pada rangkaian paralel, jika satu lampu dilepas maka lampu lainnya akan...",
+      "options": [
+        { "key": "A", "text": "Mati juga", "score": 0 },
+        { "key": "B", "text": "Menyala lebih redup", "score": 0 },
+        { "key": "C", "text": "Tetap menyala", "score": 1 },
+        { "key": "D", "text": "Meledak", "score": 0 }
+      ],
+      "explanation": "Rangkaian paralel membuat arus tetap mengalir ke setiap lampu."
+    },
+    {
+      "id": 53,
+      "text": "Saat kamu berdiri di depan cermin datar, kamu bisa melihat bayanganmu karena...",
+      "options": [
+        { "key": "A", "text": "Cahaya diserap", "score": 0 },
+        { "key": "B", "text": "Cahaya dibelokkan", "score": 0 },
+        { "key": "C", "text": "Cahaya dipantulkan", "score": 1 },
+        { "key": "D", "text": "Cermin memancarkan cahaya", "score": 0 }
+      ],
+      "explanation": "Cermin bekerja dengan memantulkan cahaya yang mengenai permukaannya."
+    },
+    {
+      "id": 54,
+      "text": "Tangan terasa hangat saat menyentuh gelas berisi air panas. Hal ini menunjukkan perpindahan kalor secara...",
+      "options": [
+        { "key": "A", "text": "Radiasi", "score": 0 },
+        { "key": "B", "text": "Konduksi", "score": 1 },
+        { "key": "C", "text": "Konveksi", "score": 0 },
+        { "key": "D", "text": "Evaporasi", "score": 0 }
+      ],
+      "explanation": "Kalor berpindah langsung melalui sentuhan (konduksi) dari gelas ke tangan."
+    },
+    {
+      "id": 55,
+      "text": "Kincir angin mengubah energi angin menjadi...",
+      "options": [
+        { "key": "A", "text": "Energi kalor", "score": 0 },
+        { "key": "B", "text": "Energi potensial", "score": 0 },
+        { "key": "C", "text": "Energi listrik", "score": 1 },
+        { "key": "D", "text": "Energi kimia", "score": 0 }
+      ],
+      "explanation": "Kincir angin digunakan untuk membangkitkan listrik dari energi gerak angin."
+    },
+    {
+      "id": 56,
+      "text": "Gambar menunjukkan peristiwa revolusi Bumi. Salah satu akibat dari peristiwa ini adalah...",
+      "options": [
+        { "key": "A", "text": "Terjadinya siang dan malam", "score": 0 },
+        { "key": "B", "text": "Pasang surut air laut", "score": 0 },
+        { "key": "C", "text": "Perbedaan musim di berbagai belahan Bumi", "score": 1 },
+        { "key": "D", "text": "Terjadinya gempa bumi", "score": 0 }
+      ],
+      "explanation": "Revolusi Bumi menyebabkan perubahan posisi Matahari terhadap Bumi, memengaruhi musim."
+    },
+    {
+      "id": 57,
+      "text": "Jika suatu atom memiliki 6 proton, maka jumlah elektronnya adalah...",
+      "options": [
+        { "key": "A", "text": "6", "score": 1 },
+        { "key": "B", "text": "12", "score": 0 },
+        { "key": "C", "text": "0", "score": 0 },
+        { "key": "D", "text": "Tidak bisa ditentukan", "score": 0 }
+      ],
+      "explanation": "Dalam keadaan netral, jumlah elektron = jumlah proton."
+    },
+    {
+      "id": 58,
+      "text": "Dari gambar kaktus, beruang kutub, bebek, manakah adaptasi yang membantu hewan tetap hidup di lingkungan dingin?",
+      "options": [
+        { "key": "A", "text": "Kaktus dengan duri", "score": 0 },
+        { "key": "B", "text": "Bebek dengan paruh lebar", "score": 0 },
+        { "key": "C", "text": "Beruang kutub dengan bulu tebal", "score": 1 },
+        { "key": "D", "text": "Bebek dengan kaki berselaput", "score": 0 }
+      ],
+      "explanation": "Bulu tebal menjaga panas tubuh di lingkungan bersalju."
+    },
+    {
+      "id": 59,
+      "text": "Dua anak memegang paku. Andi menekan paku dengan ujung tajam ke papan, sedangkan Budi dengan ujung tumpul. Siapa yang lebih mudah menancapkan paku dan mengapa?",
+      "options": [
+        { "key": "A", "text": "Andi, karena tekanan lebih besar", "score": 1 },
+        { "key": "B", "text": "Budi, karena tekanan lebih kecil", "score": 0 },
+        { "key": "C", "text": "Andi, karena tekanan lebih kecil", "score": 0 },
+        { "key": "D", "text": "Budi, karena luas permukaan kecil", "score": 0 }
+      ],
+      "explanation": "Tekanan = Gaya ÷ Luas. Ujung tajam punya luas kecil → tekanan besar."
+    },
+    {
+      "id": 60,
+      "text": "Jika termometer A menunjukkan 0°C dan termometer B menunjukkan 32°F, maka dapat disimpulkan bahwa...",
+      "options": [
+        { "key": "A", "text": "0°C = 32°F", "score": 1 },
+        { "key": "B", "text": "0°C = 0°F", "score": 0 },
+        { "key": "C", "text": "32°C = 0°F", "score": 0 },
+        { "key": "D", "text": "0°C = 100°F", "score": 0 }
+      ],
+      "explanation": "Titik beku air adalah 0°C atau 32°F."
+    }
+  ]
+}
