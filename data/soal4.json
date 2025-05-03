@@ -36,14 +36,14 @@
     },
     {
       "id": 4,
-      "text": "Dari gambar yang menunjukkan seekor kucing, burung, dan kelinci, keterampilan ilmiah apa yang digunakan untuk membedakan ketiga hewan?",
+      "text": "Bayangkan sebuah gambar yang menunjukkan seekor kucing dengan bulu halus, burung dengan sayap dan paruh, serta kelinci dengan telinga panjang. Keterampilan ilmiah apa yang digunakan untuk membedakan ketiga hewan ini berdasarkan ciri-cirinya?",
       "options": [
         { "key": "A", "text": "Mengukur", "score": 0 },
         { "key": "B", "text": "Mengklasifikasikan", "score": 1 },
         { "key": "C", "text": "Menyimpulkan", "score": 0 },
         { "key": "D", "text": "Memprediksi", "score": 0 }
       ],
-      "explanation": "Mengelompokkan hewan berdasarkan ciri fisiknya adalah keterampilan klasifikasi."
+      "explanation": "Mengelompokkan hewan berdasarkan ciri fisiknya, seperti bulu, sayap, atau telinga, adalah keterampilan klasifikasi."
     },
     {
       "id": 5,
@@ -80,14 +80,14 @@
     },
     {
       "id": 8,
-      "text": "Gambar menunjukkan dua jenis tulang daun. Tulang daun kiri sejajar dan kanan menyirip. Tumbuhan dengan daun seperti kiri umumnya termasuk...",
+      "text": "Bayangkan sebuah gambar yang menunjukkan dua daun: daun kiri memiliki tulang daun sejajar seperti pada padi, dan daun kanan memiliki tulang daun menyirip seperti pada mangga. Tumbuhan dengan tulang daun seperti daun kiri umumnya termasuk...",
       "options": [
         { "key": "A", "text": "Dikotil", "score": 0 },
         { "key": "B", "text": "Monokotil", "score": 1 },
         { "key": "C", "text": "Gymnospermae", "score": 0 },
         { "key": "D", "text": "Paku", "score": 0 }
       ],
-      "explanation": "Tulang daun sejajar adalah ciri khas monokotil (misalnya jagung, padi)."
+      "explanation": "Tulang daun sejajar adalah ciri khas monokotil (misalnya padi, jagung)."
     },
     {
       "id": 9,
@@ -113,7 +113,7 @@
     },
     {
       "id": 11,
-      "text": "Panah berwarna biru menunjukkan darah dari tubuh menuju jantung, sedangkan panah merah menuju seluruh tubuh. Maka, panah biru berasal dari...",
+      "text": "Bayangkan sebuah gambar sistem peredaran darah dengan dua panah: panah biru menunjukkan darah mengalir dari tubuh menuju jantung, dan panah merah menunjukkan darah mengalir dari jantung ke seluruh tubuh. Panah biru berasal dari...",
       "options": [
         { "key": "A", "text": "Arteri pulmonalis", "score": 0 },
         { "key": "B", "text": "Vena cava", "score": 1 },
@@ -278,14 +278,14 @@
     },
     {
       "id": 26,
-      "text": "Dari dua gambar rangkaian seri dan paralel, rangkaian mana yang akan mati semua jika satu lampu dilepas?",
+      "text": "Bayangkan dua gambar rangkaian listrik: gambar kiri menunjukkan dua lampu disusun secara seri (satu jalur), dan gambar kanan menunjukkan dua lampu disusun paralel (dua jalur terpisah). Rangkaian mana yang akan mati semua jika satu lampu dilepas?",
       "options": [
         { "key": "A", "text": "Gambar kiri", "score": 1 },
         { "key": "B", "text": "Gambar kanan", "score": 0 },
         { "key": "C", "text": "Keduanya", "score": 0 },
         { "key": "D", "text": "Tidak satupun", "score": 0 }
       ],
-      "explanation": "Gambar kiri adalah rangkaian seri → jika satu lampu dilepas, arus terputus semua."
+      "explanation": "Rangkaian seri (gambar kiri) akan terputus jika satu lampu dilepas, sehingga semua lampu mati."
     },
     {
       "id": 27,
@@ -344,7 +344,7 @@
     },
     {
       "id": 32,
-      "text": "Perubahan seperti pada gambar es mencair menjadi air disebut...",
+      "text": "Bayangkan sebuah gambar yang menunjukkan es mencair menjadi air di bawah sinar matahari. Perubahan ini disebut...",
       "options": [
         { "key": "A", "text": "Membeku", "score": 0 },
         { "key": "B", "text": "Mengembun", "score": 0 },
@@ -377,7 +377,7 @@
     },
     {
       "id": 35,
-      "text": "Kedua gambar kincir angin dan panel surya termasuk contoh...",
+      "text": "Bayangkan sebuah gambar yang menunjukkan kincir angin dengan bilah berputar dan panel surya yang menyerap cahaya matahari. Kedua alat ini termasuk contoh...",
       "options": [
         { "key": "A", "text": "Energi fosil", "score": 0 },
         { "key": "B", "text": "Energi mekanik", "score": 0 },
@@ -410,7 +410,7 @@
     },
     {
       "id": 38,
-      "text": "Gambar posisi Matahari–Bumi–Bulan sejajar menunjukkan peristiwa...",
+      "text": "Bayangkan sebuah gambar yang menunjukkan Matahari, Bumi, dan Bulan dalam posisi sejajar, dengan Bumi berada di tengah. Peristiwa apa yang terjadi?",
       "options": [
         { "key": "A", "text": "Gerhana Matahari Total", "score": 0 },
         { "key": "B", "text": "Gerhana Bulan", "score": 1 },
@@ -498,7 +498,7 @@
     },
     {
       "id": 46,
-      "text": "Dari gambar katak, ikan, buaya, paus, hewan yang tergolong mamalia air adalah...",
+      "text": "Bayangkan sebuah gambar yang menunjukkan empat hewan: katak dengan kulit lembap, ikan dengan sisik, buaya dengan kulit bersisik keras, dan paus dengan tubuh besar serta bernapas di air. Hewan yang tergolong mamalia air adalah...",
       "options": [
         { "key": "A", "text": "Ikan", "score": 0 },
         { "key": "B", "text": "Paus", "score": 1 },
@@ -520,7 +520,7 @@
     },
     {
       "id": 48,
-      "text": "Dari gambar jaring-jaring makanan: rumput → kelinci → ular → elang, apa yang terjadi jika populasi kelinci menurun drastis?",
+      "text": "Bayangkan sebuah gambar jaring-jaring makanan yang menunjukkan alur: rumput dimakan kelinci, kelinci dimakan ular, dan ular dimakan elang. Apa yang terjadi jika populasi kelinci menurun drastis?",
       "options": [
         { "key": "A", "text": "Rumput akan habis", "score": 0 },
         { "key": "B", "text": "Populasi ular dan elang menurun", "score": 1 },
@@ -553,7 +553,7 @@
     },
     {
       "id": 51,
-      "text": "Proses yang terjadi dari gambar es mencair dan air menguap disebut...",
+      "text": "Bayangkan sebuah gambar yang menunjukkan es mencair menjadi air di bawah sinar matahari, lalu air tersebut menguap menjadi uap. Proses yang terjadi disebut...",
       "options": [
         { "key": "A", "text": "Pengembunan dan pembekuan", "score": 0 },
         { "key": "B", "text": "Peleburan dan penguapan", "score": 1 },
@@ -608,7 +608,7 @@
     },
     {
       "id": 56,
-      "text": "Gambar menunjukkan peristiwa revolusi Bumi. Salah satu akibat dari peristiwa ini adalah...",
+      "text": "Bayangkan sebuah gambar yang menunjukkan Bumi mengorbit Matahari dalam lintasan elips. Peristiwa ini disebut revolusi Bumi. Salah satu akibat dari peristiwa ini adalah...",
       "options": [
         { "key": "A", "text": "Terjadinya siang dan malam", "score": 0 },
         { "key": "B", "text": "Pasang surut air laut", "score": 0 },
@@ -630,7 +630,7 @@
     },
     {
       "id": 58,
-      "text": "Dari gambar kaktus, beruang kutub, bebek, manakah adaptasi yang membantu hewan tetap hidup di lingkungan dingin?",
+      "text": "Bayangkan sebuah gambar yang menunjukkan kaktus dengan duri, beruang kutub dengan bulu tebal, dan bebek dengan kaki berselaput. Adaptasi mana yang membantu hewan tetap hidup di lingkungan dingin?",
       "options": [
         { "key": "A", "text": "Kaktus dengan duri", "score": 0 },
         { "key": "B", "text": "Bebek dengan paruh lebar", "score": 0 },
@@ -641,7 +641,7 @@
     },
     {
       "id": 59,
-      "text": "Dua anak memegang paku. Andi menekan paku dengan ujung tajam ke papan, sedangkan Budi dengan ujung tumpul. Siapa yang lebih mudah menancapkan paku dan mengapa?",
+      "text": "Bayangkan sebuah gambar yang menunjukkan dua anak memegang paku untuk menancapkannya ke papan kayu. Andi menekan paku dengan ujung tajam ke papan, sedangkan Budi dengan ujung tumpul. Siapa yang lebih mudah menancapkan paku dan mengapa?",
       "options": [
         { "key": "A", "text": "Andi, karena tekanan lebih besar", "score": 1 },
         { "key": "B", "text": "Budi, karena tekanan lebih kecil", "score": 0 },
