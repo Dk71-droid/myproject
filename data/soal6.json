@@ -30,11 +30,11 @@
     },
     {
       "id": 2,
-      "text": "Kamu dan temanmu sudah janjian untuk menonton bioskop bersama. Saat hari H temanmu ada keperluan mendadak yang tidak dapat ditinggalkan. Ia memintamu memvideokan film bioskop agar tidak tertinggal alur cerita. Apakah boleh?",
+      "text": "Kamu dan temanmu sudah janjian untuk menonton bioskop bersama. Saat hari H temanmu ada keperluan mendadak yang tidak dapat ditinggalkan. Ia memintamu memvideokan film bioskop agar tidak tertinggal alur cerita. Apa yang kamu lakukan?",
       "options": [
         {
           "key": "A",
-          "text": "Merekam film tersebut permintaannya.",
+          "text": "Merekam film tersebut sesuai permintaannya.",
           "score": 1
         },
         {
@@ -61,7 +61,7 @@
       "options": [
         {
           "key": "A",
-          "text": "Melaporkan kejadian tersebut kepada PRT.",
+          "text": "Melaporkan kejadian tersebut kepada Pak RT.",
           "score": 3
         },
         {
