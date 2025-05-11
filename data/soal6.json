@@ -1,116 +1,276 @@
-{    
-"fileName": "sosiokulturalwawancara",
-    "questions": [
+{
+  "fileName": "sosiokulturalwawancara",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Warga mengeluh karena sulit mengakses informasi ketika ada kegiatan sosial yang diadakan di kantor camat. Akibatnya hanya warga yang tinggal di sekitar kantor camat yang mengikuti kegiatan tersebut. Atasan Anda menegur Anda karena kejadian tersebut. Nah bagaimana tanggapan Anda?",
+      "options": [
         {
-            "id": 1,
-            "text": "Warga mengeluh karena sulit mengakses informasi ketika ada kegiatan sosial yang diadakan di kantor camat. Akibatnya hanya warga yang tinggal di sekitar kantor camat yang mengikuti kegiatan tersebut. Atasan Anda menegur Anda karena kejadian tersebut. Bagaimana tanggapan Anda?",
-            "options": [
-                { "key": "A", "text": "Mengakui dan menerima ini adalah kesalahan saya. Berusaha lebih aktif lagi dalam menyampaikan informasi ke masyarakat secara langsung.", "score": 1 },
-                { "key": "B", "text": "Berusaha lebih aktif lagi dalam menyampaikan informasi ke masyarakat secara langsung.", "score": 2 },
-                { "key": "C", "text": "Memanfaatkan media sosial untuk menyampaikan informasi kepada masyarakat luas.", "score": 3 },
-                { "key": "D", "text": "Meminta izin atasan membuat selebaran dan memanfaatkan media elektronik sebagai sarana informasi.", "score": 4 }
-            ],
-            "explanation": "Jawaban D adalah yang paling konkret, menyebutkan tindakan jelas dan sarana informasi yang efektif dan modern."
+          "key": "A",
+          "text": "Mengakui dan menerima ini adalah kesalahan saya. Berusaha lebih aktif lagi dalam menyampaikan informasi ke masyarakat secara langsung.",
+          "score": 1
         },
         {
-            "id": 2,
-            "text": "Kamu dan temanmu sudah janjian untuk menonton bioskop bersama. Saat hari H temanmu ada keperluan mendadak yang tidak dapat ditinggalkan. Ia memintamu memvideokan film bioskop agar tidak tertinggal alur cerita. Apa yang kamu lakukan?",
-            "options": [
-                { "key": "A", "text": "Merekam film tersebut permintaannya.", "score": 1 },
-                { "key": "B", "text": "Tidak merekam dan mengambil gambar sebab takut ditegur petugas.", "score": 2 },
-                { "key": "C", "text": "Menulis sinopsis untuk diceritakan kepadanya agar ia mengetahui alur cerita.", "score": 4 },
-                { "key": "D", "text": "Mengajaknya menonton lain hari saja.", "score": 3 }
-            ],
-            "explanation": "Menulis sinopsis adalah bentuk empati dan tetap mematuhi hukum hak cipta."
+          "key": "B",
+          "text": "Berusaha lebih aktif lagi dalam menyampaikan informasi ke masyarakat secara langsung.",
+          "score": 2
         },
         {
-            "id": 3,
-            "text": "Saat tengah malam Anda mendengar keributan dari luar. Ketika Anda periksa, tetangga Anda sedang berada di luar rumahnya dengan keadaan berdarah karena dipukul suaminya. Apa tindakan Anda?",
-            "options": [
-                { "key": "A", "text": "Melaporkan kejadian tersebut kepada PRT.", "score": 3 },
-                { "key": "B", "text": "Segera melerai.", "score": 2 },
-                { "key": "C", "text": "Membiarkan mereka menyelesaikan masalah pribadi.", "score": 1 },
-                { "key": "D", "text": "Melaporkan kejadian tersebut kepada pihak berwajib.", "score": 4 }
-            ],
-            "explanation": "KDRT sudah masuk ranah hukum, maka tindakan paling tepat adalah melapor ke pihak berwajib."
+          "key": "C",
+          "text": "Memanfaatkan media sosial untuk menyampaikan informasi kepada masyarakat luas.",
+          "score": 3
         },
         {
-            "id": 4,
-            "text": "Di kantormu ada persaingan antar staff divisi yang mengarah pada warna kulit, agama dan sejenisnya. Anda marah karena persaingan ini. Tindakan Anda?",
-            "options": [
-                { "key": "A", "text": "Menunjukkan kemarahan pada dua staff tersebut.", "score": 4 },
-                { "key": "B", "text": "Berusaha tenang saat bertemu staff tersebut.", "score": 2 },
-                { "key": "C", "text": "Mencoba diam.", "score": 1 },
-                { "key": "D", "text": "Tenang dan paham bahwa ini hanya kesalahpahaman.", "score": 3 }
-            ],
-            "explanation": "Menunjukkan kemarahan secara profesional dapat menjadi bentuk ketegasan atas pelanggaran etika."
-        },
-        {
-            "id": 5,
-            "text": "Anda diutus untuk mengadakan sosialisasi di desa terpencil, namun tetua di desa tersebut menolak. Anda mengenal seorang duta lingkungan yang dekat dengan tetua desa. Apa tindakan Anda?",
-            "options": [
-                { "key": "A", "text": "Menerima penolakan ini dan membicarakannya dengan atasan.", "score": 1 },
-                { "key": "B", "text": "Meminta duta tersebut untuk berbicara dengan tetua desa.", "score": 3 },
-                { "key": "C", "text": "Saya dan atasan datang untuk berbicara dengan tetua desa untuk menjelaskan maksud sosialisasi.", "score": 2 },
-                { "key": "D", "text": "Saya dan duta lingkungan berbicara dengan tetua desa untuk menjelaskan maksud sosialisasi.", "score": 4 }
-            ],
-            "explanation": "Pendekatan yang melibatkan tokoh yang dikenal dan Anda sendiri menunjukkan inisiatif dan hormat."
-        },
-        {
-            "id": 6,
-            "text": "Kamu menjadi ketua kerja bakti. Saat kerja bakti sedang berlangsung, atasan memberikan tugas mendesak. Bagaimana tanggapanmu?",
-            "options": [
-                { "key": "A", "text": "Meninggalkan kerja bakti dan bergegas pergi.", "score": 2 },
-                { "key": "B", "text": "Membatalkan kerja bakti karena bisa dilaksanakan besok.", "score": 1 },
-                { "key": "C", "text": "Tetap menjalankan kerja bakti dan menitip amanah pada yang lain. Jika tugas selesai, akan segera kembali.", "score": 4 },
-                { "key": "D", "text": "Mengikuti kerja bakti karena kamu seorang ketua dan menghiraukan pekerjaan lain.", "score": 3 }
-            ],
-            "explanation": "Menitip amanah dan kembali setelah menyelesaikan tugas mendesak adalah solusi yang bertanggung jawab dan kolaboratif."
-        },
-        {
-            "id": 7,
-            "text": "Saat perjalanan pulang Anda melewati pemakaman. Tanpa sengaja Anda melihat dua orang tidak dikenal seperti sedang membongkar kuburan. Apa tindakan Anda?",
-            "options": [
-                { "key": "A", "text": "Tidak menghiraukannya dan melanjutkan perjalanan.", "score": 1 },
-                { "key": "B", "text": "Menegurnya bahwa tindakan tersebut tidak baik.", "score": 4 },
-                { "key": "C", "text": "Berteriak lalu berlari pulang agar tindakan dua orang tersebut tidak jadi dilakukan.", "score": 2 },
-                { "key": "D", "text": "Mendukung tindakannya, mungkin mereka membutuhkan sesuatu di dalamnya.", "score": 0 }
-            ],
-            "explanation": "Menegur langsung lebih efektif dan berani, dibanding hanya lari atau diam, apalagi mendukung tindakan mencurigakan."
-        },
-        {
-            "id": 8,
-            "text": "Saya mendapatkan tugas di sebuah desa, akan tetapi saat di sana saya mendapatkan perlakuan diskriminasi karena perbedaan pilihan dalam politik. Bagaimana sebaiknya saya bertindak?",
-            "options": [
-                { "key": "A", "text": "Saya akan bertahan hingga tugas selesai dan berharap saya dipindah tugaskan.", "score": 3 },
-                { "key": "B", "text": "Saya akan menerima motivasi dan mengikuti ritme walau masyarakat melakukan diskriminasi.", "score": 4 },
-                { "key": "C", "text": "Saya segera mengajukan pindah.", "score": 2 },
-                { "key": "D", "text": "Saya mengundurkan diri.", "score": 1 }
-            ],
-            "explanation": "Bersikap profesional dan tetap bertugas sambil menjaga semangat dan adaptasi adalah pilihan terbaik."
-        },
-        {
-            "id": 9,
-            "text": "Anda seorang ketua karang taruna. Tetangga meminjam kursi karang taruna untuk keperluannya. Akan tetapi, saat dikembalikan, keadaan kursi menjadi lecet dan rusak. Apa tindakan Anda?",
-            "options": [
-                { "key": "A", "text": "Memakluminya sebab pihak tetangga.", "score": 1 },
-                { "key": "B", "text": "Melakukan konfirmasi apakah kursi tersebut milik karang taruna yang dipinjam agar dapat ditukar jika bukan.", "score": 4 },
-                { "key": "C", "text": "Meminta penjelasan karena Anda akan membuat laporan pertanggungjawaban.", "score": 3 },
-                { "key": "D", "text": "Membiarkan saja dan menerima kekurangan.", "score": 2 }
-            ],
-            "explanation": "Melakukan konfirmasi dan mencari solusi seperti penggantian jauh lebih bertanggung jawab."
-        },
-        {
-            "id": 10,
-            "text": "Menjelang pemilu Anda ditawari dukungan fasilitas oleh salah satu tokoh masyarakat agar layanan instansi Anda semakin lancar, namun dengan imbalan Anda diminta memihak dalam komunikasi publik. Apa tindakan Anda?",
-            "options": [
-                { "key": "A", "text": "Menolak secara tegas dan melapor kepada atasan.", "score": 4 },
-                { "key": "B", "text": "Menerima dukungan, tapi tidak menyetujui imbalan balik yang diminta.", "score": 2 },
-                { "key": "C", "text": "Mengkomunikasikan kepada pimpinan meminta panduan etika yang jelas.", "score": 3 },
-                { "key": "D", "text": "Menghindari pembicaraan lebih lanjut.", "score": 1 }
-            ],
-            "explanation": "Menolak secara tegas dan melapor adalah sikap yang patuh terhadap etika dan hukum."
+          "key": "D",
+          "text": "Meminta izin atasan membuat selebaran dan memanfaatkan media elektronik sebagai sarana informasi.",
+          "score": 4
         }
-    ]
+      ],
+      "explanation": "Jawaban D lebih tepat karena menyebutkan tindakan lanjut yang spesifik dan strategis. Media sosial termasuk media elektronik, dan selebaran memperluas jangkauan informasi."
+    },
+    {
+      "id": 2,
+      "text": "Kamu dan temanmu sudah janjian untuk menonton bioskop bersama. Saat hari H temanmu ada keperluan mendadak yang tidak dapat ditinggalkan. Ia memintamu memvideokan film bioskop agar tidak tertinggal alur cerita. Apakah boleh?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Merekam film tersebut permintaannya.",
+          "score": 1
+        },
+        {
+          "key": "B",
+          "text": "Tidak merekam dan mengambil gambar sebab takut ditegur petugas.",
+          "score": 2
+        },
+        {
+          "key": "C",
+          "text": "Menulis sinopsis untuk diceritakan kepadanya agar ia mengetahui alur cerita.",
+          "score": 4
+        },
+        {
+          "key": "D",
+          "text": "Mengajaknya menonton lain hari saja.",
+          "score": 3
+        }
+      ],
+      "explanation": "Menulis sinopsis adalah solusi yang tidak melanggar aturan hak cipta dan tetap membantu teman."
+    },
+    {
+      "id": 3,
+      "text": "Saat tengah malam Anda mendengar keributan dari luar. Ketika Anda periksa, tetangga Anda sedang berada di luar rumahnya dengan keadaan berdarah karena dipukul suaminya.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Melaporkan kejadian tersebut kepada PRT.",
+          "score": 3
+        },
+        {
+          "key": "B",
+          "text": "Segera melerai.",
+          "score": 2
+        },
+        {
+          "key": "C",
+          "text": "Membiarkan mereka menyelesaikan masalah pribadi.",
+          "score": 1
+        },
+        {
+          "key": "D",
+          "text": "Melaporkan kejadian tersebut kepada pihak berwajib.",
+          "score": 4
+        }
+      ],
+      "explanation": "Karena sudah terjadi KDRT, tindakan paling tepat adalah melapor ke pihak berwajib."
+    },
+    {
+      "id": 4,
+      "text": "Di kantormu ada persaingan antar staff divisi yang mengarah pada warna kulit, agama dan sejenisnya. Anda marah karena persaingan ini. Tindakan Anda?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menunjukkan kemarahan pada dua staff tersebut.",
+          "score": 4
+        },
+        {
+          "key": "B",
+          "text": "Berusaha tenang saat bertemu staff tersebut.",
+          "score": 2
+        },
+        {
+          "key": "C",
+          "text": "Mencoba diam.",
+          "score": 1
+        },
+        {
+          "key": "D",
+          "text": "Tenang dan paham bahwa ini hanya kesalahpahaman.",
+          "score": 3
+        }
+      ],
+      "explanation": "Menunjukkan kemarahan yang tepat artinya bersikap tegas pada pelanggaran nilai sosial kultural."
+    },
+    {
+      "id": 5,
+      "text": "Anda diutus untuk mengadakan sosialisasi di desa terpencil, akan tetapi tetua di desa tersebut menolak hal tersebut. Anda mengenal seorang duta lingkungan yang dekat dengan tetua desa. Nih, bagaimana tindakanmu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saya menerima penolakan ini dan membicarakannya dengan atasan.",
+          "score": 1
+        },
+        {
+          "key": "B",
+          "text": "Saya minta duta tersebut untuk berbicara dengan tetua desa.",
+          "score": 3
+        },
+        {
+          "key": "C",
+          "text": "Saya dan atasan datang untuk berbicara dengan tetua desa untuk menjelaskan maksud sosialisasi.",
+          "score": 2
+        },
+        {
+          "key": "D",
+          "text": "Saya dan duta lingkungan berbicara dengan ketua desa untuk menjelaskan maksud sosialisasi.",
+          "score": 4
+        }
+      ],
+      "explanation": "Melibatkan diri dan pihak yang dihormati tetua desa (duta lingkungan) menunjukkan penghargaan dan solusi konkret."
+    },
+   {
+      "id": 6,
+      "text": "Kamu menjadi ketua kerja bakti. Saat kerja bakti sedang berlangsung, atasan memberikan tugas mendesak. Bagaimana tanggapanmu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meninggalkan kerja bakti dan bergegas pergi.",
+          "score": 2
+        },
+        {
+          "key": "B",
+          "text": "Membatalkan kerja bakti karena bisa dilaksanakan besok.",
+          "score": 1
+        },
+        {
+          "key": "C",
+          "text": "Tetap menjalankan kerja bakti dan menitip amanah pada yang lain. Jika tugas selesai, akan segera kembali.",
+          "score": 4
+        },
+        {
+          "key": "D",
+          "text": "Mengikuti kerja bakti karena kamu seorang ketua dan menghiraukan pekerjaan lain.",
+          "score": 3
+        }
+      ],
+      "explanation": "Yang C ini ada kata menitip amanah dulu pada yang lain baru dia berjanji bahwa setelah selesai tugas dia akan kembali. Jadi lebih bagus yang C ini daripada yang A."
+    },
+    {
+      "id": 7,
+      "text": "Saat perjalanan pulang Anda melewati pemakaman. Tanpa sengaja Anda melihat dua orang tidak dikenal seperti sedang membongkar kuburan. Apa tindakan Anda?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tidak menghiraukannya dan melanjutkan perjalanan.",
+          "score": 1
+        },
+        {
+          "key": "B",
+          "text": "Menegurnya bahwa tindakan tersebut tidak baik.",
+          "score": 4
+        },
+        {
+          "key": "C",
+          "text": "Berteriak lalu berlari pulang agar tindakan dua orang tersebut tidak jadi dilakukan.",
+          "score": 2
+        },
+        {
+          "key": "D",
+          "text": "Mendukung tindakannya. Mungkin mereka membutuhkan sesuatu di dalamnya.",
+          "score": 0
+        }
+      ],
+      "explanation": "Menegur lebih sopan dan langsung. Kalau hanya berteriak dan lari belum tentu menghentikan tindakan tersebut."
+    },
+    {
+      "id": 8,
+      "text": "Saya mendapatkan tugas di sebuah desa, akan tetapi saat di sana saya mendapatkan perlakuan diskriminasi karena perbedaan pilihan dalam politik. Bagaimana sebaiknya saya bertindak?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saya akan bertahan hingga tugas selesai dan berharap saya dipindah tugaskan.",
+          "score": 3
+        },
+        {
+          "key": "B",
+          "text": "Saya akan menerima motivasi dan mengikuti ritme walau masyarakat melakukan diskriminasi.",
+          "score": 4
+        },
+        {
+          "key": "C",
+          "text": "Saya segera mengajukan pindah.",
+          "score": 2
+        },
+        {
+          "key": "D",
+          "text": "Saya mengundurkan diri.",
+          "score": 1
+        }
+      ],
+      "explanation": "Lebih tepat adalah menerima motivasi daripada berharap dipindah tugaskan. Bertahan dan tetap semangat."
+    },
+    {
+      "id": 9,
+      "text": "Anda seorang ketua karang taruna. Tetangga meminjam kursi karang taruna untuk keperluannya. Akan tetapi, saat dikembalikan, keadaan kursi menjadi lecet dan rusak. Apa tindakan Anda?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Memakluminya sebab pihak tetangga.",
+          "score": 1
+        },
+        {
+          "key": "B",
+          "text": "Melakukan konfirmasi apakah kursi tersebut milik karang taruna yang dipinjam agar dapat ditukar jika bukan.",
+          "score": 4
+        },
+        {
+          "key": "C",
+          "text": "Meminta penjelasan karena Anda akan membuat laporan pertanggungjawaban.",
+          "score": 3
+        },
+        {
+          "key": "D",
+          "text": "Membiarkan saja dan menerima kekurangan.",
+          "score": 2
+        }
+      ],
+      "explanation": "Yang B lebih tepat karena ada tindak lanjut untuk menyelesaikan masalah (ditukar)."
+    },
+    {
+      "id": 10,
+      "text": "Menjelang pemilu Anda ditawari dukungan fasilitas oleh salah satu tokoh masyarakat agar layanan instansi Anda semakin lancar, namun dengan imbalan Anda diminta memihak dalam komunikasi publik. Apa tindakan Anda?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Menolak secara tegas dan melapor kepada atasan.",
+          "score": 4
+        },
+        {
+          "key": "B",
+          "text": "Menerima dukungan, tapi tidak menyetujui imbalan balik yang diminta.",
+          "score": 2
+        },
+        {
+          "key": "C",
+          "text": "Mengkomunikasikan kepada pimpinan meminta panduan etika yang jelas.",
+          "score": 3
+        },
+        {
+          "key": "D",
+          "text": "Menghindari pembicaraan lebih lanjut.",
+          "score": 1
+        }
+      ],
+      "explanation": "Langsung tolak dan lapor adalah tindakan tegas dan sesuai etika. Yang lain tidak menyelesaikan secara jelas."
+    }
+  ]
 }
 
