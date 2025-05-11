@@ -5,191 +5,111 @@
       "id": 1,
       "text": "Andi sedang mengecat rumah dan tidak sengaja menjatuhkan cat hingga mengenai pagar rumah tetangga. Tetangga marah-marah padanya. Jika kamu adalah Andi, apa yang akan kamu lakukan?",
       "options": [
-        {
-          "key": "A",
-          "text": "Saya menjelaskan bahwa itu tindakan yang tidak disengaja",
-          "score": 2
-        },
-        {
-          "key": "B",
-          "text": "Saya minta maaf sambil mendengarkan ocehannya",
-          "score": 4
-        },
-        {
-          "key": "C",
-          "text": "Saya berjanji akan mengikuti segala keinginannya",
-          "score": 3
-        },
-        {
-          "key": "D",
-          "text": "Saya mencari solusi yang tepat dalam menyelesaikan masalah ini",
-          "score": 1
-        }
+        { "key": "A", "text": "Saya menjelaskan bahwa itu tindakan yang tidak disengaja", "score": 2 },
+        { "key": "B", "text": "Saya minta maaf sambil mendengarkan ocehannya", "score": 4 },
+        { "key": "C", "text": "Saya berjanji akan mengikuti segala keinginannya", "score": 3 },
+        { "key": "D", "text": "Saya mencari solusi yang tepat dalam menyelesaikan masalah ini", "score": 1 }
       ],
-      "explanation": "Etika yang baik adalah mengakui kesalahan dan mendengarkan, bukan membenarkan diri. Minta maaf lebih tepat karena langsung menyentuh perasaan pihak yang tersinggung."
+      "explanation": "Lebih tepat minta maaf karena menunjukkan tanggung jawab dan mendengarkan amarah orang lain daripada membela diri."
     },
     {
       "id": 2,
       "text": "Anda mengikuti lomba lari maraton tingkat kabupaten, namun karena macet Anda terlambat datang ke lokasi dan terkena diskualifikasi. Padahal Anda sudah menantikan perlombaan ini sejak lama. Bagaimana tanggapan Anda?",
       "options": [
-        {
-          "key": "A",
-          "text": "Meminta permakluman pada panitia sebab saya sudah menunggu perlombaan ini sejak lama",
-          "score": 2
-        },
-        {
-          "key": "B",
-          "text": "Meminta kesediaan panitia untuk mengulang lomba sekali lagi",
-          "score": 1
-        },
-        {
-          "key": "C",
-          "text": "Menerima konsekuensi didiskualifikasi karena keteledoran saya",
-          "score": 4
-        },
-        {
-          "key": "D",
-          "text": "Menonton pertandingan hingga selesai seraya menyesali nasib saya",
-          "score": 3
-        }
+        { "key": "A", "text": "Meminta permakluman pada panitia sebab saya sudah menunggu perlombaan ini sejak lama", "score": 2 },
+        { "key": "B", "text": "Meminta kesediaan panitia untuk mengulang lomba sekali lagi", "score": 1 },
+        { "key": "C", "text": "Menerima konsekuensi didiskualifikasi karena keteledoran saya", "score": 4 },
+        { "key": "D", "text": "Menonton pertandingan hingga selesai seraya menyesali nasib saya", "score": 3 }
       ],
-      "explanation": "Sikap terbaik adalah menerima konsekuensi sesuai aturan karena Anda terlambat. Meminta ulang lomba atau permakluman tidak realistis dan bukan solusi."
+      "explanation": "Jawaban yang tepat adalah menerima konsekuensi karena Anda terlambat dan aturan sudah berlaku untuk semua peserta."
     },
     {
       "id": 3,
-      "text": "Saat sedang menunggu bus Anda melihat seorang nenek ingin menyeberang jalan. Apa yang Anda lakukan?",
+      "text": "Saat sedang menunggu bus, Anda melihat seorang nenek ingin menyeberang jalan. Apa yang akan Anda lakukan?",
       "options": [
-        {
-          "key": "A",
-          "text": "Saya bertanya apakah ia butuh bantuan dan membantu menyeberang",
-          "score": 3
-        },
-        {
-          "key": "B",
-          "text": "Saya menunggu orang lain yang berkenan membantunya",
-          "score": 1
-        },
-        {
-          "key": "C",
-          "text": "Saya meminta orang yang lebih muda dan lebih berani untuk membantunya",
-          "score": 2
-        },
-        {
-          "key": "D",
-          "text": "Saya membantunya menyeberang jalan dengan selamat",
-          "score": 4
-        }
+        { "key": "A", "text": "Saya bertanya apakah ia butuh bantuan dan membantu menyeberang", "score": 3 },
+        { "key": "B", "text": "Saya menunggu orang lain yang berkenan membantunya", "score": 1 },
+        { "key": "C", "text": "Saya meminta orang yang lebih muda dan lebih berani untuk membantunya", "score": 2 },
+        { "key": "D", "text": "Saya membantunya menyeberang jalan dengan selamat", "score": 4 }
       ],
-      "explanation": "Langkah yang paling tepat adalah langsung membantu nenek menyeberang, tanpa menunggu atau menyuruh orang lain."
+      "explanation": "Lebih baik langsung membantu karena nenek kemungkinan besar membutuhkan bantuan tanpa harus ditanya."
     },
     {
       "id": 4,
-      "text": "Nadya melihat warga bergotong royong membersihkan sampah, namun membuangnya ke sungai. Apa yang harus dilakukan Nadya?",
+      "text": "Nadya melihat beberapa warga bergotong royong membersihkan sampah, namun mereka membuang semua sampah ke sungai di dekat desa. Jika Anda adalah Nadya, apa yang akan Anda lakukan?",
       "options": [
-        {
-          "key": "A",
-          "text": "Mencegah tindakan tersebut sebelum berakibat fatal",
-          "score": 2
-        },
-        {
-          "key": "B",
-          "text": "Menjelaskan dampak negatif membuang sampah di sungai",
-          "score": 3
-        },
-        {
-          "key": "C",
-          "text": "Mengajak warga membersihkan sungai dan membuang sampah pada tempatnya",
-          "score": 4
-        },
-        {
-          "key": "D",
-          "text": "Membiarkan tindakan tersebut",
-          "score": 1
-        }
+        { "key": "A", "text": "Mencegah tindakan tersebut sebelum berakibat fatal", "score": 2 },
+        { "key": "B", "text": "Menjelaskan dampak negatif membuang sampah di sungai", "score": 3 },
+        { "key": "C", "text": "Mengajak warga membersihkan sungai dan membuang sampah pada tempatnya", "score": 4 },
+        { "key": "D", "text": "Membiarkan tindakan tersebut", "score": 1 }
       ],
-      "explanation": "Karena sampah sudah terlanjur dibuang, langkah paling berdampak adalah mengajak warga membersihkannya dan memberikan solusi nyata."
+      "explanation": "Karena sampah sudah dibuang, solusi terbaik adalah mengajak warga membersihkannya dan membuang ke tempat semestinya."
     },
     {
       "id": 5,
-      "text": "Tim Anda diminta melakukan sosialisasi di desa. Salah satu rekan tidak bisa bahasa daerah setempat. Apa tindakan Anda?",
+      "text": "Tim Anda diminta melakukan sosialisasi di sebuah desa. Salah satu rekan Anda tidak bisa bahasa daerah setempat. Apa yang akan Anda lakukan?",
       "options": [
-        {
-          "key": "A",
-          "text": "Meminta seseorang sebagai penerjemah",
-          "score": 4
-        },
-        {
-          "key": "B",
-          "text": "Memintanya menggunakan Google Translate",
-          "score": 3
-        },
-        {
-          "key": "C",
-          "text": "Memintanya mengumpulkan warga saja tanpa memberikan sosialisasi",
-          "score": 2
-        },
-        {
-          "key": "D",
-          "text": "Meminta atasan untuk menggantikannya dengan karyawan lain",
-          "score": 1
-        }
+        { "key": "A", "text": "Meminta seseorang sebagai penerjemah", "score": 4 },
+        { "key": "B", "text": "Memintanya menggunakan Google Translate", "score": 3 },
+        { "key": "C", "text": "Memintanya mengumpulkan warga saja tanpa memberikan sosialisasi", "score": 2 },
+        { "key": "D", "text": "Meminta atasan untuk menggantikannya dengan karyawan lain", "score": 1 }
       ],
-      "explanation": "Solusi terbaik adalah mencari penerjemah agar rekan tetap bisa melaksanakan tugas sesuai fungsinya."
+      "explanation": "Solusi yang langsung mengatasi masalah adalah mencari penerjemah agar sosialisasi tetap berjalan efektif."
     },
-  {
+    {
       "id": 6,
-      "text": "Kamu sedang berkendara dan ada seseorang yang menyeberang jalan. Lampu sekitar jalan mati sehingga jalanan gelap. Apa yang kamu lakukan?",
+      "text": "Kamu sedang berkendara dan ada seseorang yang menyeberang jalan. Lampu sekitar jalan mati sehingga jalanan menjadi gelap. Apa yang kamu lakukan?",
       "options": [
         { "key": "A", "text": "Membiarkannya menyeberang dan saya tetap melanjutkan perjalanan", "score": 2 },
         { "key": "B", "text": "Menunggunya menyeberang dengan selamat kemudian melanjutkan perjalanan", "score": 4 },
         { "key": "C", "text": "Memintanya untuk menyeberang dengan cepat", "score": 3 },
         { "key": "D", "text": "Meneruskan perjalanan tanpa menghiraukannya", "score": 1 }
       ],
-      "explanation": "Karena kondisi gelap, sikap terbaik adalah menunggu orang tersebut menyeberang dengan aman sebelum melanjutkan perjalanan."
+      "explanation": "Tindakan paling etis dan aman adalah menunggu orang tersebut menyeberang di kondisi gelap."
     },
     {
       "id": 7,
-      "text": "Anda sedang melayani antrian panjang dan melihat seorang difabel ikut antri di belakang. Apa tindakan Anda?",
+      "text": "Anda sedang melayani antrian yang sangat panjang. Anda melihat seorang difabel ikut antri di belakang. Apa tindakan Anda?",
       "options": [
         { "key": "A", "text": "Saya memintanya ikut mengantri sesuai aturan yang berlaku", "score": 2 },
         { "key": "B", "text": "Saya meminta izin untuk mendahulukan difabel", "score": 3 },
         { "key": "C", "text": "Saya memintanya dilayani di tempat prioritas", "score": 4 },
         { "key": "D", "text": "Saya melihat orang lain yang sedang mengantri sebelum membuat keputusan", "score": 1 }
       ],
-      "explanation": "Difabel merupakan prioritas, jadi pilihan paling tepat adalah memintanya dilayani di tempat prioritas."
+      "explanation": "Difabel termasuk prioritas, dan jika ada tempat prioritas maka harus diarahkan ke sana."
     },
     {
       "id": 8,
-      "text": "Anda menemukan kucing tergeletak di depan rumah dalam kondisi mengkhawatirkan. Apa tindakan Anda?",
+      "text": "Anda menemukan kucing tergeletak di depan rumah dalam kondisi sangat mengkhawatirkan. Apa tindakan Anda?",
       "options": [
         { "key": "A", "text": "Saya menelepon dokter hewan", "score": 3 },
         { "key": "B", "text": "Saya membawanya ke dokter hewan", "score": 4 },
         { "key": "C", "text": "Saya meminta tetangga untuk membantunya sebab saya alergi", "score": 2 },
         { "key": "D", "text": "Saya mencari pemiliknya", "score": 1 }
       ],
-      "explanation": "Tindakan paling cepat dan berdampak adalah langsung membawanya ke dokter hewan, bukan menunggu atau mencari pemilik."
+      "explanation": "Langkah tercepat dan paling tepat adalah langsung membawa kucing ke dokter hewan."
     },
     {
       "id": 9,
-      "text": "Dalam perjalanan menuju tes PPPK, Anda melihat kerumunan orang karena kecelakaan. Anda hanya memiliki sedikit waktu. Apa yang Anda lakukan?",
+      "text": "Anda sedang dalam perjalanan untuk mengikuti seleksi PPPK 2024. Di pertengahan jalan, Anda melihat kerumunan orang karena kecelakaan, sedangkan waktu Anda tinggal sedikit. Apa yang akan Anda lakukan?",
       "options": [
         { "key": "A", "text": "Saya melihat korban kecelakaan kemudian melanjutkan perjalanan", "score": 2 },
         { "key": "B", "text": "Saya melanjutkan perjalanan untuk mengikuti seleksi PPPK", "score": 4 },
         { "key": "C", "text": "Saya berhenti sejenak untuk memastikan bahwa korban bukan keluarga saya", "score": 3 },
         { "key": "D", "text": "Saya menelepon ambulans untuk menolong korban", "score": 1 }
       ],
-      "explanation": "Karena sudah ada kerumunan yang membantu, fokus pada prioritas tes lebih tepat dilakukan."
+      "explanation": "Karena sudah ada kerumunan yang membantu, lebih baik fokus pada tanggung jawab utama yaitu mengikuti seleksi tepat waktu."
     },
     {
       "id": 10,
-      "text": "Anda sedang antri di supermarket sebagai orang kedua, lalu ojek online Anda datang. Apa yang Anda lakukan?",
+      "text": "Anda sedang antri di sebuah supermarket dan berada pada antrian kedua. Ojek online pesanan Anda mengabarkan bahwa ia telah sampai di depan supermarket. Apa yang akan Anda lakukan?",
       "options": [
         { "key": "A", "text": "Mengabarkan pada ojek online untuk menunggu sebentar", "score": 4 },
         { "key": "B", "text": "Meninggalkan antrian dan pulang", "score": 2 },
         { "key": "C", "text": "Membiarkan ojek online menunggu tanpa memberikan kabar", "score": 1 },
         { "key": "D", "text": "Meminta kasir mendahulukan saya", "score": 3 }
       ],
-      "explanation": "Mengabari ojek dan tetap menyelesaikan antrian adalah tindakan yang paling sopan dan efisien."
+      "explanation": "Tindakan yang sopan dan tetap menghargai hak orang lain adalah mengabari ojek agar menunggu sebentar."
     }
   ]
 }
