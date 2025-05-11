@@ -1,0 +1,86 @@
+{
+  "fileName": "soal_wawancara",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Andi sedang mengecat rumah, ia tidak sengaja menjatuhkan cat hingga mengenai pagar rumah tetangga. Jika kamu adalah Andi, apa yang akan kamu lakukan?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saya menjelaskan bahwa itu tindakan yang tidak disengaja",
+          "score": 2
+        },
+        {
+          "key": "B",
+          "text": "Saya minta maaf sambil mendengarkan ocehannya",
+          "score": 4
+        },
+        {
+          "key": "C",
+          "text": "Saya berjanji akan mengikuti segala keinginannya",
+          "score": 3
+        },
+        {
+          "key": "D",
+          "text": "Saya mencari solusi yang tepat dalam menyelesaikan masalah ini",
+          "score": 1
+        }
+      ],
+      "explanation": "Lebih tepat meminta maaf dan mendengarkan kemarahan tetangga sebagai bentuk tanggung jawab dan etika. Menjelaskan bisa terkesan membela diri."
+    },
+    {
+      "id": 2,
+      "text": "Anda mengikuti lomba lari maraton tingkat kabupaten, tetapi karena macet Anda terlambat dan terkena diskualifikasi. Bagaimana tanggapanmu?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Meminta permakluman pada panitia",
+          "score": 2
+        },
+        {
+          "key": "B",
+          "text": "Meminta kesediaan panitia untuk mengulang lomba",
+          "score": 1
+        },
+        {
+          "key": "C",
+          "text": "Menerima konsekuensi didiskualifikasi karena keteledoran saya",
+          "score": 4
+        },
+        {
+          "key": "D",
+          "text": "Menonton pertandingan hingga selesai seraya menyesali nasib saya",
+          "score": 3
+        }
+      ],
+      "explanation": "Menerima konsekuensi adalah bentuk tanggung jawab pribadi. Permakluman atau mengulang lomba tidak realistis."
+    },
+    {
+      "id": 3,
+      "text": "Saat sedang menunggu bus, Anda melihat seorang nenek ingin menyeberang jalan. Apa tanggapan Anda?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Saya bertanya apakah ia butuh bantuan dan membantu menyeberang",
+          "score": 3
+        },
+        {
+          "key": "B",
+          "text": "Saya menunggu orang lain yang berkenan membantunya",
+          "score": 1
+        },
+        {
+          "key": "C",
+          "text": "Saya meminta orang yang lebih muda dan lebih berani untuk membantunya",
+          "score": 2
+        },
+        {
+          "key": "D",
+          "text": "Saya membantunya menyeberang jalan dengan selamat",
+          "score": 4
+        }
+      ],
+      "explanation": "Langsung membantu adalah bentuk kepedulian dan inisiatif tanpa menunggu orang lain."
+    }
+  ]
+}
