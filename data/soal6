@@ -1,0 +1,170 @@
+{
+  "fileName": "manajerial_lilihernawati",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Kamu memiliki pekerjaan yang harus diselesaikan hari ini. Namun atasanmu memberikan pekerjaan baru dan harus segera diselesaikan. Apa yang akan kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Menolak karena sudah ada pekerjaan dan meminta rekan kerja lain untuk mengerjakan.", "score": 1 },
+        { "key": "B", "text": "Menerima pekerjaan dan menyelesaikan pekerjaan baru terlebih dahulu.", "score": 2 },
+        { "key": "C", "text": "Mengerjakan dua-duanya secara bersamaan agar keduanya selesai.", "score": 3 },
+        { "key": "D", "text": "Mengerjakan pekerjaan utama terlebih dahulu lalu melapor ke atasan dan menyelesaikan pekerjaan baru sesuai arahan.", "score": 4 }
+      ],
+      "explanation": "Jawaban D menunjukkan kemampuan manajemen waktu yang baik, tetap mengutamakan tugas utama dan menghormati tugas dari atasan. Mengomunikasikan progres tugas ke atasan juga menunjukkan profesionalisme dan tanggung jawab."
+    },
+    {
+      "id": 2,
+      "text": "Kamu adalah ketua tim. Anggota timmu memiliki semangat kerja yang rendah dan sering bekerja tidak sesuai target. Apa yang akan kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Melaporkan kepada atasan agar diberikan sanksi tegas.", "score": 1 },
+        { "key": "B", "text": "Menegur dengan keras dan memberi peringatan tertulis.", "score": 2 },
+        { "key": "C", "text": "Mengajak diskusi santai untuk mengetahui kendala dan mencari solusi bersama.", "score": 4 },
+        { "key": "D", "text": "Membiarkan karena bukan tanggung jawabmu secara langsung.", "score": 1 }
+      ],
+      "explanation": "Jawaban C mencerminkan kemampuan kepemimpinan yang komunikatif dan suportif. Mengetahui penyebab masalah secara langsung dari tim adalah cara efektif untuk meningkatkan kinerja dan menjaga hubungan baik dalam tim."
+    },
+    {
+      "id": 3,
+      "text": "Kamu mendapatkan tugas mendadak dari atasan, padahal kamu sedang mengerjakan pekerjaan lain yang juga penting dan punya tenggat waktu. Apa yang kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Menolak pekerjaan dari atasan karena sedang fokus pada pekerjaan sebelumnya.", "score": 1 },
+        { "key": "B", "text": "Menerima tugas atasan dan mengesampingkan pekerjaan lainnya.", "score": 2 },
+        { "key": "C", "text": "Mengerjakan tugas baru sambil terus memantau pekerjaan lama.", "score": 3 },
+        { "key": "D", "text": "Menjelaskan kondisi pekerjaan yang sedang kamu kerjakan, lalu berdiskusi dengan atasan mengenai prioritas dan solusi terbaik.", "score": 4 }
+      ],
+      "explanation": "Jawaban D menunjukkan keterampilan komunikasi, tanggung jawab, dan manajemen prioritas. Diskusi dengan atasan membantu agar pekerjaan tidak terbengkalai dan tetap sesuai arahan yang benar."
+    },
+    {
+      "id": 4,
+      "text": "Kamu sedang bekerja dengan rekan yang kurang disiplin. Rekanmu sering datang terlambat dan pulang lebih awal, sehingga pekerjaannya menumpuk dan berdampak pada tim. Apa yang kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Melaporkan langsung ke atasan agar ditindak.", "score": 2 },
+        { "key": "B", "text": "Menegurnya langsung secara kasar agar dia sadar.", "score": 1 },
+        { "key": "C", "text": "Membicarakan secara baik-baik dan memberi saran untuk memperbaiki kedisiplinan.", "score": 4 },
+        { "key": "D", "text": "Membiarkannya karena bukan tanggung jawab kamu.", "score": 1 }
+      ],
+      "explanation": "Jawaban C menunjukkan sikap profesional dan empatik. Memberikan masukan dengan cara yang baik dapat lebih efektif mengubah perilaku tanpa menciptakan konflik, dan tetap menjaga suasana kerja yang kondusif."
+    },
+    {
+      "id": 5,
+      "text": "Kamu sedang mengerjakan proyek tim dan mendapati hasil pekerjaan rekan tidak sesuai standar kualitas. Padahal tenggat waktu sudah dekat. Apa yang kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Langsung memperbaiki semua hasil pekerjaannya tanpa memberi tahu rekan tersebut.", "score": 2 },
+        { "key": "B", "text": "Melaporkan ke atasan agar rekan diberi teguran.", "score": 1 },
+        { "key": "C", "text": "Memberi masukan dan membantu memperbaiki hasil kerja agar proyek selesai tepat waktu.", "score": 4 },
+        { "key": "D", "text": "Membiarkan hasil tersebut karena waktu sudah mepet.", "score": 1 }
+      ],
+      "explanation": "Jawaban C menunjukkan kerjasama, rasa tanggung jawab, dan kepedulian terhadap kualitas pekerjaan. Memberi masukan sambil membantu menunjukkan bahwa kamu mementingkan hasil akhir dan tidak menyalahkan tim."
+    },
+    {
+      "id": 6,
+      "text": "Saat sedang menyusun laporan, kamu mendapati ada data dari unit lain yang tidak sinkron. Sementara deadline laporan sangat dekat. Apa yang akan kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Tetap pakai data tersebut karena waktu sudah sempit.", "score": 1 },
+        { "key": "B", "text": "Mengubah datanya agar sesuai dengan yang kamu butuhkan.", "score": 1 },
+        { "key": "C", "text": "Menghubungi unit terkait untuk konfirmasi dan mencari solusi secepatnya.", "score": 4 },
+        { "key": "D", "text": "Membiarkan bagian data tersebut kosong sementara laporan tetap dikirim.", "score": 2 }
+      ],
+      "explanation": "Jawaban C menunjukkan integritas dan kemampuan berkoordinasi. Mengonfirmasi ke unit lain adalah langkah profesional agar laporan tetap akurat dan bisa dipertanggungjawabkan."
+    },
+    {
+      "id": 7,
+      "text": "Tim kamu sedang mengerjakan proyek penting. Salah satu anggota tim sedang sakit dan tidak bisa menyelesaikan bagiannya, padahal waktu sudah mepet. Apa tindakan kamu?",
+      "options": [
+        { "key": "A", "text": "Menyelesaikan semua pekerjaan rekan tanpa memberitahu tim.", "score": 2 },
+        { "key": "B", "text": "Mengabaikan bagian yang belum selesai karena bukan tanggung jawabmu.", "score": 1 },
+        { "key": "C", "text": "Berdiskusi dengan tim untuk membagi ulang tugas agar proyek tetap selesai tepat waktu.", "score": 4 },
+        { "key": "D", "text": "Menunda penyelesaian proyek sampai rekan tersebut pulih.", "score": 1 }
+      ],
+      "explanation": "Jawaban C menunjukkan kerjasama tim dan fleksibilitas. Membagi ulang tugas secara terbuka adalah cara terbaik untuk menyelamatkan proyek tanpa menyalahkan siapa pun."
+    },
+    {
+      "id": 8,
+      "text": "Kamu dan rekan satu tim berbeda pendapat tentang cara menyelesaikan pekerjaan. Diskusi berlangsung cukup lama dan belum ada kesepakatan. Apa yang kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Bertahan dengan pendapat sendiri karena merasa paling benar.", "score": 1 },
+        { "key": "B", "text": "Mengalah meski tidak setuju agar pekerjaan cepat selesai.", "score": 2 },
+        { "key": "C", "text": "Mengajak tim mengevaluasi kembali dengan data atau referensi yang objektif.", "score": 4 },
+        { "key": "D", "text": "Keluar dari diskusi dan membiarkan yang lain memutuskan.", "score": 1 }
+      ],
+      "explanation": "Jawaban C adalah pilihan terbaik karena menunjukkan sikap terbuka, objektif, dan kolaboratif. Menggunakan data sebagai acuan membantu menemukan solusi netral yang bisa diterima semua pihak."
+    },
+ {
+      "id": 9,
+      "text": "Kamu ditunjuk menjadi koordinator kegiatan mendadak di kantor. Namun beberapa anggota tim tidak antusias dan terkesan ogah-ogahan. Apa sikap kamu?",
+      "options": [
+        { "key": "A", "text": "Memaksa mereka untuk menjalankan tugas masing-masing karena ini perintah pimpinan.", "score": 2 },
+        { "key": "B", "text": "Mengerjakan sebagian besar pekerjaan sendiri agar kegiatan tetap terlaksana.", "score": 3 },
+        { "key": "C", "text": "Mengajak tim berdiskusi untuk membagi tugas dan memotivasi mereka agar kegiatan berjalan lancar.", "score": 4 },
+        { "key": "D", "text": "Membiarkan mereka dan hanya fokus pada bagian kamu sendiri.", "score": 1 }
+      ],
+      "explanation": "Jawaban C menunjukkan kemampuan memimpin yang baik, dengan mengajak tim terlibat aktif dan memotivasi mereka. Koordinasi dan kerja tim yang baik akan membuat kegiatan lebih sukses daripada dikerjakan sendiri."
+    },
+    {
+      "id": 10,
+      "text": "Kamu memiliki rekan kerja yang suka menunda pekerjaan dan hal tersebut berdampak pada performa tim. Apa tindakan kamu?",
+      "options": [
+        { "key": "A", "text": "Menegur keras agar dia segera menyelesaikan tugasnya.", "score": 2 },
+        { "key": "B", "text": "Mengeluhkan ke rekan lain agar mereka sadar akan sikapnya.", "score": 1 },
+        { "key": "C", "text": "Mengajak bicara secara pribadi dan membantu menyusun jadwal kerja agar lebih teratur.", "score": 4 },
+        { "key": "D", "text": "Membiarkan saja karena tidak ingin ikut campur.", "score": 1 }
+      ],
+      "explanation": "Jawaban C mencerminkan empati, tanggung jawab, dan sikap proaktif. Mengajak bicara pribadi lebih efektif dan tidak mempermalukan, serta membantu rekan meningkatkan kedisiplinannya secara konkret."
+    },
+    {
+      "id": 11,
+      "text": "Di tempat kerja kamu menemukan bahwa prosedur yang dilakukan selama ini ternyata keliru dan bertentangan dengan aturan. Apa yang kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Melanjutkan saja karena sudah kebiasaan.", "score": 1 },
+        { "key": "B", "text": "Segera melaporkan ke pimpinan dan memberikan masukan perubahan sesuai aturan.", "score": 4 },
+        { "key": "C", "text": "Membicarakan dengan rekan yang lain dulu apakah sebaiknya dilaporkan.", "score": 2 },
+        { "key": "D", "text": "Menyampaikan di grup kantor agar semua tahu kesalahan tersebut.", "score": 3 }
+      ],
+      "explanation": "Jawaban B menunjukkan integritas dan kepatuhan pada aturan. Memberi solusi kepada pimpinan sambil tetap menghormati struktur organisasi adalah langkah yang profesional dan bertanggung jawab."
+    },
+    {
+      "id": 12,
+      "text": "Kamu diberi tugas memimpin rapat besar yang dihadiri oleh berbagai pihak. Namun, saat rapat dimulai, kamu gugup dan kesulitan menyampaikan materi. Apa yang akan kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Mengundurkan diri dari rapat dan meminta orang lain menggantikan.", "score": 1 },
+        { "key": "B", "text": "Berusaha tenang dan menggunakan catatan agar bisa menyampaikan dengan runtut.", "score": 4 },
+        { "key": "C", "text": "Membiarkan suasana rapat berjalan apa adanya.", "score": 1 },
+        { "key": "D", "text": "Meminta waktu istirahat agar bisa menenangkan diri.", "score": 2 }
+      ],
+      "explanation": "Jawaban B adalah pilihan terbaik karena menunjukkan usaha mengatasi kelemahan dengan cara yang konstruktif. Menggunakan catatan dan tetap berusaha tenang adalah sikap yang bertanggung jawab dalam situasi profesional."
+    },
+    {
+      "id": 13,
+      "text": "Kamu sedang mengerjakan proyek tim dan salah satu rekanmu mendapatkan pujian atas hasil kerja yang sebenarnya kamu yang menyelesaikannya. Apa respon kamu?",
+      "options": [
+        { "key": "A", "text": "Langsung membantah di depan umum dan mengklaim hasil kerja tersebut.", "score": 2 },
+        { "key": "B", "text": "Membiarkannya karena tidak ingin terjadi konflik.", "score": 3 },
+        { "key": "C", "text": "Membicarakan dengan rekan tersebut secara pribadi agar ia menyampaikan fakta yang benar.", "score": 4 },
+        { "key": "D", "text": "Melaporkan langsung ke atasan agar tidak salah paham.", "score": 1 }
+      ],
+      "explanation": "Jawaban C mencerminkan kedewasaan, pengendalian diri, dan kemampuan menyelesaikan masalah secara personal. Komunikasi langsung lebih efektif dan menjaga hubungan baik dalam tim."
+    },
+    {
+      "id": 14,
+      "text": "Kamu melihat dua rekan kerja berdebat cukup keras karena perbedaan pendapat saat diskusi tim. Apa yang kamu lakukan?",
+      "options": [
+        { "key": "A", "text": "Langsung memihak ke salah satu rekan yang menurutmu benar.", "score": 2 },
+        { "key": "B", "text": "Menengahi dengan mengajak keduanya untuk berdiskusi secara tenang dan mencari solusi bersama.", "score": 4 },
+        { "key": "C", "text": "Membiarkan mereka menyelesaikannya sendiri.", "score": 1 },
+        { "key": "D", "text": "Menyarankan untuk menyelesaikan di luar forum diskusi.", "score": 3 }
+      ],
+      "explanation": "Jawaban B adalah yang paling baik karena mencerminkan kemampuan manajerial untuk menjaga suasana kerja yang kondusif dan menyelesaikan konflik secara profesional."
+    },
+    {
+      "id": 15,
+      "text": "Kamu menjadi PIC dalam pelaksanaan kegiatan kantor. Namun saat pelaksanaan, muncul kendala teknis dan peserta mulai tidak sabar. Apa sikap kamu?",
+      "options": [
+        { "key": "A", "text": "Meminta maaf dan menjelaskan kendala sambil tetap mencari solusi.", "score": 4 },
+        { "key": "B", "text": "Diam saja dan berharap masalah selesai sendiri.", "score": 1 },
+        { "key": "C", "text": "Menghindar dari peserta dan menyerahkan ke panitia lain.", "score": 1 },
+        { "key": "D", "text": "Menunda acara tanpa penjelasan sampai masalah selesai.", "score": 2 }
+      ],
+      "explanation": "Jawaban A menunjukkan sikap tanggap, terbuka, dan komunikatif. Transparansi dalam menyampaikan kendala sekaligus mencari solusi adalah bentuk kepemimpinan yang dipercaya peserta."
+    }
+  ]
+}
