@@ -1,0 +1,171 @@
+{
+  "fileName": "Soal Manajerial PPPK - Pembahasan Lengkap Berdasarkan Transkrip",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Adi dan Dodi adalah rekan satu tim. Mereka memiliki pekerjaan dengan tenggat waktu hari ini. Dalam perjalanan ke kantor Adi kecelakaan ringan yang mengakibatkannya terkilir. Dodi tidak dapat mengerjakan pekerjaan sendiri. Tindakan yang tepat adalah…",
+      "options": [
+        { "key": "A", "text": "Dodi meminta rekan lain untuk menggantikan Adi", "score": 3 },
+        { "key": "B", "text": "Dodi melakukan tugas sendiri sebagai bentuk simpatinya", "score": 1 },
+        { "key": "C", "text": "Dodi meminta tenggat waktu diperpanjang sampai Adi sembuh", "score": 2 },
+        { "key": "D", "text": "Dodi meminta Adi mengerjakan tugas bersama-sama hingga selesai", "score": 4 }
+      ],
+      "explanation": "Dalam situasi ini, Adi meskipun terkilir masih bisa berkontribusi dengan pekerjaan ringan. Meminta rekan lain (opsi A) kurang efektif karena butuh waktu untuk memahami tugas. Dodi bekerja sendiri (opsi B) tidak mungkin karena soal menyatakan dia tidak bisa. Memperpanjang tenggat (opsi C) bertentangan dengan prinsip orientasi hasil. Kolaborasi (opsi D) adalah solusi terbaik - Adi bisa input data sementara Dodi handle presentasi, misalnya. Seperti dijelaskan Mbak Lili: 'Tugas tim harus selesai meski ada hambatan, carilah solusi kreatif'."
+    },
+    {
+      "id": 2,
+      "text": "Dina dan Danu bekerja pada perusahaan X. Mereka memiliki pekerjaan masing-masing. Suatu hari Dina tidak dapat mengerjakan pekerjaannya sendiri. Ia meminta bantuan Danu sebab Danu senior yang pernah menangani tugas serupa. Jika kamu adalah Danu maka…",
+      "options": [
+        { "key": "A", "text": "Saya memiliki pekerjaan sendiri yang belum selesai yang harus diutamakan", "score": 2 },
+        { "key": "B", "text": "Saya mengarahkan Dina hingga tugasnya selesai", "score": 4 },
+        { "key": "C", "text": "Saya membantu Dina hingga tugasnya selesai", "score": 3 },
+        { "key": "D", "text": "Saya meminta izin pada atasan sebelum membantu Dina", "score": 1 }
+      ],
+      "explanation": "Sebagai senior, Danu punya tanggung jawab membimbing junior. Mengarahkan (opsi B) lebih baik daripada mengerjakan tugas Dina (opsi C) karena membuat Dina belajar mandiri. Menolak membantu (opsi A) tidak mencerminkan kerja tim. Meminta izin atasan (opsi D) berlebihan untuk hal rutin. Dalam transkrip, Mbak Lili menekankan: 'Bimbing junior untuk tumbuh, jangan hanya menyelesaikan masalah mereka'."
+    },
+    {
+      "id": 3,
+      "text": "Anda diminta untuk menemani atasan mengikuti kegiatan perusahaan. Disaat yang bersamaan Anda memiliki pekerjaan rutin yang belum diselesaikan. Bagaimana pendapat Anda?",
+      "options": [
+        { "key": "A", "text": "Saya meminta atasan untuk mengutus rekan yang lain yang sedang tidak memiliki pekerjaan", "score": 2 },
+        { "key": "B", "text": "Saya meminta kebijakan atasan untuk mengalihkan tugas rutin saya kepada yang lain", "score": 4 },
+        { "key": "C", "text": "Saya meminta atasan menunggu hingga pekerjaan saya selesai", "score": 1 },
+        { "key": "D", "text": "Saya tetap menemani atasan sembari menyelesaikan tugas rutin", "score": 3 }
+      ],
+      "explanation": "Tugas dari atasan adalah prioritas. Mendelegasikan tugas rutin (opsi B) lebih profesional daripada menolak (opsi A/C). Mengerjakan keduanya sekaligus (opsi D) riskan karena bisa mengurangi kualitas kerja. Mbak Lili dalam transkrip memberi contoh: 'Jika atasan meminta tolong, usahakan tidak menolak. Cari cara untuk memenuhi kedua tanggung jawab'."
+    },
+    {
+      "id": 4,
+      "text": "Saya sudah menargetkan kampus favorit untuk melanjutkan study. Akan tetapi atasan meminta agar saya melanjutkan di kampus yang lebih dekat dengan perusahaan agar tetap bisa membantu pekerjaan di kantor.",
+      "options": [
+        { "key": "A", "text": "Saya orang yang berkomitmen terhadap pilihan saya sehingga saya tetap memilih kampus awal", "score": 2 },
+        { "key": "B", "text": "Saya berdiskusi dengan atasan agar ia memahami tujuan saya memilih kampus tersebut", "score": 3 },
+        { "key": "C", "text": "Saya mengikuti arahan atasan untuk memilih kampus yang lebih dekat meski tidak sesuai dengan target awal", "score": 4 },
+        { "key": "D", "text": "Saya meminta beasiswa dari perusahaan jika ingin saya mengikuti keinginan atasan", "score": 1 }
+      ],
+      "explanation": "Kebutuhan perusahaan harus diutamakan. Mengikuti arahan atasan (opsi C) menunjukkan loyalitas. Diskusi (opsi B) boleh dilakukan asalkan akhirnya menerima keputusan atasan. Memaksa kehendak (opsi A) atau meminta kompensasi (opsi D) tidak profesional. Seperti diingatkan Mbak Lili: 'Sebagai ASN, kepentingan organisasi di atas kepentingan pribadi'."
+    },
+    {
+      "id": 5,
+      "text": "Rekan kerja memintamu untuk membantunya menyelesaikan pekerjaan tim dengan tenggat waktu hari ini. Akan tetapi kamu juga memiliki pekerjaan pribadi yang belum selesai. Tindakammu adalah…",
+      "options": [
+        { "key": "A", "text": "Membantu menyelesaikan pekerjaan tim", "score": 4 },
+        { "key": "B", "text": "Menyelesaikan pekerjaan pribadi terlebih dulu", "score": 1 },
+        { "key": "C", "text": "Menyelesaikan kedua pekerjaan tersebut bersamaan", "score": 2 },
+        { "key": "D", "text": "Menyelesaikan pekerjaan tim jika rekan saya juga membantu menyelesaikan pekerjaan pribadi saya", "score": 3 }
+      ],
+      "explanation": "Pekerjaan tim dengan tenggat ketat adalah prioritas. Membantu tim (opsi A) lebih penting daripada pekerjaan individual (opsi B). Mengerjakan keduanya (opsi C) bisa mengurangi kualitas. Memberi syarat (opsi D) tidak mencerminkan semangat kerjasama. Dalam transkrip, Mbak Lili menegaskan: 'Dalam tim, keberhasilan kolektif lebih penting dari pencapaian individu'."
+    },
+    {
+      "id": 6,
+      "text": "Kamu bekerja dalam sebuah tim. Salah satu anggota tim lambat dalam menyelesaikan pekerjaannya. Tidak jarang ia salah meski sudah diarahkan. Sikap yang tepat adalah…",
+      "options": [
+        { "key": "A", "text": "Memintanya untuk mengundurkan diri sebab hal ini sudah terjadi berulang kali", "score": 1 },
+        { "key": "B", "text": "Melaporkan pada atasan terkait kinerja setiap anggota tim", "score": 3 },
+        { "key": "C", "text": "Memberikan arahan lagi tanpa bosan", "score": 2 },
+        { "key": "D", "text": "Membantu pekerjaannya agar selesai dengan baik dan tepat", "score": 4 }
+      ],
+      "explanation": "Dalam tim yang solid, anggota harus saling membantu. Langsung membantu (opsi D) lebih efektif daripada hanya mengarahkan (opsi C) yang sudah terbukti gagal. Meminta mundur (opsi A) terlalu ekstrim. Melapor ke atasan (opsi B) baik tapi tidak langsung menyelesaikan masalah. Mbak Lili memberi contoh: 'Jika ada anggota yang lambat, bantu saja. Nanti dia akan belajar dari contoh baikmu'."
+    },
+    {
+      "id": 7,
+      "text": "Ani bekerjasama dengan Ana. Ani melihat pekerjaan Ana belum tepat. Akan tetapi untuk menghargai Ana, Ani tidak memberikan teguran dan membiarkannya menyelesaikan hingga akhir. Atasan menyalahkan keduanya atas kesalahan pekerjaan Ana. Sebaiknya Ani…",
+      "options": [
+        { "key": "A", "text": "Menjelaskan bahwa itu adalah kesalahan Ana", "score": 1 },
+        { "key": "B", "text": "Menceritakan yang sebenarnya dan berharap atasan tidak menyalahkannya lagi", "score": 2 },
+        { "key": "C", "text": "Melakukan perbaikan bersama-sama", "score": 4 },
+        { "key": "D", "text": "Menyesal karena tidak memberikan teguran pada Ana lebih awal", "score": 3 }
+      ],
+      "explanation": "Kesalahan dalam tim adalah tanggung jawab bersama. Memperbaiki bersama (opsi C) lebih baik daripada menyalahkan (opsi A/B). Penyesalan (opsi D) tidak menyelesaikan masalah. Seperti dijelaskan Mbak Lili: 'Jika kamu melihat kesalahan rekan, tegur dengan baik. Diam berarti ikut bertanggung jawab atas kesalahan itu'."
+    },
+    {
+      "id": 8,
+      "text": "Anda bekerja dalam sebuah tim. Anda kurang setuju terhadap salah satu rencana yang sudah disepakati oleh tim sebab menurut Anda banyak kekurangan dibandingkan kelebihannya. Anda sudah mengungkapkan pendapat namun tidak disetujui oleh forum. Tindakan yang tepat adalah…",
+      "options": [
+        { "key": "A", "text": "Saya menjalankan kesepakatan forum", "score": 4 },
+        { "key": "B", "text": "Saya memberikan arahan terkait rencana yang kurang relevan", "score": 2 },
+        { "key": "C", "text": "Saya memberikan pandangan saya meski tidak ada yang menyetujuinya", "score": 1 },
+        { "key": "D", "text": "Saya meminta bergabung dengan tim yang saling menghargai pendapat", "score": 3 }
+      ],
+      "explanation": "Setelah menyampaikan pendapat, keputusan tim harus dihormati. Menjalankan kesepakatan (opsi A) menunjukkan kedewasaan. Memaksakan pendapat (opsi B/C) atau 'kabur' (opsi D) tidak profesional. Mbak Lili menekankan: 'Dalam tim, sekali keputusan sudah dibuat, semua anggota harus mendukung sepenuhnya'."
+    },
+    {
+      "id": 9,
+      "text": "Anda adalah penanggung jawab acara perpisahan akhir tahun perusahaan. Saat semua pekerjaan belum selesai tiba-tiba pasangan menelpon Anda mengabarkan anak Anda satu-satunya dilarikan ke rumah sakit. Anda tentu sangat khawatir dengan keadaan anak yang sedang sakit. Sikap Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Segera izin meninggalkan acara", "score": 1 },
+        { "key": "B", "text": "Melimpahkan tanggung jawab pada sekertaris acara", "score": 3 },
+        { "key": "C", "text": "Mengikuti acara hingga selesai untuk memustikan semuanya berjalan dengan sempurna", "score": 2 },
+        { "key": "D", "text": "Menyelesaikan semua pekerjaan sebelum izin melihat anak", "score": 4 }
+      ],
+      "explanation": "Sebagai penanggung jawab, tugas harus diselesaikan dulu (opsi D). Melimpahkan ke sekretaris (opsi B) bisa dilakukan jika benar-benar mendesak. Meninggalkan acara (opsi A) atau mengabaikan keluarga (opsi C) sama-sama tidak ideal. Mbak Lili mencontohkan: 'Selesaikan kewajiban utama, baru urus keperluan pribadi. Tapi jangan sampai tidak manusiawi'."
+    },
+    {
+      "id": 10,
+      "text": "Anda sedang mengejar target akhir tahun, tiba-tiba salah satu anggota tim Anda mengalami kecelakaan yang membuatnya tidak dapat menjalankan tugasnya sebagaimana mestinya. Bagaimana pendapat Anda?",
+      "options": [
+        { "key": "A", "text": "Memintanya untuk bergabung mengerjakan tugas", "score": 1 },
+        { "key": "B", "text": "Mengajak tim untuk menjenguknya di rumah sakit", "score": 2 },
+        { "key": "C", "text": "Mengerjakan tugasnya sampai ia dapat mengerjakan tugasnya sendiri", "score": 3 },
+        { "key": "D", "text": "Membagi tugasnya untuk dikerjakan bersama tim", "score": 4 }
+      ],
+      "explanation": "Target harus tetap dicapai. Membagi tugas ke seluruh tim (opsi D) lebih baik daripada membebani satu orang (opsi C). Memaksa yang sakit bekerja (opsi A) tidak manusiawi. Hanya menjenguk (opsi B) tidak menyelesaikan masalah kerja. Seperti diingatkan Mbak Lili: 'Dalam tim, beban kerja harus didistribusikan secara adil ketika ada masalah'."
+    },
+    {
+      "id": 11,
+      "text": "Anda anggota tim marketing. Hari ini ketua tim memberikan keputusan hanya 2 orang yang akan pergi ke luar kota untuk melakukan beberapa pekerjaan. Kota tujuan mereka adalah kota impian Anda akan tetapi Anda tidak termasuk dalam 2 orang terpilih yang akan pergi. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya mengikhlaskan mereka untuk pergi berdua", "score": 2 },
+        { "key": "B", "text": "Saya menawarkan diri untuk menggantikan rekan saya", "score": 1 },
+        { "key": "C", "text": "Saya fokus untuk mengerjakan pekerjaan yang diberikan", "score": 4 },
+        { "key": "D", "text": "Saya merasa bisa berlibur ke kota tersebut lain kali", "score": 3 }
+      ],
+      "explanation": "Keputusan ketua tim harus dihormati. Fokus pada tugas yang diberikan (opsi C) menunjukkan profesionalisme. Menawarkan diri menggantikan rekan (opsi B) tidak etis. Mengikhlaskan (opsi A) atau berencana liburan (opsi D) kurang mencerminkan semangat kerja. Mbak Lili menegaskan: 'Jangan baper dengan keputusan tim. Fokuslah pada kontribusi Anda di bidang lain'."
+    },
+    {
+      "id": 12,
+      "text": "Tanpa sengaja kamu melihat rincian proposal rekammu. Menurutmu proposal tersebut terlalu sederhana dan kemungkinan tidak akan diterima oleh mitra kerja. Kamu memiliki hubungan yang kurang baik dengan rekan kerjamu tersebut sehingga kamu merasa enegan untuk memberikannya.",
+      "options": [
+        { "key": "A", "text": "Saya meminta rekan yang lain untuk memberikan padanya", "score": 3 },
+        { "key": "B", "text": "Saya membiarkannya mengajukan proposal tersebut mungkin bisa diterima oleh mitra kerja", "score": 1 },
+        { "key": "C", "text": "Saya menyampaikan proposal yang lebih baik pada mitra kerja", "score": 2 },
+        { "key": "D", "text": "Saya menyampaikan padanya untuk memperbaiki proposalnya", "score": 4 }
+      ],
+      "explanation": "Integritas harus diutamakan. Langsung memberi masukan (opsi D) lebih baik daripada melalui perantara (opsi A). Membiarkan kesalahan (opsi B) atau mengambil alih (opsi C) tidak profesional. Seperti dicontohkan Mbak Lili: 'Kritik yang membangun adalah bentuk kepedulian pada kualitas kerja tim, meski hubungan pribadi kurang baik'."
+    },
+    {
+      "id": 13,
+      "text": "Anda bekerja sebagai seorang kasir di sebuah warung makan. Salah satu pelanggan menghampiri Anda. Ia mengaku teman dekat dari pemilik warung. Ia berharap bisa diberikan harga diskon. Akan tetapi bos sudah menuliskan aturan bahwa semua pelanggan diberikan harga yang sama. Tindakamu adalah…",
+      "options": [
+        { "key": "A", "text": "Saya mencoba menghubungi atasan dan menyampaikan permintaan tersebut", "score": 2 },
+        { "key": "B", "text": "Saya menjelaskan aturan yang sudah berlaku di warung makan", "score": 4 },
+        { "key": "C", "text": "Saya memberikan diskon sebab ia teman dari pemilik warung", "score": 1 },
+        { "key": "D", "text": "Saya melayaninya dengan special sebagai dispensasi dari harga diskon", "score": 3 }
+      ],
+      "explanation": "Aturan harus ditegakkan secara konsisten. Menjelaskan kebijakan (opsi B) lebih baik daripada melanggar aturan (opsi C/D). Meminta konfirmasi atasan (opsi A) berlebihan untuk hal yang sudah jelas. Mbak Lili menekankan: 'Konsistensi dalam menerapkan aturan adalah bentuk integritas. Jangan diskriminatif'."
+    },
+    {
+      "id": 14,
+      "text": "Anda ditunjuk sebagai ketua tim untuk menangani sebuah proyek. Salah satu anggota tim tidak percaya pada Anda dan menduga Anda tidak akan bisa menangani proyek ini dengan baik. Ia tetap mengikuti arahan Anda namun ia selalu meremehkan kinerja Anda. Bagaimana tanggapanmu?",
+      "options": [
+        { "key": "A", "text": "Saya tidak menghiraukan tanggapannya asalkan ia tetap bekerja dengan baik", "score": 2 },
+        { "key": "B", "text": "Saya memintanya untuk mempercayai saya sebagai ketua tim sebuah itu dapat meningkatkan kinerja kami kedepan", "score": 4 },
+        { "key": "C", "text": "Saya memintanya untuk menggantikan saya menjadi ketua tim", "score": 1 },
+        { "key": "D", "text": "Saya berusaha agar anggota lainnya tetap mempercayai saya agar kinerja kami terjadi dengan baik", "score": 3 }
+      ],
+      "explanation": "Sebagai pemimpin, bangun kepercayaan secara langsung (opsi B). Mengabaikan (opsi A) atau menyerahkan posisi (opsi C) tidak menyelesaikan masalah. Fokus ke anggota lain (opsi D) menghindari akar masalah. Seperti dijelaskan Mbak Lili: 'Hadapi skeptisisme dengan kinerja nyata dan komunikasi terbuka'."
+    },
+    {
+      "id": 15,
+      "text": "Saya diberikan tugas baru dari perusahaan. Padahal tugas saya yang lama masih banyak. Selain itu karyawan lain mendapatkan pekerjaan yang lebih sedikit dan tidak mendapat tambahan pekerjaan. Saya akan…",
+      "options": [
+        { "key": "A", "text": "Menerima tugas tersebut dan mengerjakannya", "score": 4 },
+        { "key": "B", "text": "Menerima tugas tersebut dan menyerahkan pada rekan yang tidak ada pekerjaan", "score": 2 },
+        { "key": "C", "text": "Menolak tugas tersebut agar saya bisa mengerjakan tugas lama dengan maksimal", "score": 1 },
+        { "key": "D", "text": "Menolak tugas tersebut dan menyarankan atasan menyerahkannya pada karyawan lain yang tidak memiliki pekerjaan", "score": 3 }
+      ],
+      "explanation": "Tugas tambahan adalah bukti kepercayaan atasan. Menerima dan mengerjakan (opsi A) menunjukkan komitmen. Menolak (opsi C/D) atau mengalihkan (opsi B) tidak profesional. Mbak Lili mencontohkan: 'Terima tantangan baru sebagai kesempatan berkembang. Jika benar-benar kewalahan, sampaikan dengan sopan setelah mencoba'."
+    }
+  ],
+  "catatan": "Semua pembahasan mengacu ketat pada: (1) Penjelasan Mbak Lili dalam transkrip bimbel, (2) Nilai-nilai kompetensi manajerial dalam PDF materi, dan (3) Prinsip ASN yang diujikan dalam seleksi PPPK."
+}
