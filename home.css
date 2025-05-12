@@ -94,3 +94,18 @@ textarea {
   font-size: 16px;
   resize: vertical;
 }
+.bank-soal-container {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.soal-list-scroll {
+  max-height: 300px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
