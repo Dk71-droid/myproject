@@ -146,3 +146,56 @@ function uploadFile(event) {
     reader.readAsText(file);
   }
 }
+// Menampilkan soal dari localStorage dan memungkinkan rename
+function showSavedQuestions() {
+  const container = document.getElementById("bank-soal-container");
+  const section = document.createElement("div");
+  section.innerHTML = "<h3>Soal Lokal (LocalStorage)</h3>";
+
+  if (savedQuestions.length === 0) {
+    section.innerHTML += "<p>Tidak ada soal tersimpan.</p>";
+    container.appendChild(section);
+    return;
+  }
+
+  savedQuestions.forEach((item, index) => {
+    const wrapper = document.createElement("div");
+    wrapper.style.marginBottom = "10px";
+
+    const input = document.createElement("input");
+    input.type = "text";
+    input.value = item.fileName;
+    input.id = `rename-${index}`;
+    input.style.marginRight = "10px";
+
+    const renameBtn = document.createElement("button");
+    renameBtn.textContent = "Rename";
+    renameBtn.onclick = () => {
+      const newName = document.getElementById(`rename-${index}`).value.trim();
+      if (newName && !savedQuestions.some(q => q.fileName === newName)) {
+        savedQuestions[index].fileName = newName;
+        localStorage.setItem("savedQuestions", JSON.stringify(savedQuestions));
+        alert("Nama file berhasil diubah.");
+        showSavedQuestions(); // Refresh tampilan
+      } else {
+        alert("Nama tidak valid atau sudah dipakai.");
+      }
+    };
+
+    const openBtn = document.createElement("button");
+    openBtn.textContent = "Buka";
+    openBtn.style.marginLeft = "10px";
+    openBtn.onclick = () => {
+      localStorage.setItem("selectedFile", JSON.stringify({ questions: savedQuestions[index].questions }));
+      window.location.href = "tryout.html";
+    };
+
+    wrapper.appendChild(input);
+    wrapper.appendChild(renameBtn);
+    wrapper.appendChild(openBtn);
+    section.appendChild(wrapper);
+  });
+
+  container.appendChild(section);
+}
+
