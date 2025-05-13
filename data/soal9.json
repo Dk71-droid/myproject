@@ -1,0 +1,667 @@
+{
+  "fileName": "Soal Sosio Kultural PPPK - Pembahasan Naratif Lengkap",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Anda berteman dengan beberapa anak berkebutuhan khusus. Anda banyak bermain dengan mereka. Saat pembagian rapor, ternyata nilai Anda turun drastis dibandingkan sebelum mengenal mereka. Tindakan Anda agar nilai Anda tinggi kembali adalah…",
+      "options": [
+        { "key": "A", "text": "Saya berhenti berteman dengan mereka sebab mereka memberikan dampak yang buruk", "score": 1 },
+        { "key": "B", "text": "Saya membatasi pertemanan dengan mereka agar dapat belajar dengan baik", "score": 2 },
+        { "key": "C", "text": "Saya tidak menyalahkan mereka atas hasil yang saya peroleh sebab itu bukan kesalahan mereka", "score": 3 },
+        { "key": "D", "text": "Saya meningkatkan jadwal belajar dibandingkan jadwal bermain", "score": 4 }
+      ],
+      "explanation": "Jawaban D adalah yang paling tepat karena menunjukkan solusi yang konkret dan tidak menyalahkan orang lain. Jawaban C hanya menyatakan pendapat, tapi tidak menjawab tindakan selanjutnya."
+    },
+    {
+      "id": 2,
+      "text": "Anda baru saja mendapatkan penghargaan atlet lari maraton terbaik tingkat nasional. Saat pulang, Anda menerima banyak hadiah dan kartu ucapan dari orang yang dikenal maupun tidak dikenal. Sebagai orang yang waspada terhadap barang yang belum diketahui pemiliknya, maka tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya memastikan setiap barang dan hadiah ditujukan untuk saya sebelum memutuskan membuka atau tidak", "score": 3 },
+        { "key": "B", "text": "Saya tidak membuka semua hadiah kecuali dari orang yang saya kenal", "score": 2 },
+        { "key": "C", "text": "Saya menerima semua hadiah tersebut dan menggunakan yang bermanfaat", "score": 4 },
+        { "key": "D", "text": "Saya meminta orang tua untuk membuka hadiah dari orang tak dikenal", "score": 1 }
+      ],
+      "explanation": "Jawaban C paling tepat karena semua hadiah sudah jelas ditujukan untuk Anda. Tidak perlu curiga berlebihan. Pilihan A masih ragu dan kurang efisien."
+    },
+    {
+      "id": 3,
+      "text": "Anda baru saja pindah dari desa ke kota dan mulai berbaur dengan teman-teman baru. Suatu hari, saat mengerjakan tugas di kafe, Anda melihat seseorang memeluk kekasihnya tanpa rasa malu. Di desa, hal tersebut dianggap tabu. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya membiarkan mereka melakukan hal tersebut dengan memalingkan pandangan", "score": 4 },
+        { "key": "B", "text": "Saya memberikan teguran agar mereka selamat dari gosip miring", "score": 2 },
+        { "key": "C", "text": "Saya memberikan kode agar mereka tidak melakukannya di tempat umum", "score": 3 },
+        { "key": "D", "text": "Saya menasihati mereka bahwa itu tidak baik untuk dilakukan di tempat kami", "score": 1 }
+      ],
+      "explanation": "Jawaban A adalah yang paling tepat karena menghormati norma yang berbeda dan tidak ikut campur urusan pribadi di lingkungan baru."
+    },
+    {
+      "id": 4,
+      "text": "Nana diundang menjadi pembicara dalam seminar nasional. Saat sesi tanya jawab, seorang peserta mencemooh dan mengkritik tanpa bertanya. Jika Anda adalah Nana, maka…",
+      "options": [
+        { "key": "A", "text": "Saya jawab kritikannya dengan kritikan juga agar ia sadar bahwa yang dilakukan tidak tepat", "score": 3 },
+        { "key": "B", "text": "Saya membiarkannya memberikan kritikan dan cemoohan agar perasaannya lega", "score": 1 },
+        { "key": "C", "text": "Saya tidak dapat memaksa siapa saja untuk menyukai saya", "score": 2 },
+        { "key": "D", "text": "Saya menjawab cemoohan dan kritikannya dengan kalimat yang baik tanpa terbawa emosi", "score": 4 }
+      ],
+      "explanation": "Jawaban D paling tepat karena menunjukkan kedewasaan emosional dalam menghadapi situasi yang tidak menyenangkan di depan umum."
+    },
+    {
+      "id": 5,
+      "text": "Anda membawa seorang balita bernama Syam ke taman bermain. Syam ingin berkenalan dengan seorang anak lain yang sedang menangis karena tidak suka permainannya. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya meminta Syam untuk berkenalan dengan anak yang lain saja", "score": 2 },
+        { "key": "B", "text": "Saya menyapa anak tersebut dan mengajarkan Syam untuk menyapanya", "score": 4 },
+        { "key": "C", "text": "Saya menanyakan masalah yang membuat anak itu menangis", "score": 1 },
+        { "key": "D", "text": "Saya meminta Syam untuk bersabar menunggu anak itu berhenti menangis", "score": 3 }
+      ],
+      "explanation": "Jawaban B adalah yang paling tepat karena Anda turut membantu membangun interaksi positif dan empati."
+    },
+    {
+      "id": 6,
+      "text": "Anda sedang berkunjung ke tempat makan dan ingin memesan makanan, namun pelayan sedang melayani pelanggan lain. Tindakan yang tepat adalah…",
+      "options": [
+        { "key": "A", "text": "Menunggu giliran untuk mendapatkan pelayanan", "score": 4 },
+        { "key": "B", "text": "Meminta karyawan lain untuk melayani saya agar cepat", "score": 2 },
+        { "key": "C", "text": "Memanggil karyawan lain yang sedang memasak", "score": 1 },
+        { "key": "D", "text": "Meminta pemilik tempat makan untuk menambah barisan antrian", "score": 3 }
+      ],
+      "explanation": "Jawaban A paling tepat karena menunjukkan kesabaran dan kesadaran akan antrian pelayanan publik."
+    },
+    {
+      "id": 7,
+      "text": "Elsya adalah murid baru yang sering pindah sekolah karena ayahnya pindah tugas. Kini ia harus beradaptasi lagi. Jika kamu adalah Elsya, maka…",
+      "options": [
+        { "key": "A", "text": "Saya meminta ayah agar berhenti pindah tempat kerja", "score": 1 },
+        { "key": "B", "text": "Saya bisa mendapatkan teman di manapun saya bersekolah", "score": 2 },
+        { "key": "C", "text": "Saya beradaptasi dengan lingkungan dan teman baru", "score": 3 },
+        { "key": "D", "text": "Saya belajar memahami adat mereka agar diterima dengan baik", "score": 4 }
+      ],
+      "explanation": "Jawaban D paling tepat karena menunjukkan upaya aktif memahami dan menghargai keberagaman."
+    },
+    {
+      "id": 8,
+      "text": "Anda mendengar berita perseteruan antara si X dan si Y. Namun Z tampak membela X, tetapi juga terlihat akrab dengan Y. Tanggapan Anda terhadap Z adalah…",
+      "options": [
+        { "key": "A", "text": "Z adalah orang yang mudah berbaur dengan siapa saja", "score": 3 },
+        { "key": "B", "text": "Z tidak ikut serta dalam masalah X dan Y", "score": 2 },
+        { "key": "C", "text": "Z adalah dalang di balik perseteruan ini", "score": 1 },
+        { "key": "D", "text": "Z berteman dengan X dan Y tanpa terlibat perseteruan mereka", "score": 4 }
+      ],
+      "explanation": "Jawaban D paling tepat karena tidak berprasangka buruk dan tetap berpikir objektif terhadap Z."
+    },
+    {
+      "id": 9,
+      "text": "Ahmad terpilih lomba rubik tingkat nasional dan rajin berlatih. Namun beberapa hari sebelum lomba, pelatih menggantinya dengan orang lain. Sebagai temannya, tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Membesarkan hatinya agar ia tidak sedih lagi", "score": 3 },
+        { "key": "B", "text": "Meminta pelatih untuk tetap mengikutsertakan Ahmad", "score": 4 },
+        { "key": "C", "text": "Meminta Ahmad untuk menemui penggantinya untuk mengadu kekuatan", "score": 1 },
+        { "key": "D", "text": "Meminta Ahmad menyarankan pelatih bersikap adil", "score": 2 }
+      ],
+      "explanation": "Jawaban B paling tepat karena menunjukkan empati sekaligus upaya advokasi terhadap ketidakadilan."
+    },
+    {
+      "id": 10,
+      "text": "Anda memiliki pekerjaan utama pagi hingga sore, dan kerja tambahan di malam hari. Hari ini Anda sangat kelelahan. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Minta izin untuk tidak masuk kerja malam sebab hasilnya tidak maksimal", "score": 3 },
+        { "key": "B", "text": "Minta karyawan lain untuk bertukar pekerjaan dengan saya kali ini", "score": 2 },
+        { "key": "C", "text": "Tetap masuk dan bekerja seperti biasa sebab ini sudah menjadi pilihan saya", "score": 4 },
+        { "key": "D", "text": "Mengundurkan diri dari salah satu pekerjaan agar bisa menjaga kesehatan", "score": 1 }
+      ],
+      "explanation": "Jawaban C adalah yang paling tepat karena menunjukkan komitmen dan tanggung jawab terhadap pekerjaan yang telah dipilih."
+    },
+    {
+      "id": 11,
+      "text": "Anda melihat tetangga membuang sampah sembarangan. Ia terkenal tidak ramah pada siapapun. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya menegurnya sebab perbuatannya tidak terpuji", "score": 4 },
+        { "key": "B", "text": "Saya memberitahukan perbuatannya pada RT", "score": 3 },
+        { "key": "C", "text": "Saya membiarkannya sebab ini pertama kalinya", "score": 1 },
+        { "key": "D", "text": "Saya membelikannya tempat sampah agar ia sadar atas kesalahannya", "score": 2 }
+      ],
+      "explanation": "Jawaban A adalah yang paling tepat karena menunjukkan keberanian untuk menegur langsung perbuatan tidak baik yang dilakukan dengan sengaja. Meski tetangga tersebut tidak ramah, sikap empati dan tanggung jawab terhadap lingkungan tetap diutamakan. Opsi B hanya menyerahkan masalah ke pihak lain tanpa berusaha dulu menyelesaikannya. Opsi C menunjukkan sikap permisif terhadap tindakan buruk. Sedangkan D tampak baik, tapi terlalu jauh karena belum tentu akar masalahnya adalah tidak adanya tempat sampah."
+    },
+    {
+      "id": 12,
+      "text": "Saat jalan pagi Anda bertemu warga baru yang hanya tersenyum tanpa menyapa. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya bertanya tentangnya pada RT terlebih dahulu sebelum menyapanya", "score": 2 },
+        { "key": "B", "text": "Saya bertanya namanya jika ia menyapa lebih dulu", "score": 3 },
+        { "key": "C", "text": "Saya menyapanya agar mengenalnya", "score": 4 },
+        { "key": "D", "text": "Saya bukan tipe orang yang ramah pada orang baru", "score": 1 }
+      ],
+      "explanation": "Jawaban C adalah yang paling tepat karena menunjukkan sikap terbuka dan proaktif dalam membangun hubungan sosial. Menyapa terlebih dahulu adalah hal sederhana namun penting dalam menciptakan suasana ramah di lingkungan. A terlalu pasif dan menunjukkan sikap curiga. B juga menunggu orang lain bertindak lebih dulu. D jelas menunjukkan sikap tertutup yang bertentangan dengan nilai sosial kultural."
+    },
+    {
+      "id": 13,
+      "text": "Dalam perjalanan menuju kantor, Anda bertemu kakek yang kelelahan berjualan keliling. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya memberikan bantuan kemanusiaan berupa sedekah", "score": 3 },
+        { "key": "B", "text": "Saya membeli barang jualannya", "score": 4 },
+        { "key": "C", "text": "Saya membantunya berjualan agar ia tidak merasa lelah", "score": 2 },
+        { "key": "D", "text": "Saya meminta pengikut saya untuk membantunya", "score": 1 }
+      ],
+      "explanation": "Jawaban B paling tepat karena tetap menghormati kakek sebagai pedagang, bukan mengasihani. Ini menunjukkan empati sekaligus pemberdayaan. A memang niatnya baik, tapi kurang tepat karena bisa merendahkan martabat kakek. C tampaknya baik, tapi tidak realistis karena Anda sedang dalam perjalanan kerja. D terlalu mengada-ada dan tidak jelas siapa 'pengikut' yang dimaksud."
+    },
+    {
+      "id": 14,
+      "text": "Hari Minggu, Anda dan keluarga sedang bersih-bersih rumah. Seorang rekan kerja datang untuk meminta saran proyek. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Memintanya menunggu saya menyelesaikan pekerjaan terlebih dahulu sebelum membantunya", "score": 4 },
+        { "key": "B", "text": "Saya menerima kedatangannya dan menunda tugas saya", "score": 3 },
+        { "key": "C", "text": "Menyerahkan tugas saya pada saudara saya dan membantu rekan kerja", "score": 2 },
+        { "key": "D", "text": "Saya mengutamakan pekerjaan kantor dibandingkan kepentingan pribadi", "score": 1 }
+      ],
+      "explanation": "Jawaban A adalah yang paling tepat karena menunjukkan manajemen waktu dan tanggung jawab terhadap keluarga. Hari Minggu adalah waktu pribadi, dan menyelesaikan urusan rumah tangga sebelum membantu orang lain adalah pilihan bijak. B terlihat baik, namun menunda pekerjaan rumah bukan solusi jangka panjang. C tidak tepat karena melempar tanggung jawab ke saudara. D terlalu ekstrem dan mengorbankan keseimbangan hidup."
+    },
+    {
+      "id": 15,
+      "text": "Anda baru saja ikut kerja bakti di RT 02, lalu RT tempat Anda tinggal juga mengadakan kerja bakti. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya istirahat saja sebab sudah mengikuti kerja bakti di RT 02", "score": 1 },
+        { "key": "B", "text": "Saya mengikuti kerja bakti pada pekerjaan yang lebih ringan", "score": 3 },
+        { "key": "C", "text": "Saya merasa tidak lelah mengikuti kerja bakti", "score": 2 },
+        { "key": "D", "text": "Saya berpartisipasi pada kerja bakti meski saya lelah", "score": 4 }
+      ],
+      "explanation": "Jawaban D paling tepat karena menunjukkan semangat gotong royong dan empati pada lingkungan sendiri. Meskipun lelah, tetap berpartisipasi adalah nilai positif. B baik namun menunjukkan batasan kontribusi. C hanya pernyataan, tidak ada tindakan konkret. A jelas tidak mendukung kerja sama di lingkungan sendiri."
+    },
+    {
+      "id": 16,
+      "text": "Anda melihat rekan kerja memplagiat rencana proyek yang Anda buat dan mempresentasikannya lebih dulu. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya biarkan saja sebab plagiatnya sedikit", "score": 1 },
+        { "key": "B", "text": "Saya mengatakan bahwa saya yang mempunyai ide tersebut", "score": 2 },
+        { "key": "C", "text": "Saya memberikan bukti bahwa saya yang merancang ide tersebut", "score": 4 },
+        { "key": "D", "text": "Saya menerima hal tersebut sebab ide bisa saja sama", "score": 3 }
+      ],
+      "explanation": "Jawaban C paling tepat karena menyelesaikan masalah dengan bukti konkret, bukan sekadar klaim. B kurang kuat karena tanpa bukti, bisa dianggap subjektif. A dan D terlalu permisif dan tidak menunjukkan sikap tegas terhadap pelanggaran integritas."
+    },
+    {
+      "id": 17,
+      "text": "Anda ditugaskan menjadi koordinator acara kerja bakti. Saat kegiatan berlangsung, ada warga berteriak rumahnya kemalingan. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya ikut mengejar maling sebab itu hal yang lebih penting", "score": 2 },
+        { "key": "B", "text": "Saya memastikan kegiatan kerja bakti tetap berjalan sesuai rencana", "score": 4 },
+        { "key": "C", "text": "Saya ikut berteriak meminta pertolongan seluruh warga", "score": 3 },
+        { "key": "D", "text": "Saya mengejar maling sambil memantau kegiatan kerja", "score": 1 }
+      ],
+      "explanation": "Jawaban B paling tepat karena menunjukkan sikap profesional dalam menjalankan tanggung jawab sebagai koordinator. A dan D menunjukkan reaksi spontan tapi mengabaikan peran utama. C lebih baik dari A, tapi tetap bukan tanggung jawab langsung Anda."
+    },
+    {
+      "id": 18,
+      "text": "Dalam perjalanan menuju kantor Anda terkena macet dan hujan. Anda sudah menyarankan sopir untuk lewat jalur alternatif, tapi dia tidak mengikuti. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Memahami kondisi tersebut dan beristirahat di mobil", "score": 4 },
+        { "key": "B", "text": "Memahami kondisi tersebut dan tidak memarahi sopir", "score": 3 },
+        { "key": "C", "text": "Berlari saja meski terkena hujan", "score": 1 },
+        { "key": "D", "text": "Menghubungi atasan bahwa saya akan terlambat", "score": 2 }
+      ],
+      "explanation": "Jawaban A paling tepat karena menunjukkan kedewasaan emosi, menerima situasi tanpa menyalahkan, dan tetap tenang. B cukup baik tapi masih menyiratkan bahwa Anda sempat kesal. C impulsif dan kurang rasional. D terlalu cepat mengambil kesimpulan bahwa Anda akan terlambat."
+    },
+    {
+      "id": 19,
+      "text": "Anda bersahabat dengan Anto yang berbeda suku dan budaya. Tanggapan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya berhenti bersahabat dengannya", "score": 1 },
+        { "key": "B", "text": "Kami menjadikan perbedaan untuk mempererat persahabatan", "score": 4 },
+        { "key": "C", "text": "Saya bersepakat untuk beberapa hal agar tidak berseteru", "score": 3 },
+        { "key": "D", "text": "Kami tidak saling menghadiri acara budaya yang berbeda", "score": 2 }
+      ],
+      "explanation": "Jawaban B adalah pilihan terbaik karena mencerminkan penerimaan penuh terhadap keberagaman. A sangat diskriminatif. C seolah menyiratkan bahwa perbedaan harus dihindari. D membatasi hubungan karena budaya, dan itu bertentangan dengan nilai toleransi."
+    },
+    {
+      "id": 20,
+      "text": "Anda adalah ketua karang taruna dan sudah berjanji menyerahkan laporan hari Senin. Namun laporan belum selesai karena acara keluarga. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Menyerahkan laporan seadanya pada hari Senin", "score": 4 },
+        { "key": "B", "text": "Meminta waktu tambahan agar laporan maksimal", "score": 3 },
+        { "key": "C", "text": "Meminta bantuan adik untuk menyelesaikannya", "score": 2 },
+        { "key": "D", "text": "Menghindari pembicaraan terkait laporan", "score": 1 }
+      ],
+      "explanation": "Jawaban A adalah yang paling tepat karena menunjukkan komitmen dan tanggung jawab pada janji. Meskipun belum maksimal, Anda tetap menepati tenggat waktu. B baik, namun menunjukkan pengunduran tanpa usaha menyelesaikan. C menunjukkan ketidaksiapan dan tidak profesional. D adalah bentuk penghindaran tanggung jawab."
+    },
+    {
+      "id": 21,
+      "text": "Salah satu anggota tim Anda berasal dari suku minoritas dan sering diperlakukan tidak adil oleh rekan kerja. Sebagai atasan, tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya akan memantau lebih jauh tindakan mereka", "score": 2 },
+        { "key": "B", "text": "Saya melaporkan tindakan mereka pada atasan kami", "score": 3 },
+        { "key": "C", "text": "Saya menegur mereka agar menghargai rekan kerja yang berbeda suku", "score": 4 },
+        { "key": "D", "text": "Saya menemui mereka untuk berbicara secara pribadi", "score": 1 }
+      ],
+      "explanation": "Jawaban C paling tepat karena menunjukkan ketegasan sebagai atasan dalam menangani diskriminasi. Anda memberi tindakan langsung yang bisa menghentikan sikap tidak adil. A terlalu pasif, B terlalu cepat naik level tanpa upaya dari Anda sendiri, dan D tidak jelas maksudnya apakah hanya berbicara atau menegur."
+    },
+    {
+      "id": 22,
+      "text": "Anda adalah ketua RT dan baru pulang kerja. Seorang warga mengundang Anda hadir dalam acara keluarga karena ada tamu dari luar kota. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Menyetujui permintaannya meski saya lelah", "score": 4 },
+        { "key": "B", "text": "Memintanya memanggil RW saja", "score": 2 },
+        { "key": "C", "text": "Meminta waktu istirahat dulu sebelum ke sana", "score": 3 },
+        { "key": "D", "text": "Meminta pengertiannya agar saya tidak perlu hadir", "score": 1 }
+      ],
+      "explanation": "Jawaban A paling tepat karena menunjukkan sikap tanggung jawab terhadap peran sebagai ketua RT, meskipun lelah. Ini adalah bentuk empati dan pelayanan masyarakat. B menyerahkan tanggung jawab, C bisa baik tapi kurang solutif, D cenderung menghindar dari kewajiban sosial."
+    },
+    {
+      "id": 23,
+      "text": "Anda tinggal bersama seorang kakek. Suatu hari, saudara Anda datang dan ingin pulang larut malam, tapi dilarang oleh kakek. Ia membantah keras. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya menegur kakek", "score": 2 },
+        { "key": "B", "text": "Saya menegur saudara", "score": 3 },
+        { "key": "C", "text": "Saya mengingatkan mereka agar tidak mengganggu tetangga", "score": 4 },
+        { "key": "D", "text": "Saya diam saja karena itu urusan keluarga", "score": 1 }
+      ],
+      "explanation": "Jawaban C paling tepat karena Anda mengambil sikap adil dan fokus pada dampak sosial dari konflik tersebut. A terlalu menyalahkan satu pihak, B juga kurang bijak karena masalahnya dua arah, dan D jelas menunjukkan sikap pasif yang tidak bertanggung jawab."
+    },
+    {
+      "id": 24,
+      "text": "Anda ditugaskan menjadi MC dalam acara penting. Namun tiba-tiba ada konflik kecil antar warga. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya membiarkan karena bukan tugas saya", "score": 1 },
+        { "key": "B", "text": "Saya menenangkan mereka lalu kembali ke tugas saya", "score": 4 },
+        { "key": "C", "text": "Saya menyerahkan urusan itu pada panitia keamanan", "score": 3 },
+        { "key": "D", "text": "Saya menghentikan acara dan fokus menyelesaikan konflik", "score": 2 }
+      ],
+      "explanation": "Jawaban B paling tepat karena Anda berinisiatif menjaga ketertiban tanpa meninggalkan peran utama sebagai MC. C masih bisa diterima tapi kurang menunjukkan empati langsung. D terlalu reaktif, dan A jelas tidak peduli pada keadaan."
+    },
+    {
+      "id": 25,
+      "text": "Anda menjadi fasilitator diskusi kelompok. Seorang anggota selalu mendominasi dan memotong pembicaraan orang lain. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Membiarkan karena ia paling aktif", "score": 1 },
+        { "key": "B", "text": "Menegur dengan cara halus agar menghargai pendapat lain", "score": 4 },
+        { "key": "C", "text": "Meminta kelompok untuk memilih pemimpin baru", "score": 2 },
+        { "key": "D", "text": "Membatasi waktu bicara untuk tiap anggota", "score": 3 }
+      ],
+      "explanation": "Jawaban B paling tepat karena menunjukkan empati, komunikasi efektif, dan ketegasan dalam menjaga dinamika kelompok. A mengabaikan keadilan, C terlalu drastis, D cukup baik tapi belum menyelesaikan sikap pribadi anggota."
+    },
+    {
+      "id": 26,
+      "text": "Di lingkungan tempat tinggal Anda, ada perayaan budaya minoritas. Sebagian warga enggan hadir. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Mengajak warga hadir sebagai bentuk penghargaan keberagaman", "score": 4 },
+        { "key": "B", "text": "Saya ikut hadir diam-diam agar tidak dicap aneh", "score": 2 },
+        { "key": "C", "text": "Membiarkan saja karena itu hak tiap orang", "score": 1 },
+        { "key": "D", "text": "Menyarankan agar perayaan dipindah agar tidak mengganggu", "score": 3 }
+      ],
+      "explanation": "Jawaban A paling tepat karena menunjukkan inisiatif menjaga harmoni dan empati terhadap kelompok minoritas. B terlalu takut dan tidak mendorong perubahan. C pasif dan D berpotensi diskriminatif."
+    },
+    {
+      "id": 27,
+      "text": "Dalam rapat RT, seseorang menyampaikan pendapat dengan nada tinggi. Tanggapan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya menenangkannya dan meminta menyampaikan dengan baik", "score": 4 },
+        { "key": "B", "text": "Saya membalas dengan nada tinggi juga", "score": 1 },
+        { "key": "C", "text": "Saya memilih diam agar tidak terlibat", "score": 2 },
+        { "key": "D", "text": "Saya menyarankan ia menyampaikan tertulis saja", "score": 3 }
+      ],
+      "explanation": "Jawaban A paling tepat karena mengendalikan situasi dengan tenang dan bijak. B memperkeruh suasana. C pasif dan tidak menyelesaikan masalah. D bisa diterima tapi tidak langsung menyelesaikan konflik secara sosial."
+    },
+    {
+      "id": 28,
+      "text": "Anda melihat anak tetangga sering bermain sendiri dan jarang diajak oleh anak-anak lain. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Menyarankan anak saya untuk mengajaknya bermain", "score": 4 },
+        { "key": "B", "text": "Membiarkannya karena bukan urusan saya", "score": 1 },
+        { "key": "C", "text": "Menanyakan pada orang tuanya kenapa anaknya dikucilkan", "score": 2 },
+        { "key": "D", "text": "Membuat kegiatan bersama agar semua anak bisa bermain", "score": 3 }
+      ],
+      "explanation": "Jawaban A paling tepat karena langsung membangun relasi inklusif melalui anak sendiri. D cukup baik namun memerlukan waktu dan dukungan lebih luas. C terlalu frontal dan berpotensi menyinggung. B tidak menunjukkan empati."
+    },
+    {
+      "id": 29,
+      "text": "Saat kerja kelompok, salah satu anggota tidak aktif karena merasa kurang percaya diri. Sikap Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Memintanya mundur agar tidak memperlambat", "score": 1 },
+        { "key": "B", "text": "Menyemangatinya dan memberi peran sesuai kemampuannya", "score": 4 },
+        { "key": "C", "text": "Mengambil semua tugas agar kerjaan cepat selesai", "score": 2 },
+        { "key": "D", "text": "Menyuruhnya melihat dulu lalu ikut di akhir", "score": 3 }
+      ],
+      "explanation": "Jawaban B adalah yang paling tepat karena memberi dukungan dan peran yang sesuai untuk membangkitkan kepercayaan dirinya. A bersifat diskriminatif. C membuat anggota tidak berkembang. D terlalu pasif dan bisa membuatnya tetap minder."
+    },
+    {
+      "id": 30,
+      "text": "Di lingkungan kerja Anda, ada perbedaan pendapat yang memanas. Anda diminta menjadi penengah. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Mendengarkan kedua belah pihak dengan adil dan memberi saran", "score": 4 },
+        { "key": "B", "text": "Menyarankan salah satu pihak untuk mengalah", "score": 2 },
+        { "key": "C", "text": "Saya netral dan tidak mau ikut campur", "score": 1 },
+        { "key": "D", "text": "Langsung meminta atasan menyelesaikan konflik", "score": 3 }
+      ],
+      "explanation": "Jawaban A paling tepat karena mencerminkan sikap objektif dan mampu menyelesaikan masalah secara langsung. B bisa menyelesaikan konflik tapi tidak adil. C pasif dan kurang bertanggung jawab. D terlalu cepat menyerahkan pada pihak lain padahal Anda bisa berperan aktif."
+    }
+  ]
+}
+{
+  "fileName": "Soal Sosiokultural PPPK - Pembahasan Lengkap",
+  "questions": [
+    {
+      "id": 31,
+      "text": "Di sebuah sekolah, seorang murid baru bersama Rina sering kali mengalami kesulitan berkomunikasi dengan teman-temannya karena bahasa ibunya berbeda. Anda adalah guru kelas tersebut. Apa yang akan Anda lakukan untuk membantu Rina beradaptasi?",
+      "options": [
+        { "key": "A", "text": "Meminta Rina untuk berbicara lebih sering di kelas agar terbiasa", "score": 2 },
+        { "key": "B", "text": "Mengatur kelompok belajar yang mencakup Rina dan murid-murid lain untuk mendukungnya", "score": 4 },
+        { "key": "C", "text": "Mengabaikan masalah dan fokus pada kurikulum", "score": 1 },
+        { "key": "D", "text": "Menyediakan bahan ajar dalam bahasa ibu Rina untuk memudahkan pemahaman", "score": 3 }
+      ],
+      "explanation": "Jawaban: B. Mengatur kelompok belajar yang mencakup Rina dan murid lain menunjukkan dukungan dan empati aktif. A. (2 poin) Meminta Rina untuk berbicara lebih sering bisa membantu, tetapi bisa membuatnya merasa tertekan. C. (1 poin) Mengabaikan masalah tidak membantu Rina beradaptasi dan menunjukkan kurangnya perhatian. D. (3 poin) Menyediakan bahan ajar dalam bahasa ibu Rina membantu dalam pemahaman, tetapi kurang melibatkan interaksi sosial."
+    },
+    {
+      "id": 32,
+      "text": "Di lingkungan tempat tinggal Anda, ada dua kelompok masyarakat yang memiliki pandangan berbeda mengenai cara terbaik untuk mengelola taman bersama. Ketegangan di antara mereka semakin meningkat. Apa yang akan Anda lakukan untuk membantu menjaga persatuan?",
+      "options": [
+        { "key": "A", "text": "Meminta kedua kelompok untuk menyelesaikan masalah sendiri", "score": 1 },
+        { "key": "B", "text": "Mengadakan pertemuan komunitas untuk membahas masalah dan mencari solusi bersama", "score": 4 },
+        { "key": "C", "text": "Mendukung salah satu kelompok yang menurut Anda benar", "score": 3 },
+        { "key": "D", "text": "Menghindari keterlibatan dalam masalah tersebut", "score": 2 }
+      ],
+      "explanation": "Jawaban: B. Pertemuan komunitas membantu menciptakan dialog dan mencari solusi yang bisa diterima bersama. C. Mendukung satu kelompok bisa memperburuk ketegangan. D. Menghindari keterlibatan tidak menyelesaikan masalah dan bisa membuat situasi semakin buruk. Cara Cepat: Identifikasi kata kunci 'dua kelompok masyarakat', 'pandangan berbeda', dan pilih pendekatan yang mendorong dialog."
+    },
+    {
+      "id": 33,
+      "text": "Anda bekerja di sebuah tim proyek yang anggotanya berasal dari berbagai departemen. Terjadi ketidaksepakatan mengenai cara terbaik untuk menyelesaikan tugas tertentu. Bagaimana Anda akan menangani situasi ini untuk memastikan proyek berjalan lancar?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan perbedaan dan tetap menjalankan rencana Anda sendiri", "score": 1 },
+        { "key": "B", "text": "Mengadakan diskusi kelompok untuk mencari solusi yang disepakati bersama", "score": 4 },
+        { "key": "C", "text": "Memihak pada anggota tim yang Anda anggap paling kompeten", "score": 2 },
+        { "key": "D", "text": "Meminta manajer untuk membuat keputusan", "score": 3 }
+      ],
+      "explanation": "Jawaban: B. Diskusi kelompok memungkinkan setiap anggota untuk berbagi pendapat dan menemukan solusi yang dapat diterima bersama. A. Mengabaikan pendapat orang lain tidak membantu mencapai kesepakatan. C. Memihak pada satu orang bisa memicu ketidakpuasan anggota lain. D. Meminta keputusan dari manajer tidak mengembangkan kemampuan tim menyelesaikan konflik secara mandiri."
+    },
+    {
+      "id": 34,
+      "text": "Di lingkungan tempat tinggal Anda, ada seorang tetangga baru dari negara lain yang tampak kesulitan beradaptasi dengan budaya setempat. Anda sering melihatnya sendirian. Apa tindakan terbaik yang dapat Anda lakukan?",
+      "options": [
+        { "key": "A", "text": "Memberi mereka waktu untuk beradaptasi sendiri", "score": 1 },
+        { "key": "B", "text": "Mengundang mereka ke acara komunitas dan mengenalkan mereka kepada orang lain", "score": 3 },
+        { "key": "C", "text": "Menyediakan informasi tertulis tentang budaya setempat", "score": 2 },
+        { "key": "D", "text": "Mengatur acara kecil di rumah Anda dan mengundang beberapa tetangga serta mereka", "score": 4 }
+      ],
+      "explanation": "Jawaban: D. Mengatur acara kecil menunjukkan usaha personal dan empati dalam membantu mereka merasa diterima. A. Memberi waktu menunjukkan kurangnya intervensi aktif. B. Mengundang ke acara komunitas kurang personal. C. Informasi tertulis membantu tetapi kurang interaksi langsung."
+    },
+    {
+      "id": 35,
+      "text": "Anda adalah ketua tim proyek yang terdiri dari anggota dengan latar belakang yang beragam. Ada ketegangan mengenai pembagian tugas yang dirasa tidak adil. Bagaimana Anda menangani situasi ini?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan keluhan dan tetap pada rencana awal", "score": 1 },
+        { "key": "B", "text": "Mengadakan diskusi terbuka untuk mendengar keluhan dan mencari solusi bersama", "score": 4 },
+        { "key": "C", "text": "Memutuskan sendiri perubahan tanpa mendengarkan anggota tim", "score": 3 },
+        { "key": "D", "text": "Menyuruh anggota yang tidak puas untuk beradaptasi atau keluar dari tim", "score": 2 }
+      ],
+      "explanation": "Jawaban: B. Diskusi terbuka membantu menciptakan rasa keadilan dan mempromosikan persatuan dalam tim. A. Mengabaikan keluhan bisa meningkatkan ketegangan. C. Memutuskan sendiri bisa dianggap otoriter. D. Menyuruh anggota keluar merusak moral tim."
+    },
+    {
+      "id": 36,
+      "text": "Anda baru bergabung dengan tim yang sudah terbentuk lama di perusahaan teknologi. Banyak hal yang perlu dipelajari tentang dinamika tim. Bagaimana Anda akan mendekati situasi ini?",
+      "options": [
+        { "key": "A", "text": "Tetap diam dan mengikuti alur yang sudah ada", "score": 3 },
+        { "key": "B", "text": "Aktif bertanya dan mencari informasi tentang dinamika tim", "score": 4 },
+        { "key": "C", "text": "Mengusulkan perubahan segera untuk menunjukkan inisiatif", "score": 2 },
+        { "key": "D", "text": "Menunggu sampai seseorang meminta bantuan Anda", "score": 1 }
+      ],
+      "explanation": "Jawaban: B. Aktif bertanya menunjukkan keinginan untuk memahami tim dan berintegrasi dengan baik. A. Tetap diam bisa membuat Anda tampak pasif. C. Mengusulkan perubahan tanpa memahami dinamika bisa dianggap agresif. D. Menunggu membuat Anda tampak tidak proaktif."
+    },
+    {
+      "id": 37,
+      "text": "Di tempat kerja, seorang rekan kerja sering mengabaikan pendapat Anda dalam rapat. Apa yang akan Anda lakukan untuk memastikan pendapat Anda didengar?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan situasi dan berharap akan berubah", "score": 1 },
+        { "key": "B", "text": "Berbicara dengan rekan kerja secara pribadi dan menyampaikan perasaan Anda", "score": 4 },
+        { "key": "C", "text": "Membicarakannya dengan manajer dan meminta intervensi", "score": 3 },
+        { "key": "D", "text": "Menulis email kepada semua anggota tim untuk menyuarakan pendapat", "score": 2 }
+      ],
+      "explanation": "Jawaban: B. Berbicara langsung adalah pendekatan konstruktif untuk menyelesaikan masalah. A. Mengabaikan masalah tidak menyelesaikan konflik. C. Menghubungi manajer sebaiknya dilakukan setelah mencoba menyelesaikan sendiri. D. Email bisa memperburuk situasi jika tidak disampaikan dengan hati-hati."
+    },
+    {
+      "id": 38,
+      "text": "Dalam proyek komunitas, seorang anggota bernama Malik merasa tidak dilibatkan karena latar belakang budaya yang berbeda. Anda adalah pemimpin proyek. Apa yang akan Anda lakukan?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan situasi dan tetap fokus pada tugas proyek", "score": 1 },
+        { "key": "B", "text": "Mengundang Malik untuk menyampaikan ide-idenya dalam pertemuan tim", "score": 3 },
+        { "key": "C", "text": "Memberikan tugas tambahan kepada Malik agar merasa lebih terlibat", "score": 2 },
+        { "key": "D", "text": "Mengatur sesi diskusi untuk memahami perspektif budaya Malik", "score": 4 }
+      ],
+      "explanation": "Jawaban: D. Mengatur sesi diskusi menunjukkan upaya empati dan inklusi yang mendalam. A. Mengabaikan situasi menunjukkan kurangnya empati. B. Mengundang Malik untuk menyampaikan ide adalah langkah baik tetapi belum cukup. C. Memberikan tugas tambahan bisa membuat Malik merasa dibebani."
+    },
+    {
+      "id": 39,
+      "text": "Salah satu anggota tim sering bekerja lembur karena merasa tugasnya lebih berat. Rekan ini terlihat kelelahan dan mulai melakukan kesalahan. Apa yang sebaiknya Anda lakukan?",
+      "options": [
+        { "key": "A", "text": "Menyaran kepada manajer untuk menyesuaikan beban kerja", "score": 4 },
+        { "key": "B", "text": "Mengajak rekan tersebut berbicara dan menawarkan bantuan", "score": 3 },
+        { "key": "C", "text": "Memberikan motivasi dan menyarankan agar meminta bantuan jika diperlukan", "score": 1 },
+        { "key": "D", "text": "Mengatur jadwal kerja bersama tim untuk membagi pekerjaan lembur", "score": 2 }
+      ],
+      "explanation": "Jawaban: A. Menyarankan penyesuaian beban kerja menunjukkan empati dengan mencari solusi sistemik. B. Menawarkan bantuan adalah dukungan langsung namun mungkin tidak cukup. C. Memberikan motivasi kurang konkret. D. Membagi pekerjaan lembur mungkin tidak menyelesaikan ketidakadilan distribusi tugas."
+    },
+    {
+      "id": 40,
+      "text": "Salah satu anggota tim tidak menyelesaikan tugas tepat waktu, menghambat progres tim. Bagaimana Anda menangani situasi ini?",
+      "options": [
+        { "key": "A", "text": "Mengambil alih tugas tersebut dan menyelesaikannya sendiri", "score": 2 },
+        { "key": "B", "text": "Membicarakannya dalam rapat tim dan mencari solusi bersama", "score": 4 },
+        { "key": "C", "text": "Mengkritik anggota tim tersebut di depan semua orang", "score": 1 },
+        { "key": "D", "text": "Melaporkannya kepada manajer proyek", "score": 3 }
+      ],
+      "explanation": "Jawaban: B. Membicarakan dalam rapat tim menunjukkan transparansi dan kerjasama. A. Mengambil alih tugas bisa menciptakan ketergantungan. C. Mengkritik secara terbuka bisa mempermalukan anggota. D. Melaporkan kepada manajer sebaiknya dilakukan setelah mencoba menyelesaikan dalam tim."
+    },
+    {
+      "id": 41,
+      "text": "Seorang anggota tim mengalami masalah kesehatan serius tetapi tetap bekerja karena takut membebani rekan. Apa yang sebaiknya Anda lakukan?",
+      "options": [
+        { "key": "A", "text": "Mengusulkan kepada manajer agar tim diberikan bantuan tambahan", "score": 2 },
+        { "key": "B", "text": "Menyaran rekan tersebut beristirahat dan menawarkan bantuan sementara", "score": 3 },
+        { "key": "C", "text": "Mengajak rekan kerja lainnya untuk membagi tugas sementara", "score": 4 },
+        { "key": "D", "text": "Menghargai keputusan rekan tersebut untuk tetap bekerja", "score": 1 }
+      ],
+      "explanation": "Jawaban: C. Mengajak rekan lain membagi tugas menunjukkan empati dengan memberikan rekan tersebut izin fokus pada kesehatan. A. Mengusulkan bantuan tambahan tergantung persetujuan manajer. B. Menawarkan bantuan sementara masih memberikan kesan tanggung jawab diambil alih. D. Menghargai keputusan bekerja tidak memadai untuk situasi serius."
+    },
+    {
+      "id": 42,
+      "text": "Di perusahaan multinasional, karyawan baru bernama Ana dari negara lain merasa terisolasi. Anda adalah rekan satu tim Ana. Apa yang sebaiknya Anda lakukan?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan situasi karena sibuk dengan pekerjaan", "score": 1 },
+        { "key": "B", "text": "Mengajak Ana makan siang dan mengenal pengalamannya", "score": 4 },
+        { "key": "C", "text": "Mengatur pertemuan tim untuk mengenalkan Ana kepada semua anggota", "score": 3 },
+        { "key": "D", "text": "Mengirim email kepada seluruh tim tentang pentingnya inklusivitas", "score": 2 }
+      ],
+      "explanation": "Jawaban: B. Mengajak Ana makan siang menunjukkan upaya personal dan empati langsung. A. Mengabaikan situasi tidak membantu Ana merasa diterima. C. Mengatur pertemuan tim adalah langkah baik tetapi kurang personal. D. Mengirim email adalah tindakan baik tetapi tidak langsung membantu Ana."
+    },
+    {
+      "id": 43,
+      "text": "Rekan kerja mengajukan cuti mendadak karena anggota keluarga sakit parah. Ia merasa bersalah meninggalkan tanggung jawab. Bagaimana Anda menunjukkan empati?",
+      "options": [
+        { "key": "A", "text": "Mengatakan keluarga adalah prioritas dan menawarkan bantuan mengelola tugasnya", "score": 3 },
+        { "key": "B", "text": "Mengajak tim secara kolektif menangani pekerjaan yang tertinggal", "score": 4 },
+        { "key": "C", "text": "Menyaran rekan tersebut tidak khawatir dan fokus pada keluarga", "score": 1 },
+        { "key": "D", "text": "Mendukung keputusan cuti dan meminta manajer menambah anggota tim", "score": 2 }
+      ],
+      "explanation": "Jawaban: B. Mengajak tim menangani pekerjaan bersama menunjukkan empati dengan menimalisir beban mental rekan. A. Menawarkan bantuan adalah dukungan moral dan praktis. C. Menyarankan tidak khawatir tidak memberikan solusi tanggung jawab yang ditinggalkan. D. Meminta tambahan anggota tim tergantung persetujuan manajer."
+    },
+    {
+      "id": 44,
+      "text": "Di tempat kerja, rekan baru dari negara lain kesulitan menyesuaikan diri dengan budaya kerja. Bagaimana Anda bisa membantu?",
+      "options": [
+        { "key": "A", "text": "Membiarkannya beradaptasi sendiri tanpa intervensi", "score": 2 },
+        { "key": "B", "text": "Mengadakan sesi orientasi tentang budaya kerja perusahaan", "score": 4 },
+        { "key": "C", "text": "Meminta mereka mengadopsi budaya kerja secepatnya", "score": 3 },
+        { "key": "D", "text": "Menghindari berinteraksi dengan mereka agar tidak canggung", "score": 1 }
+      ],
+      "explanation": "Jawaban: B. Mengadakan sesi orientasi menunjukkan upaya aktif membantu adaptasi. A. Membiarkan beradaptasi sendiri memperpanjang masa adaptasi. C. Meminta mengadopsi budaya secepatnya menambah tekanan. D. Menghindari interaksi membuat mereka merasa terisolasi."
+    },
+    {
+      "id": 45,
+      "text": "Rekan baru di kantor tampak kesulitan beradaptasi dengan budaya kerja. Bagaimana Anda menunjukkan empati?",
+      "options": [
+        { "key": "A", "text": "Mengajaknya makan siang bersama tim secara informal", "score": 3 },
+        { "key": "B", "text": "Memberi waktu dan ruang lebih sambil memperkenalkan budaya kerja bertahap", "score": 2 },
+        { "key": "C", "text": "Menawarkan diri sebagai mentor untuk membantunya", "score": 4 },
+        { "key": "D", "text": "Menyaran manajemen mengadakan pelatihan komunikasi", "score": 1 }
+      ],
+      "explanation": "Jawaban: C. Menawarkan diri sebagai mentor memberikan dukungan langsung untuk adaptasi lebih cepat. A. Mengajak makan siang menciptakan suasana santai namun kurang membantu hambatan komunikasi profesional. B. Memberi waktu bisa memperlambat integrasi. D. Menyarankan pelatihan memakan waktu dan biaya."
+    },
+    {
+      "id": 46,
+      "text": "Di sekolah, terdapat siswa dari berbagai latar belakang suku dan agama. Bagaimana cara terbaik menghormati perbedaan dan memastikan persatuan?",
+      "options": [
+        { "key": "A", "text": "Menghindari berbicara tentang perbedaan", "score": 1 },
+        { "key": "B", "text": "Memperkenalkan budaya masing-masing kepada teman sekelas", "score": 4 },
+        { "key": "C", "text": "Mengelompokkan diri dengan yang sama suku dan agama", "score": 3 },
+        { "key": "D", "text": "Membatasi pergaulan hanya dengan teman satu suku", "score": 2 }
+      ],
+      "explanation": "Jawaban: B. Memperkenalkan budaya membantu menciptakan rasa saling menghormati. A. Menghindari perbedaan tidak membantu pemahaman. C. Mengelompokkan diri menciptakan segregasi. D. Membatasi pergaulan tidak mendukung persatuan."
+    },
+    {
+      "id": 47,
+      "text": "Rekan kerja memiliki gaya komunikasi sangat berbeda, sering menyebabkan miskomunikasi. Apa yang akan Anda lakukan?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan perbedaan dan tetap berkomunikasi dengan cara Anda", "score": 2 },
+        { "key": "B", "text": "Mengadakan diskusi untuk memahami gaya komunikasi masing-masing", "score": 4 },
+        { "key": "C", "text": "Meminta rekan kerja mengubah gaya komunikasinya", "score": 3 },
+        { "key": "D", "text": "Menghindari komunikasi langsung dengan rekan kerja tersebut", "score": 1 }
+      ],
+      "explanation": "Jawaban: B. Diskusi untuk memahami gaya komunikasi membantu mengurangi miskomunikasi. A. Mengabaikan perbedaan tidak menyelesaikan masalah. C. Meminta rekan kerja mengubah gaya bisa dianggap tidak sensitif. D. Menghindari komunikasi memperburuk kerjasama."
+    },
+    {
+      "id": 48,
+      "text": "Selama diskusi kelompok di kantor, Siti merasa tidak nyaman berbicara karena bahasa yang digunakan adalah bahasa kedua baginya. Anda memimpin diskusi. Apa yang akan Anda lakukan?",
+      "options": [
+        { "key": "A", "text": "Melanjutkan diskusi tanpa perubahan", "score": 1 },
+        { "key": "B", "text": "Menyediakan materi diskusi dalam bahasa yang lebih familiar bagi Siti", "score": 3 },
+        { "key": "C", "text": "Mengundang Siti berbicara dalam bahasa nyaman dan menyediakan penerjemah", "score": 4 },
+        { "key": "D", "text": "Menyederhanakan bahasa yang digunakan dalam diskusi", "score": 2 }
+      ],
+      "explanation": "Jawaban: C. Mengundang Siti berbicara dalam bahasa nyaman dan menyediakan penerjemah menunjukkan empati besar. A. Melanjutkan tanpa perubahan mengabaikan perasaan Siti. B. Menyediakan materi membantu tetapi tidak cukup untuk interaksi langsung. D. Menyederhanakan bahasa mungkin tidak sepenuhnya memadai."
+    },
+    {
+      "id": 49,
+      "text": "Mahasiswa dalam kelompok diskusi Anda terlihat kurang berpartisipasi karena masalah pribadi yang berat. Bagaimana Anda merespons?",
+      "options": [
+        { "key": "A", "text": "Mengajak teman tersebut berbicara setelah diskusi dan menanyakan cara mendukungnya", "score": 4 },
+        { "key": "B", "text": "Menyaran kelompok memberikan lebih banyak waktu untuk diskusi", "score": 3 },
+        { "key": "C", "text": "Memberikan motivasi untuk tetap fokus dan ingatkan pentingnya kontribusi", "score": 2 },
+        { "key": "D", "text": "Mengabaikan hal tersebut dan fokus pada diskusi", "score": 1 }
+      ],
+      "explanation": "Jawaban: A. Mengajak berbicara setelah diskusi memberikan dukungan langsung dan ruang untuk berbicara. B. Memberikan lebih banyak waktu mungkin tidak membantu jika masalah di luar akademik. C. Memberikan motivasi bisa dianggap kurang sensitif. D. Mengabaikan menunjukkan kurangnya empati."
+    },
+    {
+      "id": 50,
+      "text": "Di perusahaan multinasional, terjadi ketegangan antara dua tim dari budaya berbeda karena perbedaan cara bekerja. Bagaimana Anda mengatasi situasi ini?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan masalah dan berharap situasi membaik sendiri", "score": 1 },
+        { "key": "B", "text": "Mengadakan pertemuan antara kedua tim untuk membahas perbedaan", "score": 4 },
+        { "key": "C", "text": "Memisahkan kedua tim dan memastikan tidak perlu berinteraksi", "score": 2 },
+        { "key": "D", "text": "Mengajukan usulan kepada manajemen untuk memindahkan salah satu tim", "score": 3 }
+      ],
+      "explanation": "Jawaban: B. Pertemuan untuk membahas perbedaan membantu menciptakan pemahaman. A. Mengabaikan masalah bisa memperburuk situasi. C. Memisahkan tim tidak menyelesaikan masalah inti. D. Memindahkan tim adalah solusi sementara."
+    },
+    {
+      "id": 51,
+      "text": "Sebuah proyek pembangunan infrastruktur di daerah Anda berdampak pada tanah masyarakat adat dan ritual budaya mereka. Bagaimana Anda menangani situasi ini?",
+      "options": [
+        { "key": "A", "text": "Melanjutkan proyek sesuai rencana karena sudah dapat persetujuan pemerintah", "score": 1 },
+        { "key": "B", "text": "Menawarkan kompensasi finansial kepada masyarakat adat", "score": 3 },
+        { "key": "C", "text": "Mengubah rencana pembangunan untuk meminimalkan dampak", "score": 2 },
+        { "key": "D", "text": "Melibatkan masyarakat adat dalam konsultasi untuk memahami kekhawatiran mereka", "score": 4 }
+      ],
+      "explanation": "Jawaban D. Melibatkan masyarakat adat dalam konsultasi menunjukkan pendekatan partisipatif dan menghargai keberagaman budaya. A. Melanjutkan proyek menunjukkan kurangnya kepekaan. B. Kompensasi finansial pragmatis tetapi kurang menghargai aspek budaya. C. Mengubah rencana adalah solusi jangka pendek yang tidak melibatkan masyarakat aktif."
+    },
+    {
+      "id": 52,
+      "text": "Saat masuk ke lingkungan baru yang penuh orang belum dikenal, apa yang pertama akan Anda lakukan untuk membangun hubungan sosial?",
+      "options": [
+        { "key": "A", "text": "Menyendiri dan mengamati interaksi dari kejauhan", "score": 1 },
+        { "key": "B", "text": "Menyapa dan memperkenalkan diri kepada orang di sekitar", "score": 4 },
+        { "key": "C", "text": "Menunggu sampai ada yang mendekati Anda terlebih dahulu", "score": 2 },
+        { "key": "D", "text": "Bertanya kepada orang terdekat tentang siapa yang bisa diajak berteman", "score": 3 }
+      ],
+      "explanation": "Jawaban: B. Menyapa dan memperkenalkan diri menunjukkan sikap proaktif dan niat baik. A. Menyendiri bisa membuat Anda terlihat tertutup. C. Menunggu menunjukkan kurangnya inisiatif. D. Bertanya kepada orang lain tidak menggantikan inisiatif pribadi."
+    },
+    {
+      "id": 53,
+      "text": "Dalam tim kerja dengan anggota dari berbagai latar belakang, terjadi perbedaan pendapat tajam saat membahas proyek penting. Bagaimana cara terbaik merespons?",
+      "options": [
+        { "key": "A", "text": "Mengabaikan pendapat yang berbeda dan tetap pada keputusan awal", "score": 1 },
+        { "key": "B", "text": "Mendengarkan semua pendapat dan mencari solusi bersama", "score": 4 },
+        { "key": "C", "text": "Hanya mempertimbangkan pendapat yang mendukung Anda", "score": 2 },
+        { "key": "D", "text": "Meminta atasan membuat keputusan", "score": 3 }
+      ],
+      "explanation": "Jawaban: B. Mendengarkan semua pendapat dan mencari solusi bersama menunjukkan kepemimpinan inklusif. A. Mengabaikan pendapat berbeda bisa menyebabkan ketidakpuasan. C. Mempertimbangkan hanya pendapat yang mendukung menunjukkan bias. D. Meminta atasan membuat keputusan tidak mengembangkan kemampuan tim."
+    },
+    {
+      "id": 54,
+      "text": "Sekolah mengadakan festival budaya melibatkan semua siswa. Beberapa siswa bingung berpartisipasi tanpa menyinggung teman berbeda latar belakang. Bagaimana cara terbaik?",
+      "options": [
+        { "key": "A", "text": "Menghindari berbicara tentang perbedaan", "score": 2 },
+        { "key": "B", "text": "Memperkenalkan budaya masing-masing dengan cara menghormati dan mengedukasi", "score": 4 },
+        { "key": "C", "text": "Mengelompokkan diri dengan teman latar belakang sama", "score": 3 },
+        { "key": "D", "text": "Membatasi pergaulan hanya dengan teman satu suku dan agama", "score": 1 }
+      ],
+      "explanation": "Jawaban: B. Memperkenalkan budaya dengan cara menghormati dan mengedukasi adalah cara terbaik. A. Menghindari topik perbedaan tidak mengedukasi tentang toleransi. C. Mengelompokkan diri menunjukkan kurangnya usaha memahami keberagaman. D. Membatasi pergaulan memperkuat stereotip."
+    },
+    {
+      "id": 55,
+      "text": "Di kelas, siswa baru bernama Amira dari suku berbeda sering duduk sendirian. Apa yang akan Anda lakukan?",
+      "options": [
+        { "key": "A", "text": "Mengajak beberapa teman dekat untuk mendekati Amira dan mengajaknya bermain", "score": 4 },
+        { "key": "B", "text": "Membiarkannya tanpa interaksi lebih lanjut", "score": 1 },
+        { "key": "C", "text": "Sesekali berbicara dengan Amira tapi tidak melakukan lebih", "score": 2 },
+        { "key": "D", "text": "Menyapanya dengan ramah tapi tidak mengajak bicara lebih lanjut", "score": 3 }
+      ],
+      "explanation": "Jawaban: A. Mengajak teman mendekati Amira menunjukkan upaya nyata untuk melibatkan. B. Membiarkan tanpa interaksi menunjukkan kurangnya inisiatif. C. Sesekali berbicara kurang inisiatif. D. Menyapa tapi tidak mengajak bicara lebih lanjut terbatas."
+    },
+    {
+      "id": 56,
+      "text": "Teman Anda, Lina, akan merayakan hari besar keagamaan yang berbeda dengan Anda. Apa yang akan Anda lakukan?",
+      "options": [
+        { "key": "A", "text": "Menghindari semua perayaan tersebut", "score": 1 },
+        { "key": "B", "text": "Mengucapkan selamat kepada Lina dan teman lainnya", "score": 3 },
+        { "key": "C", "text": "Menghadiri perayaan jika diundang", "score": 4 },
+        { "key": "D", "text": "Membicarakan perayaan tanpa ikut serta", "score": 2 }
+      ],
+      "explanation": "Jawaban: C. Menghadiri perayaan jika diundang adalah cara terbaik menunjukkan dukungan. A. Menghindari perayaan menunjukkan kurangnya rasa hormat. B. Mengucapkan selamat adalah langkah baik tetapi kurang dari partisipasi. D. Membicarakan tanpa ikut serta tidak memberikan dukungan kuat."
+    },
+    {
+      "id": 57,
+      "text": "Anda menyaksikan konflik serius antara dua teman baik, Andi dan Budi. Apa tindakan terbaik?",
+      "options": [
+        { "key": "A", "text": "Membiarkan mereka menyelesaikan sendiri", "score": 2 },
+        { "key": "B", "text": "Mencoba memahami masalah dan membantu mencari solusi bersama", "score": 4 },
+        { "key": "C", "text": "Memihak salah satu teman tanpa mendengar sisi lain", "score": 1 },
+        { "key": "D", "text": "Mendengarkan keduanya tapi tidak menawarkan solusi", "score": 3 }
+      ],
+      "explanation": "Jawaban: B. Mencoba memahami masalah dan membantu mencari solusi menunjukkan empati dan keterampilan mediasi. A. Membiarkan mereka menyelesaikan sendiri bisa memperburuk konflik. C. Memihak salah satu teman menunjukkan bias. D. Mendengarkan tanpa menawarkan solusi kurang proaktif."
+    },
+    {
+      "id": 58,
+      "text": "Saat menerima kritik konstruktif dari rekan kerja, bagaimana Anda merespons paling bermanfaat?",
+      "options": [
+        { "key": "A", "text": "Marah dan merasa diserang", "score": 1 },
+        { "key": "B", "text": "Mendengarkan dengan seksama dan berusaha memperbaiki diri", "score": 4 },
+        { "key": "C", "text": "Mengabaikan kritik tersebut", "score": 2 },
+        { "key": "D", "text": "Menerima kritik tanpa menunjukkan reaksi", "score": 3 }
+      ],
+      "explanation": "Jawaban: B. Mendengarkan dan mencoba memperbaiki diri menunjukkan sikap profesional dan keterbukaan. A. Marah menghambat perkembangan diri. C. Mengabaikan kritik menunjukkan ketidakpedulian. D. Menerima tanpa merespons menunjukkan sikap pasif."
+    },
+    {
+      "id": 59,
+      "text": "Anda berteman dengan siswa baru bernama Budi dari budaya berbeda. Bagaimana Anda lebih mengenal budayanya?",
+      "options": [
+        { "key": "A", "text": "Mencari buku atau artikel tentang budaya Budi", "score": 3 },
+        { "key": "B", "text": "Mengajak Budi berdiskusi tentang budayanya", "score": 4 },
+        { "key": "C", "text": "Mengabaikan perbedaan budaya", "score": 2 },
+        { "key": "D", "text": "Bertanya kepada orang lain tentang budaya Budi", "score": 1 }
+      ],
+      "explanation": "Jawaban: B. Mengajak Budi berdiskusi melibatkan komunikasi langsung dan interaksi personal. A. Membaca buku memberikan perspektif umum tetapi tidak personal. C. Mengabaikan perbedaan bisa membuat Budi merasa tidak dihargai. D. Bertanya kepada orang lain bisa menyebabkan miskomunikasi."
+    },
+    {
+      "id": 60,
+      "text": "Sebagai pengelola program, Anda mendapat informasi kelompok minoritas merasa tidak mendapat akses adil terhadap layanan publik. Bagaimana merespons?",
+      "options": [
+        { "key": "A", "text": "Menyaran kelompok minoritas menggunakan mekanisme pengaduan resmi", "score": 2 },
+        { "key": "B", "text": "Mengadakan diskusi lanjutan dengan kelompok minoritas", "score": 3 },
+        { "key": "C", "text": "Menginisiasi penilaian kebutuhan di seluruh kota", "score": 4 },
+        { "key": "D", "text": "Mengambil tindakan segera di area yang dikeluhkan", "score": 1 }
+      ],
+      "explanation": "Jawaban: C. Menginisiasi penilaian kebutuhan di seluruh kota menunjukkan pendekatan komprehensif untuk keadilan. A. Menyarankan pengaduan resmi kurang responsif. B. Diskusi lanjutan berfokus pada satu kelompok. D. Tindakan segera tanpa evaluasi kebutuhan lebih luas bersifat
