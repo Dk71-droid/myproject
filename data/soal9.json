@@ -328,7 +328,7 @@
         { "key": "B", "text": "Menyarankan salah satu pihak untuk mengalah", "score": 2 },
         { "key": "C", "text": "Saya netral dan tidak mau ikut campur", "score": 1 },
         { "key": "D", "text": "Langsung meminta atasan menyelesaikan konflik", "score": 3 }
-       },
+      ],
 {
       "id": 31,
       "text": "Di sebuah sekolah, seorang murid baru bersama Rina sering kali mengalami kesulitan berkomunikasi dengan teman-temannya karena bahasa ibunya berbeda. Anda adalah guru kelas tersebut. Apa yang akan Anda lakukan untuk membantu Rina beradaptasi?",
