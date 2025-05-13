@@ -329,6 +329,8 @@
         { "key": "C", "text": "Saya netral dan tidak mau ikut campur", "score": 1 },
         { "key": "D", "text": "Langsung meminta atasan menyelesaikan konflik", "score": 3 }
       ],
+"explanation": "Jawaban A paling tepat karena mencerminkan sikap objektif dan mampu menyelesaikan masalah secara langsung. B bisa menyelesaikan konflik tapi tidak adil. C pasif dan kurang bertanggung jawab. D terlalu cepat menyerahkan pada pihak lain padahal Anda bisa berperan aktif."
+    },
 {
       "id": 31,
       "text": "Di sebuah sekolah, seorang murid baru bersama Rina sering kali mengalami kesulitan berkomunikasi dengan teman-temannya karena bahasa ibunya berbeda. Anda adalah guru kelas tersebut. Apa yang akan Anda lakukan untuk membantu Rina beradaptasi?",
