@@ -1,0 +1,170 @@
+{
+  "fileName": "Soal Wawancara PPPK - Pembahasan Naratif Lengkap",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Kampungmu mengadakan acara pentas. Anda bertugas menyebarkan undangan. Acara akan dimulai dua jam lagi dan semua undangan sudah tiba. Anda baru ingat lupa mengundang satu orang. Sikap Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Mengantar langsung ke orang tersebut", "score": 4 },
+        { "key": "B", "text": "Membiarkan saja sebab merasa cukup dengan jumlah orang yang telah hadir", "score": 1 },
+        { "key": "C", "text": "Menelpon orang tersebut dan menyampaikan bahwa kami lupa mengantar undangan", "score": 3 },
+        { "key": "D", "text": "Memarahi panitia lain yang tidak mengingatkan", "score": 2 }
+      ],
+      "explanation": "Opsi A adalah yang paling tepat karena menunjukkan komitmen untuk menyelesaikan tugas dengan baik meskipun sempat lupa. Opsi B tidak tepat karena mengabaikan tanggung jawab. Opsi C kurang efektif karena tugas awal adalah mengantar undangan secara langsung, bukan melalui telepon. Opsi D tidak produktif karena menyalahkan orang lain."
+    },
+    {
+      "id": 2,
+      "text": "Setiap hari minggu anak-anak muda membuat tongkrongan di desa. Pak RT sudah memberikan peringatan agar mereka tidak mengganggu warga yang sedang istirahat. Hari ini mereka kembali berkumpul dan menyalakan musik keras. Bagaimana tindakan Anda?",
+      "options": [
+        { "key": "A", "text": "Saya membiarkan mereka sebab pak RT sudah mengingatkan", "score": 1 },
+        { "key": "B", "text": "Saya melaporkan mereka ke pak RT lagi agar mereka ditegur", "score": 3 },
+        { "key": "C", "text": "Saya menemui mereka dan menyarankannya untuk mengecilkan suara", "score": 4 },
+        { "key": "D", "text": "Saya mendoakan mereka agar kegiatan tongkrongannya bisa lebih bermanfaat", "score": 2 }
+      ],
+      "explanation": "Opsi C paling tepat karena langsung menangani masalah dengan cara yang baik. Opsi A tidak tepat karena membiarkan pelanggaran aturan. Opsi B kurang efektif karena masalah bisa diselesaikan tanpa melibatkan Pak RT lagi. Opsi D tidak menyelesaikan masalah secara langsung."
+    },
+    {
+      "id": 3,
+      "text": "Rina membuat lukisan dan mengikuti pameran lukisan. Teman Rina menyanjung langsung karya Rina yang dianggap sangat luar biasa. Akan tetapi banyak yang berpendapat bahwa karya tersebut bukan milik Rina. Bagaimana pendapat Anda?",
+      "options": [
+        { "key": "A", "text": "Saya berterus terang kepada Rina bahwa banyak yang tidak mengakui karyanya", "score": 3 },
+        { "key": "B", "text": "Saya mengumpulkan semua teman dekat Rina untuk mengingatkan Rina", "score": 1 },
+        { "key": "C", "text": "Saya memutuskan untuk bicara langsung pada Rina terkait hal ini", "score": 2 },
+        { "key": "D", "text": "Saya meminta Rina untuk konferensi terkait lukisan tersebut adalah karyanya", "score": 4 }
+      ],
+      "explanation": "Opsi D paling tepat karena memberikan solusi konkret untuk membuktikan keaslian karya. Opsi A hanya menyampaikan masalah tanpa solusi. Opsi B tidak tepat karena melibatkan banyak orang yang tidak perlu. Opsi C kurang efektif karena hanya memutuskan untuk bicara tanpa tindakan nyata."
+    },
+    {
+      "id": 4,
+      "text": "Anda sedang bersih-bersih rumah. Saat menyapu rumah ternyata sapu yang Anda gunakan patah. Anda melihat sapu tetangga tergeletak di luar. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya memakai sapu tetangga tanpa sepengetahuannya", "score": 1 },
+        { "key": "B", "text": "Saya memakai sapu tetangga dan menyampaikan saya sudah meminjamnya setelah tetangga keluar rumah", "score": 2 },
+        { "key": "C", "text": "Saya menunggu tetangga keluar rumah dan meminjam", "score": 3 },
+        { "key": "D", "text": "Saya mengerjakan pekerjaan lain terlebih dulu seraya menunggu tetangga untuk meminjam sapu", "score": 4 }
+      ],
+      "explanation": "Opsi D paling tepat karena menunjukkan etika yang baik dengan tidak menggunakan barang orang lain tanpa izin. Opsi A tidak etis. Opsi B kurang tepat karena tetap menggunakan tanpa izin terlebih dahulu. Opsi C bisa membuat waktu terbuang sia-sia menunggu."
+    },
+    {
+      "id": 5,
+      "text": "Anda adalah seorang juru masak. Suatu hari Anda mendapatkan pesanan pembuatan kue yang banyak. Di pertengahan proses pembuatan, telur ayam habis. Anda sudah menghubungi penjual telur yang biasanya tempat beli akan tetapi ia mengatakan bahwa telurnya habis dan akan ada sekitar 3 jam lagi. Ia menawarkan agar Anda mengganti bahan dari telur ayam menjadi telur bebek sebab telur bebek tersedia banyak. Sikap Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya mengikuti sarannya untuk menggunakan telur bebek sebab hasilnya akan menjadi lebih baik", "score": 2 },
+        { "key": "B", "text": "Saya tetap menunggu telur ayam tersedia", "score": 4 },
+        { "key": "C", "text": "Saya mencari telur ayam di tempat lain saja sebab saya khawatir pelanggan akan segera datang mengambil pesanannya", "score": 3 },
+        { "key": "D", "text": "Saya memilih telur bebek jika ia memberikan harga sama dengan telur ayam", "score": 1 }
+      ],
+      "explanation": "Opsi B paling tepat karena menunjukkan komitmen pada kualitas dan resep asli. Opsi A tidak tepat karena mengubah bahan utama. Opsi C kurang tepat karena mencari di tempat lain belum tentu berhasil. Opsi D tidak profesional karena mempertimbangkan harga bukan kualitas."
+    },
+    {
+      "id": 6,
+      "text": "Anda menuju sebuah kafe Z. Disana ada aturan tidak boleh membawa makanan dan minuman dari luar. Sedangkan anak Anda sedang makan ice creamnya. Anda sudah memintanya membuang saja ice creamnya untuk menghargai aturan kafe akan tetapi anak Anda menangis. Sikap Anda…",
+      "options": [
+        { "key": "A", "text": "Saya izin kepada pemilik kafe sebab ia pasti paham anak-anak akan menangis jika dilarang", "score": 2 },
+        { "key": "B", "text": "Saya memintanya untuk menghabiskan ice creamnya terlebih dulu sebelum masuk kafe", "score": 4 },
+        { "key": "C", "text": "Saya memintanya untuk tetap membuang ice creamnya dan memesan makanan lain di kafe", "score": 3 },
+        { "key": "D", "text": "Saya mencari kafe lain yang tidak menerapkan aturan tersebut", "score": 1 }
+      ],
+      "explanation": "Opsi B paling tepat karena menghargai aturan kafe sekaligus memahami perasaan anak. Opsi A tidak menghargai aturan sepenuhnya. Opsi C kurang baik karena memaksa anak membuang makanan. Opsi D tidak praktis dan menunjukkan ketidakpatuhan."
+    },
+    {
+      "id": 7,
+      "text": "Anda sedang menginap di sebuah hotel. Salah satu pengunjung hotel terlihat kelelahan dan butuh istirahat. Akan tetapi ia belum memesan kamar hotel sedangkan anda sudah tinggal sejak kemarin di hotel tersebut. Sikapmu adalah…",
+      "options": [
+        { "key": "A", "text": "Saya memintanya untuk istirahat di ruang tunggu terlebih dulu sebelum mendapat giliran memesan kamar", "score": 4 },
+        { "key": "B", "text": "Saya mengajaknya istirahat di kamar saya meski tanpa izin pihak hotel sebab keadaan darurat", "score": 2 },
+        { "key": "C", "text": "Saya minta pelayan hotel untuk mendahulukannya saja agar ia bisa segera istirahat yang nyenyak", "score": 3 },
+        { "key": "D", "text": "Saya prihatin namun tidak dapat berbuat lebih sebab hotel bukan milik saya", "score": 1 }
+      ],
+      "explanation": "Opsi A paling tepat karena memberikan solusi yang sopan dan sesuai aturan. Opsi B tidak tepat karena melanggar kebijakan hotel. Opsi C kurang tepat karena meminta perlakuan khusus. Opsi D menunjukkan ketidakpedulian."
+    },
+    {
+      "id": 8,
+      "text": "Anda sedang mengantri untuk membeli obat di sebuah apotek. Anda berada di antrian kedua akan tetapi keluarga menelpon meminta Anda untuk segera membawa obat yang diperlukan disebabkan saudara yang sedang sakit menangis terus menerus kesakitan. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya meminta didahulukan sebab keadaan darurat", "score": 3 },
+        { "key": "B", "text": "Saya meminta keluarga saya bersabar sebab saya sudah berada diurutan kedua", "score": 4 },
+        { "key": "C", "text": "Saya menyerobot antrian di depan saya sebab ia tidak dalam keadaan darurat", "score": 1 },
+        { "key": "D", "text": "Saya mengabaikan telpon keluarga saya sebab saya tidak ingin ada kecelakaan akibat terburu-buru", "score": 2 }
+      ],
+      "explanation": "Opsi B paling tepat karena menghargai antrian sambil menyadari posisi sudah hampir mendapat giliran. Opsi A kurang tepat karena belum tentu dianggap darurat oleh pihak apotek. Opsi C sangat tidak sopan. Opsi D menunjukkan ketidakpedulian pada keluarga."
+    },
+    {
+      "id": 9,
+      "text": "Anda adalah seorang panitia acara di desa. Sejak awal sudah ditetapkan bahwa hanya akan ada juara 1, 2, dan 3. Akan tetapi beberapa peserta sulit untuk dieliminasi sehingga salah satu panitia mengusulkan agar ada juara 1, 2, dan 3 harapan. Sikap Anda adalah",
+      "options": [
+        { "key": "A", "text": "Saya menerima usulan tersebut agar proses penentuan juara lomba semakin mudah ditentukan", "score": 1 },
+        { "key": "B", "text": "Saya menolak usulan tersebut sebuah tidak ada kesepakan tersebut sebelumnya", "score": 4 },
+        { "key": "C", "text": "Saya mempertimbangkan untuk menerima usulan tersebut setelah berdiskusi lebih lanjut", "score": 2 },
+        { "key": "D", "text": "Saya memikirkan cara terbaik untuk menyelesaikan masalah ini", "score": 3 }
+      ],
+      "explanation": "Opsi B paling tepat karena memegang teguh aturan yang sudah disepakati. Opsi A tidak profesional karena mengubah aturan di tengah jalan. Opsi C menunjukkan keraguan pada keputusan awal. Opsi D terlalu umum dan tidak tegas."
+    },
+    {
+      "id": 10,
+      "text": "Anda adalah salah seorang panitia acara perayaan 17 agustus di desa. Anda bertugas untuk menyiapkan segala peralatan yang mendukung agar acara berjalan lancar. Beberapa saat sebelum acara lomba dimulai salah satu sound system bermasalah dan tidak dapat digunakan. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya tetap menjalankan lomba sesuai jadwal semula tanpa menggunakan sound system", "score": 1 },
+        { "key": "B", "text": "Saya menunda acara sampai sound system bisa diperbaiki", "score": 2 },
+        { "key": "C", "text": "Saya mencari sound system lain yang bisa berfungsi", "score": 4 },
+        { "key": "D", "text": "Saya mengupayakan acara berjalan sesuai rencana semua", "score": 3 }
+      ],
+      "explanation": "Opsi C paling tepat karena langsung mencari solusi konkret. Opsi A tidak profesional karena mengabaikan kebutuhan teknis acara. Opsi B kurang efektif karena menunda acara. Opsi D terlalu umum tanpa tindakan spesifik."
+    },
+    {
+      "id": 11,
+      "text": "Anda mengantri di sebuah swalayan. Anda melihat salah satu pelanggan di belakang adalah ibu hamil. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Mempercepat system antrian agar ibu hamil segera mendapatkan pelayanan", "score": 1 },
+        { "key": "B", "text": "Meminta kasir untuk mendahulukannya dengan meminta izin terlebih dulu pada pelanggan lain", "score": 4 },
+        { "key": "C", "text": "Bertukar posisi antrian saya dengannya meski antrian saya masih jauh", "score": 2 },
+        { "key": "D", "text": "Meminta orang di antrian pertama mengikhlaskan bertukar posisi dengan ibu hamil", "score": 3 }
+      ],
+      "explanation": "Opsi B paling tepat karena sopan dan efektif. Opsi A tidak logis karena sebagai pelanggan tidak bisa mempercepat sistem. Opsi C kurang efektif jika antrian masih panjang. Opsi D bisa memberatkan orang di antrian pertama."
+    },
+    {
+      "id": 12,
+      "text": "Anda sedang melayani seorang pelanggan. Tiba-tiba seorang kakek tua menyerobot antrian dan meminta untuk didahulukan atas alasan mendesak. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya mendahulukannya sebab orang tua mendapatkan prioritas pelayanan", "score": 3 },
+        { "key": "B", "text": "Saya menyelesaikan untuk melayani pelanggan sebelum melayani kakek", "score": 4 },
+        { "key": "C", "text": "Saya tidak menghiraukannya sebab ia tidak sopan", "score": 1 },
+        { "key": "D", "text": "Saya meminta kesediaannya untuk mengantri demi kenyamanan bersama", "score": 2 }
+      ],
+      "explanation": "Opsi B paling tepat karena profesional dan adil. Opsi A bisa merugikan pelanggan yang sedang dilayani. Opsi C tidak sopan. Opsi D kurang tepat karena kakek sudah menyerobot."
+    },
+    {
+      "id": 13,
+      "text": "Anda biasa membuang sampah di lokasi X. Saat Anda hendak membuang sampah lagi ada spanduk terbentang menghimbau agar tidak ada lagi yang membuang sampah di tempat tersebut. Anda melihat masih banyak sampah disana dan Anda terburu-buru untuk kuliah. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya membuang untuk terakhir kalinya", "score": 1 },
+        { "key": "B", "text": "Saya membuang sampah sebab masih banyak sampah belum dibersihkan", "score": 2 },
+        { "key": "C", "text": "Saya menitip sampah pada orang sekitar yang sedang membersihkan sampah", "score": 3 },
+        { "key": "D", "text": "Saya membuang sampah untuk dibuang di tempat lain", "score": 4 }
+      ],
+      "explanation": "Opsi D paling tepat karena patuh pada aturan baru. Opsi A dan B melanggar himbauan. Opsi C sama saja dengan membuang sampah di tempat yang dilarang."
+    },
+    {
+      "id": 14,
+      "text": "Teman lama meminta Anda untuk datang ke restorannya. Ia ingin Anda memberikan masukan pada makanannya. Anda terkenal sebagai murid yang pandai memasak saat berada di bangku sekolah menengah. Namun Anda sudah lama tidak memasak. Tindakan Anda adalah…",
+      "options": [
+        { "key": "A", "text": "Saya tetap datang memenuhi permintaannya dengan kemampuan terbatas", "score": 3 },
+        { "key": "B", "text": "Saya membawa kenalan yang lebih kompeten untuk membantunya", "score": 4 },
+        { "key": "C", "text": "Saya memintanya untuk mengundang teman yang lain saja", "score": 2 },
+        { "key": "D", "text": "Saya menolak permintaanya sebab bukan saya orang yang dibutuhkan", "score": 1 }
+      ],
+      "explanation": "Opsi B paling tepat karena jujur tentang kemampuan sekaligus membantu teman. Opsi A kurang ideal karena memberikan masukan dengan kemampuan terbatas. Opsi C kurang membantu. Opsi D terlalu menolak permintaan teman."
+    },
+    {
+      "id": 15,
+      "text": "Anda sedang menikmati liburan Panjang akhir tahun 2024, dengan tidak sengaja Anda menyaksikan kecelakaan antara motor dan mobil. Hanya anda yang melihat kejadian tersebut. Mereka meminta anda menjadi saksi kejadian dan ikut ke kantor polisi. Bagaimana tanggapan Anda?",
+      "options": [
+        { "key": "A", "text": "Saya mengaku sedang berlibur dan tidak mengetahui kejadian tersebut", "score": 1 },
+        { "key": "B", "text": "Saya meminta mereka memeriksa seluruh cctv jalanan jika tersedia", "score": 2 },
+        { "key": "C", "text": "Saya bersedia membantu penyelidikan", "score": 4 },
+        { "key": "D", "text": "Saya bersedia memberikan kesaksian di lokasi kecelakaan saja agar waktu liburan saya lebih efektif", "score": 3 }
+      ],
+      "explanation": "Opsi C paling tepat karena tanggung jawab sosial sebagai saksi. Opsi A tidak jujur. Opsi B mengalihkan tanggung jawab. Opsi D setengah hati dalam membantu."
+    }
+  ]
+}
