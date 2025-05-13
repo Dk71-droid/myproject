@@ -330,9 +330,6 @@
         { "key": "D", "text": "Langsung meminta atasan menyelesaikan konflik", "score": 3 }
        },
 {
-  "fileName": "Soal Sosiokultural PPPK - Pembahasan Lengkap",
-  "questions": [
-    {
       "id": 31,
       "text": "Di sebuah sekolah, seorang murid baru bersama Rina sering kali mengalami kesulitan berkomunikasi dengan teman-temannya karena bahasa ibunya berbeda. Anda adalah guru kelas tersebut. Apa yang akan Anda lakukan untuk membantu Rina beradaptasi?",
       "options": [
@@ -347,7 +344,7 @@
       "id": 32,
       "text": "Di lingkungan tempat tinggal Anda, ada dua kelompok masyarakat yang memiliki pandangan berbeda mengenai cara terbaik untuk mengelola taman bersama. Ketegangan di antara mereka semakin meningkat. Apa yang akan Anda lakukan untuk membantu menjaga persatuan?",
       "options": [
-        { "key": "A", "text": "Meminta kedua kelompok untuk menyelesaikan masalah sendiri", "score": 1 },
+        { "key": "A", "text": "Memita kedua kelompok untuk menyelesaikan masalah sendiri", "score": 1 },
         { "key": "B", "text": "Mengadakan pertemuan komunitas untuk membahas masalah dan mencari solusi bersama", "score": 4 },
         { "key": "C", "text": "Mendukung salah satu kelompok yang menurut Anda benar", "score": 3 },
         { "key": "D", "text": "Menghindari keterlibatan dalam masalah tersebut", "score": 2 }
